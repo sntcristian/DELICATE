@@ -51,8 +51,8 @@ def encode_mention_from_dict(doc):
     mentions = []
 
     for annotation in annotations:
-        start = int(annotation["start"])
-        end = int(annotation["end"])
+        start = int(annotation["start_pos"])
+        end = int(annotation["end_pos"])
         blink_dict = {
             'context_left': doc["text"][:start],
             'context_right': doc["text"][end],
@@ -81,8 +81,8 @@ def encode_mention_from_dict(doc):
 
 
 params = {
-    "biencoder_model":"BLINK_models/blink_biencoder_base_wikipedia_ita/pytorch_model.bin",
-    "biencoder_config":"BLINK_models/blink_biencoder_base_wikipedia_ita/config.json"
+    "biencoder_model":"ELITE_models/blink_biencoder_base_wikipedia_ita/pytorch_model.bin",
+    "biencoder_config":"ELITE_models/blink_biencoder_base_wikipedia_ita/config.json"
 }
 
 
