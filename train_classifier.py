@@ -1,4 +1,4 @@
-from feature_selector import load_json_data, compute_features
+from elite.feature_selector import load_json_data, compute_features
 import os
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
@@ -62,7 +62,7 @@ def objective(params):
 print("\n -------------------------\n Starting hyper-parameter optimization: \n")
 trials = Trials()
 best_params = fmin(fn=objective, space=space, algo=tpe.suggest, max_evals=100, trials=trials)
-print("Best parameters:", best_params)
+
 
 # Train the model with the best parameters found
 best_params['n_estimators'] = [50, 100, 150, 200, 250, 300, 350, 400, 450, 500][best_params['n_estimators']]
@@ -70,9 +70,14 @@ best_params['max_depth'] = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17,
 best_params['max_features'] = ['sqrt', 'log2', None][best_params['max_features']]
 best_params['criterion'] = ['gini', 'entropy'][best_params['criterion']]
 
+with open(os.path.join(output_directory, "best_params_rf.txt"), "w") as f:
+    f.write(str(best_params))
+f.close()
+print("Best parameters: ", best_params)
+
 final_model = RandomForestClassifier(**best_params, random_state=42)
-final_model.fit(df_train, y_train)
-final_preds = final_model.predict_proba(df_test)[:, 1]
+final_model.fit(X_train, y_train)
+final_preds = final_model.predict_proba(X_test)[:, 1]
 final_auc = roc_auc_score(y_test, final_preds)
 print(f"ROC AUC Score on the Test Set: {final_auc}")
 
