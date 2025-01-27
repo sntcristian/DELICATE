@@ -1,4 +1,4 @@
-from elite.feature_selector import load_json_data, compute_features
+from elite.feature_selector import load_json_data, get_training_features
 import os
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
@@ -8,24 +8,24 @@ from joblib import dump
 
 
 json_data_path = "./DZ_results"
-output_directory = "./ELITE_models"
+output_directory = "./ELITE_models/DZ"
 
-training_json_path = os.path.join(json_data_path, "candidates_train.json")
-dev_json_path = os.path.join(json_data_path, "candidates_dev.json")
-test_json_path = os.path.join(json_data_path, "candidates_test.json")
+training_json_path = os.path.join(json_data_path, "candidates_train20.json")
+dev_json_path = os.path.join(json_data_path, "candidates_dev20.json")
+test_json_path = os.path.join(json_data_path, "candidates_test20.json")
 
 print("\n -------------------------\n Computing features for train data: \n")
 train_data = load_json_data(training_json_path)
-train_features = compute_features(train_data)
+train_features = get_training_features(train_data, k=3)
 
 print("\n -------------------------\n Computing features for dev data: \n")
 dev_data = load_json_data(dev_json_path)
-dev_features = compute_features(dev_data)
+dev_features = get_training_features(dev_data, k=3)
 
 
 print("\n -------------------------\n Computing features for test data: \n")
 test_data = load_json_data(test_json_path)
-test_features = compute_features(test_data)
+test_features = get_training_features(test_data, k=3)
 
 
 df_train = pd.DataFrame(train_features)
@@ -69,6 +69,9 @@ best_params['n_estimators'] = [50, 100, 150, 200, 250, 300, 350, 400, 450, 500][
 best_params['max_depth'] = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20][best_params['max_depth']]
 best_params['max_features'] = ['sqrt', 'log2', None][best_params['max_features']]
 best_params['criterion'] = ['gini', 'entropy'][best_params['criterion']]
+
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
 
 with open(os.path.join(output_directory, "best_params_rf.txt"), "w") as f:
     f.write(str(best_params))

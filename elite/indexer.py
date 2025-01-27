@@ -2,8 +2,6 @@ import sqlite3
 import numpy as np
 import base64
 import sys
-
-sys.path.insert(0, 'BLINK_master')
 from blink.main_dense import load_biencoder, _process_biencoder_dataloader
 from blink.indexer.faiss_indexer import DenseHNSWFlatIndexer
 

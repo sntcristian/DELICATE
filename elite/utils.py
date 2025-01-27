@@ -1,7 +1,32 @@
 import csv
 import os
-import pandas as pd
-import numpy as np
+import json
+from elite.biencoder import load_models
+from elite.indexer import load_resources
+from joblib import load
+
+
+def load_from_config(config_file):
+    # Carica le configurazioni dal file JSON
+    with open(config_file, 'r') as file:
+        params = json.load(file)
+
+    # Inizializza i modelli e le risorse
+    print('Loading biencoder...')
+    biencoder, biencoder_params = load_models(params)
+    print('Device:', biencoder.device)
+    print('Loading complete.')
+
+    print("Loading index and database...")
+    indexer, conn = load_resources(params)
+    print("Loading complete.")
+
+    rf_classifier = load(params["rf_classifier_path"])
+    print("Loading reranker complete.")
+
+    # Ritorna tutte le risorse caricate
+    return biencoder, biencoder_params, indexer, conn, rf_classifier
+
 
 
 def reshape_data_input(data, annotations):
@@ -56,6 +81,8 @@ def load_csv_from_directory(dataset_path):
 # shape output of candidate lookup into dict
 def shape_result_lookup(output):
     list_of_dict = []
+    if not isinstance(output, list):
+        output = [output]
     for result in output:
         for annotation in result["annotations"]:
             _id = annotation["doc_id"]
@@ -69,12 +96,14 @@ def shape_result_lookup(output):
                 alias = candidate[1]
                 q_id = "Q" + str(candidate[4])
                 wikidata_type = candidate[3]
+                descr = candidate[5]
                 min_date = candidate[6]
                 candidates.append({
                     "title": alias,
                     "q_id": q_id,
                     "score": score,
                     "type": wikidata_type,
+                    "descr":descr,
                     "min_date": min_date
                 })
             list_of_dict.append({
@@ -89,12 +118,3 @@ def shape_result_lookup(output):
             })
     return list_of_dict
 
-
-def get_rf_scores(model, features):
-    input_data = pd.DataFrame(features)
-    input_features = input_data[
-        ['min_score', 'max_score', 'mean_score', 'median_score', 'stddev_score', 'cand_score', 'lev_dist', 'jacc_dist',
-         'time_delta', 'type_match']]
-    probabilities = model.predict_proba(input_features)
-    matching_probabilities = [prob[1] for prob in probabilities]
-    return matching_probabilities

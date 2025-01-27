@@ -1,0 +1,7 @@
+{
+  "db_path": "ELITE_models/wikipedia_it.sqlite",
+  "index_path": "ELITE_models/faiss_hnsw_ita_index.pkl",
+  "biencoder_model": "ELITE_models/blink_biencoder_base_wikipedia_ita/pytorch_model.bin",
+  "biencoder_config": "ELITE_models/blink_biencoder_base_wikipedia_ita/config.json",
+  "rf_classifier_path": "ELITE_models/DZ/gb_classifier.joblib"
+}
