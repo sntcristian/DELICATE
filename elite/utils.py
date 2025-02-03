@@ -4,9 +4,11 @@ import json
 from elite.biencoder import load_models
 from elite.indexer import load_resources
 from joblib import load
+from gliner import GLiNER
+import torch
 
 
-def load_from_config(config_file):
+def load_from_config(config_file, ner=False):
     # Carica le configurazioni dal file JSON
     with open(config_file, 'r') as file:
         params = json.load(file)
@@ -21,11 +23,19 @@ def load_from_config(config_file):
     indexer, conn = load_resources(params)
     print("Loading complete.")
 
-    rf_classifier = load(params["rf_classifier_path"])
+    gbt_classifier = load(params["gbt_classifier_path"])
     print("Loading reranker complete.")
 
-    # Ritorna tutte le risorse caricate
-    return biencoder, biencoder_params, indexer, conn, rf_classifier
+    if ner == True:
+        device = torch.device('cuda:0') if torch.cuda.is_available() else torch.device('cpu')
+        ner_model = GLiNER.from_pretrained(params["ner_path"], load_tokenizer=True)
+        ner_model.to(device)
+        ner_model.data_processor.config.max_len = 764
+        print("NER model loaded in ", device)
+        return biencoder, biencoder_params, indexer, conn, gbt_classifier, ner_model
+
+    else:
+        return biencoder, biencoder_params, indexer, conn, gbt_classifier
 
 
 

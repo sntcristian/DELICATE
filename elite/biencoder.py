@@ -41,6 +41,7 @@ def load_models(params):
 
 
 
+
 def encode_mention_from_dict(doc, biencoder, biencoder_params):
     annotations = doc["annotations"]
 
@@ -52,8 +53,8 @@ def encode_mention_from_dict(doc, biencoder, biencoder_params):
         end = int(annotation["end_pos"])
         blink_dict = {
             'context_left': doc["text"][:start],
-            'context_right': doc["text"][end],
-            'mention': doc["text"][start:end],
+            'context_right': doc["text"][end-1],
+            'mention': doc["text"][start:end-1],
             'label': 'unknown',
             'label_id': -1,
         }
@@ -74,6 +75,24 @@ def encode_mention_from_dict(doc, biencoder, biencoder_params):
             'source': 'blink_biencoder'
         }
     doc["annotations"]=mentions
+    return doc
+
+
+
+
+def get_mentions_with_ner(doc, ner_model, labels):
+    text = doc["text"]
+    type_mapper = {"persona": "PER", "luogo": "LOC", "opera": "WORK", "organizzazione": "ORG"}
+    entities = ner_model.predict_entities(text, labels)
+    annotations = []
+    for entity in entities:
+        entry = {"doc_id": doc["id"],
+                 "surface": entity["text"],
+                 "start_pos": entity["start"],
+                 "end_pos": entity["end"],
+                 "type": type_mapper[entity["label"]]}
+        annotations.append(entry)
+    doc["annotations"]=annotations
     return doc
 
 

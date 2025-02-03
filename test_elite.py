@@ -29,7 +29,7 @@ def process_documents(documents, config_file):
 
 
 paragraphs_path = "../ENEIDE/DZ/v0.1/paragraphs_test.csv"
-annotations_path = "../ENEIDE/DZ/v0.1/annotations_test.csv"
+annotations_path = "../ENEIDE/results/NER/DZ/gliner_large_b4_e4/output.csv"
 
 input_data = load_csv_dataset(paragraphs_path, annotations_path)
 
