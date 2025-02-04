@@ -80,17 +80,18 @@ def encode_mention_from_dict(doc, biencoder, biencoder_params):
 
 
 
-def get_mentions_with_ner(doc, ner_model, labels):
+def get_mentions_with_ner(doc, ner_model, labels, threshold):
     text = doc["text"]
     type_mapper = {"persona": "PER", "luogo": "LOC", "opera": "WORK", "organizzazione": "ORG"}
-    entities = ner_model.predict_entities(text, labels)
+    entities = ner_model.predict_entities(text, labels, threshold=threshold)
     annotations = []
     for entity in entities:
         entry = {"doc_id": doc["id"],
                  "surface": entity["text"],
                  "start_pos": entity["start"],
                  "end_pos": entity["end"],
-                 "type": type_mapper[entity["label"]]}
+                 "type": type_mapper[entity["label"]],
+                 "ner_score":entity["score"]}
         annotations.append(entry)
     doc["annotations"]=annotations
     return doc
