@@ -100,7 +100,6 @@ def shape_result_lookup(output):
             start_pos = annotation["start_pos"]
             end_pos = annotation["end_pos"]
             _type = annotation["type"]
-            ner_score = annotation["ner_score"]
             identifier = annotation.get("identifier", "None")
             candidates = []
             for candidate, score in zip(annotation["linking"]["candidates"], annotation["linking"]["scores"]):

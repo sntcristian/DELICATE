@@ -90,8 +90,7 @@ def get_mentions_with_ner(doc, ner_model, labels, threshold):
                  "surface": entity["text"],
                  "start_pos": entity["start"],
                  "end_pos": entity["end"],
-                 "type": type_mapper[entity["label"]],
-                 "ner_score":entity["score"]}
+                 "type": type_mapper[entity["label"]]}
         annotations.append(entry)
     doc["annotations"]=annotations
     return doc

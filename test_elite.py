@@ -59,7 +59,6 @@ def run_nel_pipeline(params):
                 wiki_title = result["best_linking"]["title"]
             item = {"doc_id": result["doc_id"], "start_pos": result["start_pos"], "end_pos": result["end_pos"],
                     "surface": result["surface"], "type": result["type"], "identifier": identifier,
-                    "ner_score":result["ner_score"],
                     "wiki_title": wiki_title, "nel_score": result["best_linking"]["rf_score"]}
             output.append(item)
     return output
