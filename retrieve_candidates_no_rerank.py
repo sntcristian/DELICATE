@@ -24,7 +24,7 @@ print("Loading index and database...")
 indexer, conn = load_resources(params)
 print("Loading complete.")
 
-all_k = [20, 50, 100]
+all_k = [100]
 
 
 def process_documents(documents, k):

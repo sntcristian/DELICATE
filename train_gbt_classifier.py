@@ -8,23 +8,23 @@ from joblib import dump
 import numpy as np
 
 json_data_path = "./DZ_results"
-output_directory = "./ELITE_models/DZ"
+output_directory = "./ELITE_models/GBT"
 
-training_json_path = os.path.join(json_data_path, "candidates_train20.json")
-dev_json_path = os.path.join(json_data_path, "candidates_dev20.json")
-test_json_path = os.path.join(json_data_path, "candidates_test20.json")
+training_json_path = os.path.join(json_data_path, "candidates_train100.json")
+dev_json_path = os.path.join(json_data_path, "candidates_dev100.json")
+test_json_path = os.path.join(json_data_path, "candidates_test100.json")
 
 print("\n -------------------------\n Computing features for train data: \n")
 train_data = load_json_data(training_json_path)
-train_features = get_training_features(train_data, k=3)
+train_features = get_training_features(train_data, k=5)
 
 print("\n -------------------------\n Computing features for dev data: \n")
 dev_data = load_json_data(dev_json_path)
-dev_features = get_training_features(dev_data, k=3)
+dev_features = get_training_features(dev_data, k=5)
 
 print("\n -------------------------\n Computing features for test data: \n")
 test_data = load_json_data(test_json_path)
-test_features = get_training_features(test_data, k=3)
+test_features = get_training_features(test_data, k=5)
 
 df_train = pd.DataFrame(train_features)
 df_dev = pd.DataFrame(dev_features)
@@ -63,7 +63,7 @@ best_params = fmin(fn=objective, space=space, algo=tpe.suggest, max_evals=100, t
 best_params['n_estimators'] = [50, 100, 150, 200, 250, 300, 350, 400, 450, 500][best_params['n_estimators']]
 best_params['max_depth'] = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20][best_params['max_depth']]
 best_params['max_features'] = ['sqrt', 'log2', None][best_params['max_features']]
-best_params['learning_rate'] = [best_params['learning_rate']]
+best_params['learning_rate'] = best_params['learning_rate']
 
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
@@ -79,4 +79,4 @@ final_preds = final_model.predict_proba(X_test)[:, 1]
 final_auc = roc_auc_score(y_test, final_preds)
 print(f"ROC AUC Score on the Test Set: {final_auc}")
 
-dump(final_model, os.path.join(output_directory, 'gb_classifier.joblib'))
+dump(final_model, os.path.join(output_directory, 'gbt_dz.joblib'))

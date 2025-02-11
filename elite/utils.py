@@ -4,11 +4,9 @@ import json
 from elite.biencoder import load_models
 from elite.indexer import load_resources
 from joblib import load
-from gliner import GLiNER
-import torch
 
 
-def load_from_config(config_file, ner=False):
+def load_from_config(config_file):
     # Carica le configurazioni dal file JSON
     with open(config_file, 'r') as file:
         params = json.load(file)
@@ -23,19 +21,11 @@ def load_from_config(config_file, ner=False):
     indexer, conn = load_resources(params)
     print("Loading complete.")
 
-    gbt_classifier = load(params["gbt_classifier_path"])
+    rf_classifier = load(params["rf_classifier_path"])
     print("Loading reranker complete.")
 
-    if ner == True:
-        device = torch.device('cuda:0') if torch.cuda.is_available() else torch.device('cpu')
-        ner_model = GLiNER.from_pretrained(params["ner_path"], load_tokenizer=True)
-        ner_model.to(device)
-        ner_model.data_processor.config.max_len = 764
-        print("NER model loaded in ", device)
-        return biencoder, biencoder_params, indexer, conn, gbt_classifier, ner_model
-
-    else:
-        return biencoder, biencoder_params, indexer, conn, gbt_classifier
+    # Ritorna tutte le risorse caricate
+    return biencoder, biencoder_params, indexer, conn, rf_classifier
 
 
 
@@ -45,7 +35,7 @@ def reshape_data_input(data, annotations):
         annotations_list = [row2 for row2 in annotations if row2["doc_id"] == row1["doc_id"]]
         if len(annotations_list)>0:
             doc = {
-                "id":row1["doc_id"],
+                "doc_id":row1["doc_id"],
                 "text":row1["text"],
                 "annotations":annotations_list,
                 "publication_date":row1["publication_date"]
@@ -123,7 +113,6 @@ def shape_result_lookup(output):
                 "identifier": identifier,
                 "type": _type,
                 "surface": surface,
-                "ner_score":ner_score,
                 "publication_date": result["publication_date"],
                 "candidates": candidates
             })
