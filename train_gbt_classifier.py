@@ -68,7 +68,7 @@ best_params['learning_rate'] = best_params['learning_rate']
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 
-with open(os.path.join(output_directory, "best_params_gb.txt"), "w") as f:
+with open(os.path.join(output_directory, "params_gbt_dz_b100_n10.txt"), "w") as f:
     f.write(str(best_params))
 f.close()
 print("Best parameters: ", best_params)
@@ -79,4 +79,4 @@ final_preds = final_model.predict_proba(X_test)[:, 1]
 final_auc = roc_auc_score(y_test, final_preds)
 print(f"ROC AUC Score on the Test Set: {final_auc}")
 
-dump(final_model, os.path.join(output_directory, 'gbt_dz.joblib'))
+dump(final_model, os.path.join(output_directory, 'gbt_dz_b100_n10.joblib'))

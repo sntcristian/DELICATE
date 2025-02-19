@@ -36,12 +36,29 @@ def reshape_data_input(data, annotations):
         if len(annotations_list)>0:
             doc = {
                 "doc_id":row1["doc_id"],
+                "title":row1.get("title",""),
                 "text":row1["text"],
                 "annotations":annotations_list,
-                "publication_date":row1["publication_date"]
+                "publication_date":row1.get("publication_date", "")
             }
             output.append(doc)
     return output
+
+
+
+
+def shape_doc(text, title=None, publication_date=None):
+    if not title:
+        title = ""
+    if not publication_date:
+        publication_date = ""
+    doc = {
+        "doc_id":"",
+        "title":title,
+        "text":text,
+        "publication_date":publication_date
+    }
+    return doc
 
 
 

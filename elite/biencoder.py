@@ -48,11 +48,16 @@ def encode_mention_from_dict(doc, biencoder, biencoder_params):
     mentions = []
 
     for annotation in annotations:
-        start = int(annotation["start_pos"])
-        end = int(annotation["end_pos"])
+        if len(doc["title"]) > 0:
+            preamble = "("+doc["title"]+") "
+        else:
+            preamble = ""
+        text = preamble + doc["text"]
+        start = int(annotation["start_pos"])+len(preamble)
+        end = int(annotation["end_pos"])+len(preamble)
         blink_dict = {
-            'context_left': doc["text"][:start],
-            'context_right': doc["text"][end],
+            'context_left': text[:start],
+            'context_right': text[end:],
             'mention': doc["text"][start:end],
             'label': 'unknown',
             'label_id': -1,

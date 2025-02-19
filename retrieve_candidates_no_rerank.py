@@ -9,8 +9,8 @@ dataset_path = "../ENEIDE/DZ/v0.1"
 output_directory = "DZ_results"
 
 params = {
-    "db_path": os.path.join(models_path, "wikipedia_it.sqlite"),
-    "index_path": os.path.join(models_path, "faiss_hnsw_ita_index.pkl"),
+    "db_path": os.path.join(models_path, "KB/wikipedia_it.sqlite"),
+    "index_path": os.path.join(models_path, "KB/faiss_hnsw_ita_index.pkl"),
     "biencoder_model": os.path.join(models_path, "blink_biencoder_base_wikipedia_ita/pytorch_model.bin"),
     "biencoder_config": os.path.join(models_path, "blink_biencoder_base_wikipedia_ita/config.json"),
 }
@@ -24,13 +24,13 @@ print("Loading index and database...")
 indexer, conn = load_resources(params)
 print("Loading complete.")
 
-all_k = [100]
+all_k = [20, 30, 50, 100]
 
 
 def process_documents(documents, k):
     output = []
     for doc in documents:
-        print("Encoding mentions in document: ", doc["id"])
+        print("Encoding mentions in document: ", doc["doc_id"])
         doc_with_linking = encode_mention_from_dict(doc, biencoder, biencoder_params)
         doc_with_candidates = search_index_from_dict(doc_with_linking, indexer, conn, top_k=k)
         output.append(doc_with_candidates)
