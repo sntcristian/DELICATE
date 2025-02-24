@@ -1,19 +1,17 @@
 # ELITE: Entity Linking in Italian for long-Tail Entities
 
-This repository contains the software used for implementing and testing ELITE. 
-For the implementation of the candidate retrieval component, ELITE relies on the [BLINK](https://github.com/facebookresearch/BLINK) library from Facebook.
-An image of the ELITE architecture is available below:
+This repository contains the software used for implementing and testing ELITE. ELITE is an Entity Linking system trained on humanistic documents in Italian, designed for being more sensitive to the context of provenance of a document than general-purpose Entity Linking models. An image of the ELITE architecture is available below:
 
 <img src="docs/elite.jpg" alt="drawing" width="700"/>
 
-Pre-trained models for Named Entity Recognition and Entity Linking, as well as the ELITE's knowledge base are 
-available on [Zenodo]().
+For the implementation of the candidate retrieval component, ELITE relies on the [BLINK](https://github.com/facebookresearch/BLINK) library from Facebook.
 
 ## Use ELITE
 
 ### 1.  Create conda environment and install requirements
 
 Recommended: Python=3.9
+
 ```
 conda create -n elite -y python=3.9 && conda activate elite
 pip install -r requirements.txt
@@ -36,6 +34,5 @@ A demo of the different functionalities of ELITE is available in a [Jupyter Note
 
 To use the ELITE pipeline on a specific input it is possible to use the following command: 
 ```
-python run_nel.py --config_file config.json --output_dir "./test" --publication_date "1826" --text "Il poeta italiano 
-Giacomo Leopardi nacque a Recanati." 
+python run_nel.py --config_file "config.json" --output_dir "./test" --publication_date "1826" --text "Il poeta italiano Giacomo Leopardi nacque a Recanati." 
 ```
