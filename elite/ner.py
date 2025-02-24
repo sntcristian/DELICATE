@@ -10,7 +10,7 @@ def load_ner_model(config_file):
 
 
 
-def get_mentions_with_ner(doc, ner_model, tagset, threshold):
+def get_mentions_with_ner(doc, ner_model, tagset="DZ", threshold=0.9):
     text = doc["text"]
     type_mapper = {"persona": "PER", "luogo": "LOC", "opera": "WORK", "organizzazione": "ORG"}
     labels = ["persona", "luogo", "opera"] if tagset == "DZ" else ["persona", "luogo", "organizzazione"]

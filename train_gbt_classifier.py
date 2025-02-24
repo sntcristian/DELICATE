@@ -10,9 +10,9 @@ import numpy as np
 json_data_path = "./DZ_results"
 output_directory = "./ELITE_models/GBT"
 
-training_json_path = os.path.join(json_data_path, "candidates_train100.json")
-dev_json_path = os.path.join(json_data_path, "candidates_dev100.json")
-test_json_path = os.path.join(json_data_path, "candidates_test100.json")
+training_json_path = os.path.join(json_data_path, "candidates_train50.json")
+dev_json_path = os.path.join(json_data_path, "candidates_dev50.json")
+test_json_path = os.path.join(json_data_path, "candidates_test50.json")
 
 print("\n -------------------------\n Computing features for train data: \n")
 train_data = load_json_data(training_json_path)

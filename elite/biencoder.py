@@ -58,7 +58,7 @@ def encode_mention_from_dict(doc, biencoder, biencoder_params):
         blink_dict = {
             'context_left': text[:start],
             'context_right': text[end:],
-            'mention': doc["text"][start:end],
+            'mention': text[start:end],
             'label': 'unknown',
             'label_id': -1,
         }

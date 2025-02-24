@@ -24,7 +24,7 @@ print("Loading index and database...")
 indexer, conn = load_resources(params)
 print("Loading complete.")
 
-all_k = [20, 30, 50, 100]
+all_k = [20]
 
 
 def process_documents(documents, k):
@@ -87,6 +87,6 @@ for k in all_k:
         "avg_recall": (recall_train+recall_dev+recall_test) / 3
     })
 
-with open(os.path.join(output_directory, "result_summary.json"), "w", encoding="utf-8") as out_f:
+with open(os.path.join(output_directory, "result_summary2.json"), "w", encoding="utf-8") as out_f:
     json.dump(result_summary, out_f, ensure_ascii=False, indent=4)
 out_f.close()

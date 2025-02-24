@@ -46,7 +46,7 @@ def search_knn(indexer, encodings, top_k):
 
 def load_resources(params):
     index_path = params["index_path"]
-    print(f"Caricamento dell'indice da: {index_path}")
+    print(f"Loading index from: {index_path}")
     indexer = load_faiss_index(index_path)
 
     db_path = params["db_path"]
@@ -63,11 +63,11 @@ def search_index_from_dict(doc, indexer, conn, top_k):
             mentions.append(annotation)
 
     if not encodings:
-        print("Nessun encoding trovato nel documento.")
+        print("No encoding found in document.")
         return
 
 
-    print(f"Esecuzione della ricerca KNN per {len(encodings)} entità...")
+    print(f"Executing kNN search for {len(encodings)} entities...")
     scores, candidates = search_knn(indexer, encodings, top_k)
 
     all_candidates_info = []
@@ -86,5 +86,5 @@ def search_index_from_dict(doc, indexer, conn, top_k):
         else:
             mention['linking']['candidates'] = []
 
-    print("Risultati della ricerca KNN completati.")
+    print("kNN Search complete.")
     return doc

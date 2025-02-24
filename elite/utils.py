@@ -53,7 +53,7 @@ def shape_doc(text, title=None, publication_date=None):
     if not publication_date:
         publication_date = ""
     doc = {
-        "doc_id":"",
+        "doc_id":title,
         "title":title,
         "text":text,
         "publication_date":publication_date
@@ -135,3 +135,37 @@ def shape_result_lookup(output):
             })
     return list_of_dict
 
+
+def generate_html_from_json(result):
+    annotated_text = result["text"]
+    entities = sorted(result["entities"], key=lambda x: x["start_pos"], reverse=True)
+    type_mapper = {"PER":"person", "LOC":"location", "ORG":"organization", "WORK":"work"}
+    for ent in entities:
+        start, end = ent["start_pos"], ent["end_pos"]
+        surface = annotated_text[start:end]
+        identifier = ent["identifier"]
+
+        wiki_link = f"https://www.wikidata.org/wiki/{identifier}" if identifier != "NIL" else "#"
+        entity_html = f'<a href="{wiki_link}" class="{type_mapper[ent["type"]]}" target="_blank">{surface}</a>'
+        annotated_text = annotated_text[:start] + entity_html + annotated_text[end:]
+
+    html_content = f"""
+    <html>
+    <head>
+        <title>{result["title"]}</title>
+        <meta charset="utf-8">
+        <meta name="publication_date" content="{result["publication_date"]}">
+        <style>
+            .person {{ color: blue; }}
+            .work {{ color: green; }}
+            .location {{ color: orange; }}
+            .organization {{ color: red; }}
+        </style>
+    </head>
+    <body>
+        <h1>{result["title"]}</h1>
+        <p>{annotated_text}</p>
+    </body>
+    </html>
+    """
+    return html_content

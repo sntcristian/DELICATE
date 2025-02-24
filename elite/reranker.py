@@ -1,6 +1,8 @@
 from sklearn.ensemble import RandomForestClassifier
 from elite.feature_selector import compute_features
 from elite.utils import shape_result_lookup
+from elite.biencoder import encode_mention_from_dict
+from elite.indexer import search_index_from_dict
 import pandas as pd
 import numpy as np
 
@@ -38,3 +40,38 @@ def rerank_candidates_from_dict(doc, rf_classifier):
         item["candidates"]=results_rerankered
         doc["annotations"][idx]=item
     return doc
+
+
+
+def disambiguate_mentions_and_rerank(doc,
+                                     biencoder,
+                                     biencoder_params,
+                                     indexer,
+                                     conn,
+                                     rf_classifier,
+                                     top_k=50,
+                                    threshold_nil=0.5):
+
+    entities = []
+    print("Encoding mentions in document: ", doc["doc_id"])
+    doc_with_linking = encode_mention_from_dict(doc, biencoder, biencoder_params)
+    doc_with_candidates = search_index_from_dict(doc_with_linking, indexer, conn, top_k=top_k)
+    doc_reranked = rerank_candidates_from_dict(doc_with_candidates, rf_classifier)
+    for result in doc_reranked["annotations"]:
+        if result["best_linking"]["rf_score"] < threshold_nil:
+            identifier = "NIL"
+            wiki_title = ""
+        else:
+            identifier = result["best_linking"]["q_id"]
+            wiki_title = result["best_linking"]["title"]
+        entities.append({"doc_id": result["doc_id"], "start_pos": result["start_pos"], "end_pos": result["end_pos"],
+                    "surface": result["surface"], "type": result["type"], "identifier": identifier,
+                    "wiki_title": wiki_title, "score": result["best_linking"]["rf_score"]})
+    output = {
+        "doc_id":doc["doc_id"],
+        "title":doc["title"],
+        "text":doc["text"],
+        "publication_date":doc["publication_date"],
+        "entities":entities
+    }
+    return output
