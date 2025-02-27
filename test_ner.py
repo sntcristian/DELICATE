@@ -3,6 +3,13 @@ import csv
 import os
 
 
+paragraphs_path = "../ENEIDE/DZ/v0.1/paragraphs_test.csv"
+config_file = "config.json"
+tagset = "DZ"
+threshold_ner = 0.9
+output_path = "./DZ_results/ner/"
+
+
 
 def main(config_file, documents, threshold_ner, tagset):
     output = []
@@ -14,17 +21,14 @@ def main(config_file, documents, threshold_ner, tagset):
     return output
 
 
-paragraphs_path = "../ENEIDE/DZ/v0.1/paragraphs_test.csv"
+
 
 with open(paragraphs_path, "r", encoding="utf-8") as f:
     paragraphs = csv.DictReader(f)
     paragraphs = list(paragraphs)
 f.close()
 
-config_file = "config.json"
-tagset = "DZ"
-threshold_ner = 0.9
-output_path = "./DZ_results/ner/"
+
 
 result = main(config_file, paragraphs, threshold_ner, tagset)
 

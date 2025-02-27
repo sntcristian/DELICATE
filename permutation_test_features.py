@@ -2,43 +2,48 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from elite.feature_selector import load_json_data, get_training_features
+from elite.feature_selector import load_json_data, compute_features
+from elite.reranker import get_rf_scores
 from joblib import load
 from sklearn.inspection import permutation_importance
-from sklearn.metrics import roc_auc_score, accuracy_score
+from sklearn.metrics import accuracy_score
 
 json_data_path = "./DZ_results"
 model_directory = "./ELITE_models/GBT"
+threshold_nil = 0.5
 
-training_json_path = os.path.join(json_data_path, "candidates_train50.json")
-dev_json_path = os.path.join(json_data_path, "candidates_dev50.json")
+
+def get_features_with_reranker(list_of_results, rf_classifier):
+    output = []
+    for result_lookup in list_of_results:
+        similarity_features = compute_features(result_lookup)
+        matching_probabilities = get_rf_scores(rf_classifier, similarity_features)
+        zipped_features = zip(matching_probabilities, similarity_features)
+        sorted_features = sorted(zipped_features, reverse=True, key=lambda x: x[0])
+        best_score, feature = sorted_features[0]
+        if best_score < threshold_nil and not result_lookup["identifier"].startswith("Q"):
+            feature["qid_match"] = 1
+        output.append(feature)
+    return output
+
+
+
+
+
+final_model = load(os.path.join(model_directory, 'gbt_dz_b50_n10_no_stddev.joblib'))
+
 test_json_path = os.path.join(json_data_path, "candidates_test50.json")
 
-print("\n -------------------------\n Computing features for train data: \n")
-train_data = load_json_data(training_json_path)
-train_features = get_training_features(train_data, k=5)
 
-print("\n -------------------------\n Computing features for dev data: \n")
-dev_data = load_json_data(dev_json_path)
-dev_features = get_training_features(dev_data, k=5)
-
-print("\n -------------------------\n Computing features for test data: \n")
 test_data = load_json_data(test_json_path)
-test_features = get_training_features(test_data, k=5)
 
-df_train = pd.DataFrame(train_features)
-df_dev = pd.DataFrame(dev_features)
+print("\n -------------------------\n Computing features for final GBT model: \n")
+test_features = get_features_with_reranker(test_data, final_model)
+
+
 df_test = pd.DataFrame(test_features)
-y_train = df_train['qid_match'].values
-y_dev = df_dev['qid_match'].values
 y_test = df_test['qid_match'].values
-X_train = df_train.drop('qid_match', axis=1)
-X_dev = df_dev.drop('qid_match', axis=1)
 X_test = df_test.drop('qid_match', axis=1)
-
-
-
-final_model = load(os.path.join(model_directory, 'gbt_dz_b50_n10.joblib'))
 
 
 y_pred_base = final_model.predict(X_test)

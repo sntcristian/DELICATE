@@ -41,7 +41,6 @@ def compute_features(result):
     min_score = min(scores)
     max_score = max(scores)
     mean_score = statistics.mean(scores)
-    std_dev = statistics.stdev(scores)
     median_score = statistics.median(scores)
     publication_year = result.get("publication_date", None)
     for candidate in result["candidates"]:
@@ -83,7 +82,6 @@ def compute_features(result):
             "max_score":max_score,
             "mean_score":mean_score,
             "median_score":median_score,
-            "stddev_score":std_dev,
             "cand_score":cand_score,
             "lev_dist":lev_distance,
             "jacc_dist":jaccard_distance,

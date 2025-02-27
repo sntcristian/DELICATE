@@ -2,43 +2,36 @@ import csv
 from elite.biencoder import encode_mention_from_dict
 from elite.indexer import search_index_from_dict
 from elite.utils import load_from_config, load_csv_dataset
-from elite.reranker import rerank_candidates_from_dict
+from elite.reranker import disambiguate_mentions_and_rerank
 
 
-def process_documents(documents, config_file):
+
+params = {
+    "paragraphs_path": "../ENEIDE/DZ/v0.1/paragraphs_test.csv",
+    "annotations_path": "./DZ_results/gliner_dz/output.csv",
+    "config_file": "config.json",
+    "top_k": 50,
+    "threshold_nil": 0.5
+}
+
+
+def process_documents(params):
     output = []
-    biencoder, biencoder_params, indexer, conn, rf_classifier = load_from_config(config_file)
+    documents = load_csv_dataset(params["paragraphs_path"], params["annotations_path"])
+    biencoder, biencoder_params, indexer, conn, gbt_classifier = load_from_config(params["config_file"])
     for doc in documents:
-        print("Encoding mentions in document: ", doc["doc_id"])
-        doc_with_linking = encode_mention_from_dict(doc, biencoder, biencoder_params)
-        doc_with_candidates = search_index_from_dict(doc_with_linking, indexer, conn, top_k=50)
-        doc_reranked = rerank_candidates_from_dict(doc_with_candidates, rf_classifier)
-        for result in doc_reranked["annotations"]:
-            # if result["best_linking"]["rf_score"] < 0.5:
-            #     identifier = "NIL"
-            #     wiki_title = ""
-            # else:
-            #     identifier = result["best_linking"]["q_id"]
-            #     wiki_title = result["best_linking"]["title"]
-            # experiment with no NIL:
-            identifier = result["best_linking"]["q_id"]
-            wiki_title = result["best_linking"]["title"]
-            item = {"doc_id": result["doc_id"], "start_pos": result["start_pos"], "end_pos": result["end_pos"],
-                    "surface": result["surface"], "type": result["type"], "identifier": identifier,
-                    "wiki_title": wiki_title, "score": result["best_linking"]["rf_score"]}
-            output.append(item)
+        doc_reranked = disambiguate_mentions_and_rerank(doc, biencoder, biencoder_params,
+                                                        indexer, conn, gbt_classifier,
+                                                        params["top_k"], params["threshold_nil"])
+        output.extend(doc_reranked["entities"])
     return output
 
 
 
-paragraphs_path = "../ENEIDE/DZ/v0.1/paragraphs_test.csv"
-annotations_path = "../ENEIDE/DZ/v0.1/annotations_test.csv"
 
-input_data = load_csv_dataset(paragraphs_path, annotations_path)
+results_rerankered = process_documents(params)
 
-results_rerankered = process_documents(input_data, "config.json")
-
-with open("DZ_results/elite_ed_no_nil.csv", "w", encoding="utf-8") as out_f:
+with open("DZ_results/elite_el_no_stddev.csv", "w", encoding="utf-8") as out_f:
     dict_writer = csv.DictWriter(out_f, results_rerankered[0].keys())
     dict_writer.writeheader()
     dict_writer.writerows(results_rerankered)

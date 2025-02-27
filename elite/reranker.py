@@ -9,7 +9,7 @@ import numpy as np
 def get_rf_scores(model, features):
     input_data = pd.DataFrame(features)
     input_features = input_data[
-        ['min_score', 'max_score', 'mean_score', 'median_score', 'stddev_score', 'cand_score', 'lev_dist', 'jacc_dist',
+        ['min_score', 'max_score', 'mean_score', 'median_score', 'cand_score', 'lev_dist', 'jacc_dist',
          'time_delta', 'type_match']]
     probabilities = model.predict_proba(input_features)
     matching_probabilities = [prob[1] for prob in probabilities]
@@ -50,7 +50,7 @@ def disambiguate_mentions_and_rerank(doc,
                                      conn,
                                      rf_classifier,
                                      top_k=50,
-                                    threshold_nil=0.5):
+                                     threshold_nil=0.5):
 
     entities = []
     print("Encoding mentions in document: ", doc["doc_id"])
