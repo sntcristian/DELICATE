@@ -4,5 +4,5 @@
   "ner_path": "ELITE_models/NER/gliner_dz_b4_e4",
   "biencoder_model": "ELITE_models/blink_biencoder_base_wikipedia_ita/pytorch_model.bin",
   "biencoder_config": "ELITE_models/blink_biencoder_base_wikipedia_ita/config.json",
-  "rf_classifier_path": "ELITE_models/GBT/gbt_dz_b50_n10_no_stddev.joblib"
+  "rf_classifier_path": "ELITE_models/GBT/gbt_dz_b50_n10.joblib"
 }

@@ -5,8 +5,8 @@ import os
 import json
 
 models_path = "ELITE_models"
-dataset_path = "../ENEIDE/DZ/v0.1"
-output_directory = "DZ_results"
+dataset_path = "../ENEIDE/AMD/v0.3"
+output_directory = "AMD_results"
 
 params = {
     "db_path": os.path.join(models_path, "KB/wikipedia_it.sqlite"),
@@ -87,6 +87,6 @@ for k in all_k:
         "avg_recall": (recall_train+recall_dev+recall_test) / 3
     })
 
-with open(os.path.join(output_directory, "result_summary2.json"), "w", encoding="utf-8") as out_f:
+with open(os.path.join(output_directory, "result_summary.json"), "w", encoding="utf-8") as out_f:
     json.dump(result_summary, out_f, ensure_ascii=False, indent=4)
 out_f.close()

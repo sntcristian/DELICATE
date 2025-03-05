@@ -1,17 +1,17 @@
 import csv
-from elite.biencoder import encode_mention_from_dict
-from elite.indexer import search_index_from_dict
+import os
 from elite.utils import load_from_config, load_csv_dataset
 from elite.reranker import disambiguate_mentions_and_rerank
 
 
 
 params = {
-    "paragraphs_path": "../ENEIDE/DZ/v0.1/paragraphs_test.csv",
-    "annotations_path": "./DZ_results/gliner_dz/output.csv",
+    "paragraphs_path": "../ENEIDE/AMD/v1.0/paragraphs_test.csv",
+    "annotations_path": "../ENEIDE/AMD/v1.0/annotations_test.csv",
     "config_file": "config.json",
-    "top_k": 50,
-    "threshold_nil": 0.5
+    "top_k": 20,
+    "threshold_nil": 0.3,
+    "output_path":"./results/elite_ed"
 }
 
 
@@ -31,7 +31,10 @@ def process_documents(params):
 
 results_rerankered = process_documents(params)
 
-with open("DZ_results/elite_el_no_stddev.csv", "w", encoding="utf-8") as out_f:
+if not os.path.exists(params["output_path"]):
+    os.makedirs(params["output_path"])
+
+with open(os.path.join(params["output_path"],"output.csv"), "w", encoding="utf-8") as out_f:
     dict_writer = csv.DictWriter(out_f, results_rerankered[0].keys())
     dict_writer.writeheader()
     dict_writer.writerows(results_rerankered)

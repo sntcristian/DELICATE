@@ -2,9 +2,9 @@ import pandas as pd
 from scipy.stats import pointbiserialr
 
 
-df_elite = pd.read_csv("DZ_results/elite_ed_no_stddev.csv")
-df_blink = pd.read_csv("../ENEIDE/results/DZ/mgenre_impresso_ed/output.csv")
-df_gt = pd.read_csv("../ENEIDE/DZ/v0.1/annotations_test.csv")
+df_elite = pd.read_csv("../experiments_5_03_2025/elite_ed/output.csv")
+df_blink = pd.read_csv("../experiments_5_03_2025/blink_ed/output.csv")
+df_gt = pd.read_csv("../ENEIDE/AMD/v0.3/annotations_test.csv")
 
 
 common_fields = ["doc_id", "surface", "start_pos", "end_pos", "type"]

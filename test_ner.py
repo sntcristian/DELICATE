@@ -7,7 +7,7 @@ paragraphs_path = "../ENEIDE/DZ/v0.1/paragraphs_test.csv"
 config_file = "config.json"
 tagset = "DZ"
 threshold_ner = 0.9
-output_path = "./DZ_results/ner/"
+output_path = "./results/gliner_dz_b4_e4/"
 
 
 
@@ -31,6 +31,9 @@ f.close()
 
 
 result = main(config_file, paragraphs, threshold_ner, tagset)
+
+if not os.path.exists(output_path):
+    os.makedirs(output_path)
 
 with open(os.path.join(output_path, "output.csv"), "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, result[0].keys())

@@ -8,9 +8,9 @@ from joblib import load
 from sklearn.inspection import permutation_importance
 from sklearn.metrics import accuracy_score
 
-json_data_path = "./DZ_results"
+json_data_path = "./AMD_results"
 model_directory = "./ELITE_models/GBT"
-threshold_nil = 0.5
+threshold_nil = 0.3
 
 
 def get_features_with_reranker(list_of_results, rf_classifier):
@@ -30,9 +30,9 @@ def get_features_with_reranker(list_of_results, rf_classifier):
 
 
 
-final_model = load(os.path.join(model_directory, 'gbt_dz_b50_n10_no_stddev.joblib'))
+final_model = load(os.path.join(model_directory, 'gbt_amd_b20_n6.joblib'))
 
-test_json_path = os.path.join(json_data_path, "candidates_test50.json")
+test_json_path = os.path.join(json_data_path, "candidates_test20.json")
 
 
 test_data = load_json_data(test_json_path)
