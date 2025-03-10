@@ -8,7 +8,7 @@ from joblib import load
 from sklearn.inspection import permutation_importance
 from sklearn.metrics import accuracy_score
 
-json_data_path = "./AMD_results"
+json_data_path = "./retrieval_results"
 model_directory = "./ELITE_models/GBT"
 threshold_nil = 0.3
 
@@ -48,7 +48,7 @@ X_test = df_test.drop('qid_match', axis=1)
 
 y_pred_base = final_model.predict(X_test)
 baseline_accuracy = accuracy_score(y_test, y_pred_base)
-print(f"Accuracy on DZ Test Set (without permutation): {baseline_accuracy:.4f}")
+print(f"Accuracy on AMD Test Set (without permutation): {baseline_accuracy:.4f}")
 
 
 pfi_results = permutation_importance(
@@ -61,7 +61,7 @@ pfi_results = permutation_importance(
 )
 
 # order results by importance
-feature_names = X_test.columns.tolist()
+feature_names = ["min", "max", "mean", "median", "L2", "levenshtein", "jaccard", "time_delta", "type_match"]
 importances_mean = pfi_results.importances_mean
 importances_std = pfi_results.importances_std
 
@@ -78,7 +78,7 @@ plt.barh(
     color='skyblue',
     ecolor='black'
 )
-plt.xlabel("Mean Accuracy Loss (Mean Importance)")
+plt.xlabel("Mean Accuracy Loss (Mean Importance) after 30 permutations")
 plt.title("Permutation Feature Importance (Baseline Accuracy = {:.4f})".format(baseline_accuracy))
 plt.grid(axis='x', linestyle='--', alpha=0.7)
 plt.tight_layout()
