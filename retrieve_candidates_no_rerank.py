@@ -5,7 +5,7 @@ import os
 import json
 
 models_path = "ELITE_models"
-dataset_path = "../ENEIDE/AMD/v0.3"
+dataset_path = "../ENEIDE/AMD/v1.0"
 output_directory = "AMD_results"
 
 params = {

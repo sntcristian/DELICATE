@@ -19,11 +19,7 @@ pip install -r requirements.txt
 
 ### 2. Download Models and Setup Config
 
-The ELITE software is released along with models for Named Entity Recognition and Entity Linking, trained on the 
-Italian corpus for Named Entity Recognition and Linking [*ENEIDE*](). Trained models can be downloaded from [Zenodo]().
-
-Once the models are downloaded, it is important to setup the [config.json](config.json) file with the correct paths 
-to the models and knowledge base.
+Trained models and dataset will be available soon!
 
 ## ELITE Tutorial Notebook
 
