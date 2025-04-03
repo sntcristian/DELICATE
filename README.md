@@ -1,6 +1,6 @@
 # ELITE: Entity Linking in Italian for long-Tail Entities
 
-This repository contains the software used for implementing and testing ELITE. ELITE is an Entity Linking system trained on humanistic documents in Italian, designed for being more sensitive to the context of provenance of a document than general-purpose Entity Linking models. An image of the ELITE architecture is available below:
+This repository contains the software used for implementing and testing ELITE, an Entity Linking system trained on humanistic documents in Italian, designed for being more sensitive to the context of provenance of a document than general-purpose Entity Linking models. An image of the ELITE architecture is available below:
 
 <img src="docs/elite.jpg" alt="drawing" width="700"/>
 
