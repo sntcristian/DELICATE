@@ -1,0 +1,16 @@
+True Positives: 381
+
+False Positives: 236
+
+False Negatives: 236
+
+Accuracy: 61.750405186385734
+
+Accuracy for class Person: 68.23899371069182
+
+Accuracy for class Location: 83.84615384615385
+
+Accuracy for class Work: 32.544378698224854
+
+Macro-averaged Accuracy: 61.54317541835684
+
