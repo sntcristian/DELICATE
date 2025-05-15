@@ -1,7 +1,7 @@
-from elite.biencoder import encode_mention_from_dict, load_models
-from elite.indexer import load_resources, search_index_from_dict
-from elite.utils import load_csv_from_directory, shape_result_lookup
-from elite.feature_selector import get_training_features
+from delicate.biencoder import encode_mention_from_dict, load_models
+from delicate.indexer import load_resources, search_index_from_dict
+from delicate.utils import load_csv_from_directory, shape_result_lookup
+from delicate.feature_selector import get_training_features
 import pandas as pd
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.metrics import roc_auc_score

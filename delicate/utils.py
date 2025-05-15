@@ -1,8 +1,8 @@
 import csv
 import os
 import json
-from elite.biencoder import load_models
-from elite.indexer import load_resources
+from delicate.biencoder import load_models
+from delicate.indexer import load_resources
 from joblib import load
 
 

@@ -1,9 +1,9 @@
 import csv
 import os.path
 
-from elite.biencoder import encode_mention_from_dict
-from elite.indexer import search_index_from_dict
-from elite.utils import load_from_config, load_csv_dataset, shape_result_lookup
+from delicate.biencoder import encode_mention_from_dict
+from delicate.indexer import search_index_from_dict
+from delicate.utils import load_from_config, load_csv_dataset, shape_result_lookup
 import argparse
 
 

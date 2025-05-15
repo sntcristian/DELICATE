@@ -1,8 +1,8 @@
 {
-  "db_path": "ELITE_models/KB/wikipedia_it.sqlite",
-  "index_path": "ELITE_models/KB/faiss_hnsw_ita_index.pkl",
-  "ner_path": "ELITE_models/NER/gliner_all_b4_e4",
-  "biencoder_model": "ELITE_models/blink_biencoder_base_wikipedia_ita/pytorch_model.bin",
-  "biencoder_config": "ELITE_models/blink_biencoder_base_wikipedia_ita/config.json",
-  "rf_classifier_path": "ELITE_models/GBT/gbt_dz_b50_n10.joblib"
+  "db_path": "DELICATE_models/KB/wikipedia_it.sqlite",
+  "index_path": "DELICATE_models/KB/faiss_hnsw_ita_index.pkl",
+  "ner_path": "DELICATE_models/NER/gliner_all_b4_e4",
+  "biencoder_model": "DELICATE_models/blink_biencoder_base_wikipedia_ita/pytorch_model.bin",
+  "biencoder_config": "DELICATE_models/blink_biencoder_base_wikipedia_ita/config.json",
+  "rf_classifier_path": "DELICATE_models/GBT/gbt_dz_b50_n10.joblib"
 }

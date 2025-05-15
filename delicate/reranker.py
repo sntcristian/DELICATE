@@ -1,8 +1,8 @@
 from sklearn.ensemble import RandomForestClassifier
-from elite.feature_selector import compute_features
-from elite.utils import shape_result_lookup
-from elite.biencoder import encode_mention_from_dict
-from elite.indexer import search_index_from_dict
+from delicate.feature_selector import compute_features
+from delicate.utils import shape_result_lookup
+from delicate.biencoder import encode_mention_from_dict
+from delicate.indexer import search_index_from_dict
 import pandas as pd
 import numpy as np
 

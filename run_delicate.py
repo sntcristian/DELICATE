@@ -1,7 +1,7 @@
 import csv
 import os
-from elite.utils import load_from_config, load_csv_dataset
-from elite.reranker import disambiguate_mentions_and_rerank
+from delicate.utils import load_from_config, load_csv_dataset
+from delicate.reranker import disambiguate_mentions_and_rerank
 import argparse
 
 

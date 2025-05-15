@@ -1,10 +1,10 @@
-from elite.reranker import disambiguate_mentions_and_rerank
+from delicate.reranker import disambiguate_mentions_and_rerank
 import os
 import argparse
 import json
 import gc
-from elite.ner import load_ner_model, get_mentions_with_ner
-from elite.utils import shape_doc, load_from_config, generate_html_from_json
+from delicate.ner import load_ner_model, get_mentions_with_ner
+from delicate.utils import shape_doc, load_from_config, generate_html_from_json
 
 
 def main(params):

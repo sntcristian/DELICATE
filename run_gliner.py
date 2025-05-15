@@ -1,4 +1,4 @@
-from elite.ner import load_ner_model, get_mentions_with_ner
+from delicate.ner import load_ner_model, get_mentions_with_ner
 import csv
 import os
 import argparse

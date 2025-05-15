@@ -1,0 +1,9 @@
+DELICATE_models/
+.ipynb_checkpoints/
+blink/__pycache__/
+blink/biencoder/__pycache__/
+blink/candidate_ranking/__pycache__/
+blink/candidate_retrieval/__pycache__/
+blink/common/__pycache__/
+blink/crossencoder/__pycache__/
+blink/indexer/__pycache__/
