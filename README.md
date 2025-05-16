@@ -1,4 +1,4 @@
-# DELICATE: Diachronic Entity Linking in Italian with Class And TEmporal Information
+# DELICATE: Diachronic Entity LInking using Class And Temporal Evidence
 
 This repository contains the software used for implementing and testing DELICATE, an Entity Linking system trained on historical documents in Italian, designed for being more sensitive to the context of provenance of a document than general-purpose Entity Linking models. An image of the DELICATE architecture is available below:
 
