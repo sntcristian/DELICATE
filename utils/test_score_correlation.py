@@ -2,9 +2,9 @@ import pandas as pd
 from scipy.stats import pointbiserialr
 
 
-df_elite = pd.read_csv("./results/elite_dz_ed/output.csv")
-df_blink = pd.read_csv("./results/blink_dz_ed/output.csv")
-df_gt = pd.read_csv("../../ENEIDE/DZ/v1.0/annotations_test.csv")
+df_blink = pd.read_csv("./eval/results/AMD/ED/cblink/output.csv")
+df_elite = pd.read_csv("./eval/results/AMD/ED/delicate_all/output.csv")
+df_gt = pd.read_csv("../my_zenodo/ENEIDE/AMD/v1.0/annotations_test.csv")
 
 
 common_fields = ["doc_id", "surface", "start_pos", "end_pos", "type"]
@@ -36,10 +36,10 @@ df_blink_merged["correct"] = (
 
 
 elite_corr, elite_pval = pointbiserialr(df_elite_merged["correct"], df_elite_merged["score"])
-MGENRE_corr, MGENRE_pval = pointbiserialr(df_blink_merged["correct"], df_blink_merged["score"])
+blink_corr, blink_pval = pointbiserialr(df_blink_merged["correct"], df_blink_merged["score"])
 
 print(f"ELITE - Point-biserial correlation: {elite_corr:.4f}, p-value: {elite_pval:.4e}")
-print(f"MGENRE impresso - Point-biserial correlation: {MGENRE_corr:.4f}, p-value: {MGENRE_pval:.4e}")
+print(f"MGENRE impresso - Point-biserial correlation: {blink_corr:.4f}, p-value: {blink_pval:.4e}")
 
 
 

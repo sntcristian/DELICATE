@@ -2,14 +2,14 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from ..elite.feature_selector import load_json_data, compute_features
-from ..elite.reranker import get_rf_scores
+from delicate.feature_selector import load_json_data, compute_features
+from delicate.reranker import get_rf_scores
 from joblib import load
 from sklearn.inspection import permutation_importance
 from sklearn.metrics import accuracy_score
 
-json_data_path = "./results/blink_all"
-model_directory = "../ELITE_models/GBT"
+json_data_path = "./eval/results/blink_all"
+model_directory = "./DELICATE_models/GBT"
 threshold_nil = 0.3
 
 
@@ -30,7 +30,7 @@ def get_features_with_reranker(list_of_results, rf_classifier):
 
 
 
-final_model = load(os.path.join(model_directory, 'gbt_amd_b50_n8.joblib'))
+final_model = load(os.path.join(model_directory, 'gbt_all_b50_n8.joblib'))
 
 test_json_path = os.path.join(json_data_path, "candidates_test.json")
 
