@@ -51,6 +51,6 @@ Example:
 python run_delicate.py --documents "paragraphs_test.csv" --annotations "annotations_test.csv" --config "configs/config_amd.json" ...
 ```
 
-### 2. Download Pre-trained Models
+## Download Pre-trained Models
 
 Trained models and dataset will be available soon!
