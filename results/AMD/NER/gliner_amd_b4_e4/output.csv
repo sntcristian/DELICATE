@@ -1,0 +1,581 @@
+doc_id,surface,start_pos,end_pos,type
+document_110032.html,Azione Cattolica,62,78,ORG
+document_110032.html,Associazione,131,143,ORG
+document_110032.html,San Tommaso,188,199,PER
+document_110032.html,Chiesa,602,608,ORG
+document_110032.html,S. Tommaso,752,762,PER
+document_110034.html,Firenze,49,56,LOC
+document_110034.html,Azione Cattolica,173,189,ORG
+document_110047.html,Associazioni,179,191,ORG
+document_110065.html,Italia,70,76,LOC
+document_110065.html,Azione Cattolica,114,130,ORG
+document_110065.html,Sede Apostolica,222,237,ORG
+document_110065.html,Padre Santo,248,259,PER
+document_110065.html,Cristo,515,521,PER
+document_110065.html,Chiesa,582,588,ORG
+document_110065.html,Azione Cattolica,628,644,ORG
+document_110065.html,Beatissimo Padre,687,703,PER
+document_110065.html,Azione Cattolica,725,741,ORG
+document_110065.html,Università Italiane,985,1004,ORG
+document_110082.html,Italia,83,89,LOC
+document_110088.html,partito popolare,329,345,ORG
+document_110088.html,Pio XII,1583,1590,PER
+document_110090.html,Betlemme,919,927,LOC
+document_110092.html,Sforza,50,56,PER
+document_110092.html,Sforza,170,176,PER
+document_110092.html,Montevideo,296,306,LOC
+document_110106.html,Luigi Lavitrano,30,45,PER
+document_110106.html,Palermo,65,72,LOC
+document_110106.html,A.C.I.,143,149,ORG
+document_110106.html,Associazioni Universitarie Cattoliche,292,329,ORG
+document_110106.html,Italia,335,341,LOC
+document_110106.html,Fuci,388,392,ORG
+document_110114.html,Italia,114,120,LOC
+document_110139.html,Tunisia,172,179,LOC
+document_110139.html,Italia,302,308,LOC
+document_110143.html,Italia,27,33,LOC
+document_110144.html,Padre,38,43,PER
+document_110155.html,Italia,65,71,LOC
+document_110155.html,Italia,624,630,LOC
+document_110167.html,Germania,64,72,LOC
+document_110177.html,Azione Cattolica,48,64,ORG
+document_110177.html,Roma,77,81,LOC
+document_110177.html,Italia,404,410,LOC
+document_110177.html,Azione Cattolica,1535,1551,ORG
+document_110177.html,Paese,1608,1613,LOC
+document_110199.html,Italia,232,238,LOC
+document_110199.html,Roma,436,440,LOC
+document_110199.html,FUCI,509,513,ORG
+document_110205.html,Parri,158,163,PER
+document_110220.html,Laureati Cattolici,130,148,ORG
+document_110220.html,Laureati,523,531,ORG
+document_110220.html,Roma,566,570,LOC
+document_110220.html,Laureati Cattolici,631,649,ORG
+document_110220.html,Patria,875,881,LOC
+document_110220.html,Italia,984,990,LOC
+document_121003.html,Stato,696,701,ORG
+document_121012.html,Moro,13,17,PER
+document_121012.html,Lombardi,45,53,PER
+document_121020.html,Moro,13,17,PER
+document_121020.html,Commissione,123,134,ORG
+document_121020.html,Presidente,233,243,PER
+document_121021.html,Moro,13,17,PER
+document_121021.html,La Pira,334,341,PER
+document_121021.html,Basso,363,368,PER
+document_121024.html,Moro,13,17,PER
+document_121024.html,Basso,158,163,PER
+document_121024.html,Marchesi,169,177,PER
+document_121024.html,La Pira,382,389,PER
+document_121029.html,Moro,13,17,PER
+document_121029.html,Dossetti,144,152,PER
+document_121034.html,Moro,13,17,PER
+document_121034.html,Basso,71,76,PER
+document_121043.html,Moro,13,17,PER
+document_121043.html,Marchesi,84,92,PER
+document_121087.html,Moro,13,17,PER
+document_121087.html,Cevolotto,145,154,PER
+document_121087.html,Togliatti,206,215,PER
+document_121088.html,Moro,13,17,PER
+document_121088.html,Cevolotto,198,207,PER
+document_121088.html,Terracini,983,992,PER
+document_121093.html,Moro,13,17,PER
+document_121093.html,Sottocommissione,293,309,ORG
+document_121093.html,Consulta araldica,660,677,ORG
+document_121097.html,Stato,68,73,ORG
+document_121097.html,Chiesa,76,82,ORG
+document_121097.html,Moro,111,115,PER
+document_121104.html,Italia,188,194,LOC
+document_121109.html,Assemblea costituente,35,56,ORG
+document_121134.html,Democrazia cristiana,489,509,ORG
+document_121134.html,Italia,818,824,LOC
+document_121142.html,Ferdinando Vegas,67,83,PER
+document_121149.html,Italia,141,147,LOC
+document_121149.html,Italia,462,468,LOC
+document_121170.html,Commissione,58,69,ORG
+document_121170.html,Targetti,189,197,PER
+document_121186.html,Assemblea costituente,100,121,ORG
+document_121186.html,Corte costituzionale,174,194,ORG
+document_121186.html,Condorelli,353,363,PER
+document_121186.html,Regione,613,620,LOC
+document_121196.html,DC,3,5,ORG
+document_121217.html,Luciano Magrini,198,213,PER
+document_121217.html,Il Mondo,256,264,ORG
+document_121238.html,Italia,89,95,LOC
+document_121238.html,Maria Montessori,167,183,PER
+document_121238.html,Italia,279,285,LOC
+document_121238.html,Paese,356,361,LOC
+document_121239.html,Italia,431,437,LOC
+document_121245.html,Italia,37,43,LOC
+document_121245.html,Università,207,217,ORG
+document_122004.html,Commissione,149,160,ORG
+document_122004.html,Ministro,335,343,PER
+document_122004.html,Senato,469,475,ORG
+document_122004.html,Camera,493,499,ORG
+document_122004.html,Ministero,504,513,ORG
+document_122004.html,Ministro,828,836,PER
+document_122004.html,Ministro,1422,1430,PER
+document_122004.html,Marchesi,1454,1462,PER
+document_122004.html,Ministero,1510,1519,ORG
+document_122004.html,Ministro,1606,1614,PER
+document_122012.html,Polesine,152,160,LOC
+document_122012.html,Nenni,298,303,PER
+document_122018.html,Maria Montessori,78,94,PER
+document_122018.html,Parlamento,207,217,ORG
+document_122018.html,Maria Montessori,279,295,PER
+document_122018.html,Aula,325,329,ORG
+document_122033.html,governo,36,43,ORG
+document_122033.html,governo,162,169,ORG
+document_122033.html,Covelli,246,253,PER
+document_122034.html,Camera dei Deputati,63,82,ORG
+document_122034.html,Camera,300,306,ORG
+document_122034.html,Corte Costituzionale,349,369,ORG
+document_122034.html,Assemblea,407,416,ORG
+document_122034.html,Camera,461,467,ORG
+document_122034.html,Giunta,515,521,ORG
+document_122034.html,Giunta,585,591,ORG
+document_122034.html,Camera,709,715,ORG
+document_122034.html,Parlamento,955,965,ORG
+document_122034.html,Giunta,1043,1049,ORG
+document_122034.html,Camera,1055,1061,ORG
+document_122034.html,Parlamento,1181,1191,ORG
+document_122044.html,Presidente,7,17,PER
+document_122044.html,Giuseppe Bettiol,111,127,PER
+document_122067.html,Mattei,68,74,PER
+document_131006.html,Sicilia,26,33,LOC
+document_131006.html,Palermo,48,55,LOC
+document_131034.html,Moro,6,10,PER
+document_131034.html,Movimento femminile,208,227,ORG
+document_131034.html,Partito,394,401,ORG
+document_131034.html,D.C.,447,451,ORG
+document_131034.html,D.C.,663,667,ORG
+document_131058.html,Democrazia Cristiana,20,40,ORG
+document_131058.html,Moro,45,49,PER
+document_131058.html,Sala Bossi,89,99,LOC
+document_131058.html,Partito comunista,264,281,ORG
+document_131067.html,Consiglio Nazionale,20,39,ORG
+document_131067.html,DC,649,651,ORG
+document_131067.html,DC,1192,1194,ORG
+document_131067.html,DC,1326,1328,ORG
+document_131072.html,Presidente del Consiglio,49,73,PER
+document_131072.html,Morlino,434,441,PER
+document_131084.html,D.C.,19,23,ORG
+document_131084.html,D.C.,235,239,ORG
+document_131084.html,Paese,392,397,LOC
+document_131084.html,Italia,513,519,LOC
+document_131087.html,Napoli,53,59,LOC
+document_131087.html,D.C.,106,110,ORG
+document_131087.html,D.C.,452,456,ORG
+document_131087.html,Napoli,486,492,LOC
+document_131092.html,Moro,6,10,PER
+document_131092.html,Partito,79,86,ORG
+document_131092.html,Napoli,198,204,LOC
+document_131092.html,Moro,315,319,PER
+document_131092.html,Partito,628,635,ORG
+document_131092.html,Napoli,723,729,LOC
+document_131092.html,Partito,1004,1011,ORG
+document_131092.html,D.C.,1043,1047,ORG
+document_131092.html,D.C.,1204,1208,ORG
+document_131106.html,Roma,133,137,LOC
+document_131106.html,Napoli,139,145,LOC
+document_131106.html,Bari,147,151,LOC
+document_131106.html,Pisa,153,157,LOC
+document_131106.html,Foggia,159,165,LOC
+document_131106.html,Paese,582,587,LOC
+document_131111.html,Berloffa,176,184,PER
+document_131111.html,Roma,754,758,LOC
+document_131111.html,Partito,1793,1800,ORG
+document_131117.html,Segretario,33,43,PER
+document_131117.html,Società italiana,464,480,ORG
+document_131119.html,Padova,2,8,LOC
+document_131119.html,Aldo Moro,89,98,PER
+document_131119.html,Perugia,175,182,LOC
+document_131119.html,Moro,270,274,PER
+document_131120.html,DC,29,31,ORG
+document_131120.html,Moro,36,40,PER
+document_131120.html,Bergamo,58,65,LOC
+document_131120.html,Teatro Nuovo,118,130,LOC
+document_131120.html,DC,191,193,ORG
+document_131120.html,Moro,400,404,PER
+document_131120.html,DC,467,469,ORG
+document_131120.html,DC,636,638,ORG
+document_131120.html,Paese,816,821,LOC
+document_131120.html,DC,874,876,ORG
+document_131126.html,DC,534,536,ORG
+document_131126.html,Partito,980,987,ORG
+document_131126.html,Consiglio Nazionale,1244,1263,ORG
+document_131126.html,Napoli,1626,1632,LOC
+document_131128.html,Democrazia Cristiana,19,39,ORG
+document_131128.html,Nazioni Unite,486,499,ORG
+document_131128.html,Alleanza Atlantica,925,943,ORG
+document_131130.html,Presidente,25,35,PER
+document_131130.html,Governo,176,183,ORG
+document_131130.html,Governo,220,227,ORG
+document_131130.html,Togliatti,315,324,PER
+document_131130.html,Governo,428,435,ORG
+document_131130.html,partito comunista,538,555,ORG
+document_132006.html,Sommo Pontefice,25,40,PER
+document_132006.html,Terrasanta,44,54,LOC
+document_132006.html,Chiesa,331,337,ORG
+document_132006.html,Chiesa,476,482,ORG
+document_132011.html,Italia,25,31,LOC
+document_132011.html,Paese,127,132,LOC
+document_132011.html,Governo,221,228,ORG
+document_132011.html,Governo,471,478,ORG
+document_132011.html,Italia,684,690,LOC
+document_132011.html,Governo,752,759,ORG
+document_132011.html,Italia,1088,1094,LOC
+document_132028.html,Rai,39,42,ORG
+document_132028.html,Governo,135,142,ORG
+document_132047.html,Malta,164,169,LOC
+document_132065.html,Presidente del Consiglio,62,86,PER
+document_132065.html,IRI,167,170,ORG
+document_132065.html,Alitalia,177,185,ORG
+document_132065.html,Presidente,300,310,PER
+document_132065.html,Carandini,311,320,PER
+document_132073.html,Aldo Moro,32,41,PER
+document_132073.html,Bari,67,71,LOC
+document_132086.html,Roma,14,18,LOC
+document_132086.html,Italia,83,89,LOC
+document_132086.html,Nato,137,141,ORG
+document_132086.html,Governo italiano,151,167,ORG
+document_132108.html,Presidente,155,165,PER
+document_132108.html,Togni,175,180,PER
+document_132109.html,Pacifico,116,124,LOC
+document_132109.html,Italia,193,199,LOC
+document_132109.html,Giappone,292,300,LOC
+document_132115.html,Badaloni,39,47,PER
+document_132115.html,Aldo Moro,131,140,PER
+document_132115.html,AIMC,237,241,ORG
+document_132117.html,Aldo Moro,32,41,PER
+document_132117.html,Firenze,57,64,LOC
+document_132117.html,Sindaco,169,176,PER
+document_132117.html,Firenze,180,187,LOC
+document_132124.html,Jugoslavia,39,49,LOC
+document_132124.html,Stambolic,114,123,PER
+document_132165.html,Bari,54,58,LOC
+document_132165.html,Bari,216,220,LOC
+document_132165.html,Bari,317,321,LOC
+document_132165.html,Governo,406,413,ORG
+document_132165.html,Paese,523,528,LOC
+document_132165.html,Italia,814,820,LOC
+document_132165.html,Mezzogiorno,1147,1158,LOC
+document_132165.html,Italia,1161,1167,LOC
+document_132165.html,Governo,1272,1279,ORG
+document_132171.html,Città,158,163,LOC
+document_132171.html,Berlino,218,225,LOC
+document_132172.html,Ice,122,125,ORG
+document_132172.html,Aldo Moro,159,168,PER
+document_132172.html,Istituto,228,236,ORG
+document_132172.html,Tolloy,442,448,PER
+document_132172.html,Ice,471,474,ORG
+document_132172.html,Donati,481,487,PER
+document_132172.html,Moro,495,499,PER
+document_132172.html,Governo,554,561,ORG
+document_132172.html,Governo,779,786,ORG
+document_132173.html,Cesare Battisti,64,79,PER
+document_132173.html,Trento,99,105,LOC
+document_132173.html,Battisti,357,365,PER
+document_132173.html,Eroi,385,389,ORG
+document_132173.html,Battisti,407,415,PER
+document_132179.html,Parlamento italiano,444,463,ORG
+document_132179.html,Governo,611,618,ORG
+document_132179.html,Governo,748,755,ORG
+document_132179.html,Parlamento,769,779,ORG
+document_132179.html,Almirante,819,828,PER
+document_132179.html,Governo,875,882,ORG
+document_132179.html,Camera,971,977,ORG
+document_132179.html,Alto Adige,983,993,LOC
+document_132179.html,Camera,1080,1086,ORG
+document_132183.html,Aldo Moro,32,41,PER
+document_132183.html,Amministrazione,280,295,ORG
+document_132183.html,Salerno,299,306,LOC
+document_132183.html,Menna,342,347,PER
+document_132194.html,Gorizia,36,43,LOC
+document_132194.html,Paese,263,268,LOC
+document_132194.html,Oslavia,1054,1061,LOC
+document_132194.html,Sabotino,1111,1119,LOC
+document_132194.html,Pogdora,1125,1132,LOC
+document_132194.html,Gorizia,1198,1205,LOC
+document_132194.html,Oslavia,1567,1574,LOC
+document_132194.html,Sabotino,1791,1799,LOC
+document_132194.html,Gorizia,1802,1809,LOC
+document_132198.html,Firenze,2,9,LOC
+document_132198.html,Aldo Moro,44,53,PER
+document_132198.html,Bargellini,77,87,PER
+document_132198.html,Governo,178,185,ORG
+document_132198.html,Firenze,216,223,LOC
+document_132223.html,Governo italiano,95,111,ORG
+document_132223.html,Italia,206,212,LOC
+document_132230.html,Paese,398,403,LOC
+document_132230.html,Segretario politico,773,792,PER
+document_132230.html,Partito,868,875,ORG
+document_132232.html,Codogno,19,26,LOC
+document_132256.html,Alberobello,3,14,LOC
+document_132256.html,Italiana Maestri Cattolici,70,96,ORG
+document_132256.html,Aldo Moro,162,171,PER
+document_132256.html,Maria Badaloni,236,250,PER
+document_132256.html,Moro,517,521,PER
+document_132256.html,Paese,1103,1108,LOC
+document_132257.html,Cuneo,2,7,LOC
+document_132257.html,Aldo Moro,41,50,PER
+document_132257.html,Giovanni Giraudo,171,187,PER
+document_132257.html,Provincia,251,260,LOC
+document_132257.html,Moro,289,293,PER
+document_132257.html,Cuneo,346,351,LOC
+document_132264.html,Dc,45,47,ORG
+document_132264.html,Italia,368,374,LOC
+document_132264.html,Partito,716,723,ORG
+document_132264.html,Democrazia Cristiana,1070,1090,ORG
+document_132272.html,Partito,49,56,ORG
+document_132272.html,Democrazia Cristiana,235,255,ORG
+document_132274.html,Tremelloni,77,87,PER
+document_132274.html,Ministero della Difesa,125,147,ORG
+document_132274.html,Istituto di guerra marittima,227,255,ORG
+document_132289.html,Comitato,36,44,ORG
+document_132289.html,Governo,203,210,ORG
+document_132289.html,Massimo Pilotti,387,402,PER
+document_132289.html,Gaetano Azzariti,410,426,PER
+document_132289.html,Andrea Torrente,435,450,PER
+document_132296.html,Regione valdostana,166,184,LOC
+document_132296.html,Union Valdotaine,322,338,ORG
+document_132296.html,Val d'Aosta,635,646,LOC
+document_132296.html,Regione,1114,1121,LOC
+document_141002.html,Stefano Brun,103,115,PER
+document_141002.html,Unione italiana delle Camere di Commercio,218,259,ORG
+document_141002.html,Stagni,319,325,PER
+document_141002.html,Stefano Brun,405,417,PER
+document_141009.html,PCI,101,104,ORG
+document_141016.html,Democrazia Cristiana,648,668,ORG
+document_141027.html,Caltanissetta,2,15,LOC
+document_141027.html,Aldo Moro,23,32,PER
+document_141027.html,Democrazia Cristiana,62,82,ORG
+document_141027.html,Mezzogiorno,123,134,LOC
+document_141027.html,Italia,137,143,LOC
+document_141031.html,Taviani,19,26,PER
+document_141031.html,Gaspari,82,89,PER
+document_141036.html,Aldo Moro,6,15,PER
+document_141036.html,Sassari,28,35,LOC
+document_141036.html,Sardegna,77,85,LOC
+document_141036.html,Mezzogiorno,247,258,LOC
+document_141036.html,Italia,261,267,LOC
+document_141036.html,Paese,1050,1055,LOC
+document_141046.html,Comunità,45,53,ORG
+document_141046.html,Jugoslavia,62,72,LOC
+document_141046.html,Paese,184,189,LOC
+document_141046.html,Governo,234,241,ORG
+document_141061.html,Aja,121,124,ORG
+document_141061.html,Bruxelles,181,190,LOC
+document_141061.html,Lussemburgo,200,211,LOC
+document_141061.html,Maurice Schumann,252,268,PER
+document_141061.html,Moro-Schumann,356,369,PER
+document_141061.html,Schumann,498,506,PER
+document_141094.html,Aja,199,202,ORG
+document_141094.html,Europa,234,240,LOC
+document_141095.html,République Arabe Unie,13,34,LOC
+document_141095.html,Cairo,87,92,LOC
+document_141095.html,Ministre,267,275,PER
+document_141097.html,Bruxelles,54,63,LOC
+document_141097.html,Conseil Atlantique,155,173,ORG
+document_141099.html,Aldo Moro,30,39,PER
+document_141099.html,Brescia,52,59,LOC
+document_141104.html,Commissione,79,90,ORG
+document_141104.html,Comitato dei Rappresentanti Permanenti,293,331,ORG
+document_141104.html,Comunità,470,478,ORG
+document_141114.html,Camera,53,59,ORG
+document_141114.html,Governo,82,89,ORG
+document_141114.html,Libia,163,168,LOC
+document_141155.html,Moro,0,4,PER
+document_141155.html,Israele,46,53,LOC
+document_141155.html,Knesset,180,187,ORG
+document_141155.html,Gerusalemme,206,217,LOC
+document_141155.html,Gerusalemme,498,509,LOC
+document_141168.html,Ghana,226,231,LOC
+document_141172.html,Governo italiano,49,65,ORG
+document_141172.html,Governo indonesiano,206,225,ORG
+document_141172.html,Djakarta,250,258,LOC
+document_141180.html,Governo italiano,69,85,ORG
+document_141180.html,Roma,150,154,LOC
+document_141193.html,Bouteflika,103,113,PER
+document_141193.html,Algérie,173,180,LOC
+document_141203.html,Italia,56,62,LOC
+document_141203.html,Moro,165,169,PER
+document_141203.html,Villa Madama,223,235,LOC
+document_141206.html,Comunità,3,11,ORG
+document_141206.html,Comunità Economica Europea,103,129,ORG
+document_141206.html,Turchia,138,145,LOC
+document_141213.html,Nixon,146,151,PER
+document_141225.html,Parlamento Europeo,15,33,ORG
+document_141225.html,Consiglio,52,61,ORG
+document_141225.html,Comunità,178,186,ORG
+document_141226.html,Moro,38,42,PER
+document_141226.html,Mosca,162,167,LOC
+document_141226.html,Varsavia,176,184,LOC
+document_141226.html,Berlino,219,226,LOC
+document_141226.html,Europa,275,281,LOC
+document_141226.html,Berlino,373,380,LOC
+document_141239.html,Moro,105,109,PER
+document_141239.html,Comunità economica europea,158,184,ORG
+document_141239.html,Turchia,269,276,LOC
+document_141245.html,Moro,25,29,PER
+document_141245.html,Repubblica araba egiziana,87,112,LOC
+document_141245.html,Farnesina,178,187,ORG
+document_141245.html,Italia,215,221,LOC
+document_141245.html,RAE,224,227,ORG
+document_141245.html,Ripamonti,513,522,PER
+document_141245.html,Pedini,558,564,PER
+document_141245.html,Picardi,598,605,PER
+document_141245.html,Cairo,833,838,LOC
+document_141249.html,Aldo Moro,6,15,PER
+document_141249.html,San Giovanni in Fiore,28,49,LOC
+document_141249.html,Catanzaro,70,79,LOC
+document_141249.html,Cosenza,82,89,LOC
+document_141249.html,Partiti,450,457,ORG
+document_141249.html,Democrazia Cristiana,1168,1188,ORG
+document_141249.html,Moro,1247,1251,PER
+document_141249.html,Democrazia Cristiana,1350,1370,ORG
+document_141249.html,Governo,1556,1563,ORG
+document_141249.html,Paese,1567,1572,LOC
+document_141254.html,Governo italiano,52,68,ORG
+document_141254.html,Milano,324,330,LOC
+document_141259.html,Aldo Moro,39,48,PER
+document_141259.html,Cassino,52,59,LOC
+document_141267.html,Governatore Generale,7,27,PER
+document_141267.html,Primo Ministro,40,54,PER
+document_141269.html,Comunità,78,86,ORG
+document_141269.html,Comunità dei Dieci,294,312,ORG
+document_141270.html,Repubblica Federale Tedesca,47,74,LOC
+document_141270.html,Willy Brandt,132,144,PER
+document_141271.html,Moro,25,29,PER
+document_141271.html,Lussemburgo,58,69,LOC
+document_141271.html,NATO,207,211,ORG
+document_141271.html,Bonn,217,221,LOC
+document_141271.html,MEC,358,361,ORG
+document_141271.html,Comunità,461,469,ORG
+document_141276.html,Governo maltese,111,126,ORG
+document_141276.html,Governo italiano,310,326,ORG
+document_141276.html,Bemporad,466,474,PER
+document_141276.html,Cariglia,480,488,PER
+document_141276.html,Governo maltese,542,557,ORG
+document_141276.html,Governo italiano,685,701,ORG
+document_141276.html,Malta,922,927,LOC
+document_141276.html,Repubblica federale tedesca,975,1002,LOC
+document_141276.html,Canada,1009,1015,LOC
+document_141294.html,Aldo Moro,73,82,PER
+document_141302.html,Provincia,69,78,LOC
+document_141302.html,Democrazia Cristiana,167,187,ORG
+document_141302.html,Partito,377,384,ORG
+document_141304.html,Democrazia Cristiana,279,299,ORG
+document_141304.html,Paese,325,330,LOC
+document_142010.html,Presidente,8,18,PER
+document_142010.html,Governo,43,50,ORG
+document_142010.html,Salvador Allende,266,282,PER
+document_142022.html,Presidente,10,20,PER
+document_142022.html,Parlamento italiano,73,92,ORG
+document_142022.html,Governo,226,233,ORG
+document_142022.html,Parlamento,282,292,ORG
+document_142022.html,Paese,299,304,LOC
+document_142022.html,Parlamento,495,505,ORG
+document_142035.html,Paese,302,307,LOC
+document_142035.html,Moro,352,356,PER
+document_142035.html,Francia,492,499,LOC
+document_142035.html,Italia,502,508,LOC
+document_142035.html,unione europea,672,686,ORG
+document_142036.html,Moro,13,17,PER
+document_142036.html,Italia,268,274,LOC
+document_142036.html,Gran Bretagna,345,358,LOC
+document_142036.html,Comunità,377,385,ORG
+document_142036.html,Gran Bretagna,428,441,LOC
+document_142036.html,Moro,458,462,PER
+document_142036.html,Comunità,496,504,ORG
+document_142036.html,Parlamento britannico,744,765,ORG
+document_142041.html,Cile,134,138,LOC
+document_142041.html,governo,161,168,ORG
+document_142047.html,Africa,58,64,LOC
+document_142047.html,Moro,91,95,PER
+document_142047.html,Africa,211,217,LOC
+document_142047.html,OUA,769,772,ORG
+document_142051.html,Malta,160,165,LOC
+document_142051.html,Paese,279,284,LOC
+document_142053.html,Moro,13,17,PER
+document_142053.html,Varsavia,47,55,LOC
+document_142053.html,Bruxelles,84,93,LOC
+document_142053.html,Europa,202,208,LOC
+document_142053.html,Urss,388,392,ORG
+document_142061.html,Togliatti,32,41,PER
+document_142061.html,Costituente,125,136,ORG
+document_142061.html,Assemblea,258,267,ORG
+document_142061.html,Togliatti,425,434,PER
+document_142061.html,Togliatti,646,655,PER
+document_142061.html,DC,692,694,ORG
+document_142061.html,Repubblica italiana,1156,1175,LOC
+document_142073.html,Presidente,8,18,PER
+document_142073.html,Senato,140,146,ORG
+document_142073.html,Camera dei deputati,153,172,ORG
+document_142073.html,Governo,809,816,ORG
+document_142073.html,Rognoni,913,920,PER
+document_142073.html,De Martino,943,953,PER
+document_142073.html,Orlandi,962,969,PER
+document_142073.html,Biasini,978,985,PER
+document_142079.html,Primo ministro,10,24,PER
+document_142079.html,governo italiano,58,74,ORG
+document_142083.html,Governo italiano,4,20,ORG
+document_142083.html,Italia,85,91,LOC
+document_142083.html,Nazioni Unite,122,135,ORG
+document_142083.html,Organizzazione,197,211,ORG
+document_142087.html,Primo Ministro,8,22,PER
+document_142087.html,Roma,133,137,LOC
+document_142087.html,Canadà,385,391,LOC
+document_142087.html,Italia,401,407,LOC
+document_142116.html,Italia,4,10,LOC
+document_142116.html,Primo Ministro,76,90,PER
+document_142116.html,Roma,125,129,LOC
+document_142120.html,Mezzogiorno,84,95,LOC
+document_142128.html,Badioli,255,262,PER
+document_142128.html,Badioli,472,479,PER
+document_142145.html,Democrazia Cristiana,219,239,ORG
+document_142145.html,Cappi,372,377,PER
+document_142145.html,Piccioni,386,394,PER
+document_142145.html,Gonella,403,410,PER
+document_142145.html,Cingolani,419,428,PER
+document_142145.html,Merlin,437,443,PER
+document_142145.html,Tupini,452,458,PER
+document_142145.html,Fanfani,540,547,PER
+document_142145.html,Moro,556,560,PER
+document_142145.html,Rumor,569,574,PER
+document_142145.html,Colombo,583,590,PER
+document_142145.html,Andreotti,600,609,PER
+document_142145.html,Taviani,619,626,PER
+document_142145.html,De Mita,763,770,PER
+document_142145.html,Marcora,780,787,PER
+document_142145.html,Morlino,797,804,PER
+document_142145.html,Cossiga,814,821,PER
+document_142145.html,Gullotti,831,839,PER
+document_142145.html,Bisaglia,849,857,PER
+document_142149.html,Primo Ministro,4,18,PER
+document_142149.html,Wilson,19,25,PER
+document_142149.html,Governo britannico,88,106,ORG
+document_142160.html,Aldo Moro,33,42,PER
+document_142160.html,Triestee,55,63,LOC
+document_142160.html,Vittorio Veneto,82,97,LOC
+document_142160.html,Democrazia Cristiana,151,171,ORG
+document_142160.html,Democrazia Cristiana,354,374,ORG
+document_142160.html,Paese,463,468,LOC
+document_142160.html,Democrazia Cristiana,913,933,ORG
+document_142162.html,Aldo Moro,33,42,PER
+document_142162.html,Luccae,55,61,LOC
+document_142162.html,Savona,62,68,LOC
+document_142162.html,Democrazia Cristiana,134,154,ORG
+document_142162.html,Democrazia Cristiana,746,766,ORG
+document_142170.html,Democrazia Cristiana,62,82,ORG
+document_142170.html,Democrazia Cristiana,168,188,ORG
+document_142170.html,Italia,229,235,LOC
+document_142170.html,Democrazia Cristiana,735,755,ORG
+document_142186.html,Stati Uniti,56,67,LOC
+document_142196.html,Presidente,7,17,PER
+document_142196.html,Tremaglia,200,209,PER
+document_142196.html,Presidente,391,401,PER
+document_142196.html,Commissione esteri,408,426,ORG
+document_142209.html,Democrazia cristiana,243,263,ORG
+document_142221.html,Camere,10,16,ORG
+document_142221.html,Kappler,381,388,PER
+document_142222.html,D.C.,24,28,ORG

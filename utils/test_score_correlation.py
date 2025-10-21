@@ -4,7 +4,7 @@ from scipy.stats import pointbiserialr
 
 df_blink = pd.read_csv("./eval/results/AMD/ED/cblink/output.csv")
 df_elite = pd.read_csv("./eval/results/AMD/ED/delicate_all/output.csv")
-df_gt = pd.read_csv("../my_zenodo/ENEIDE/AMD/v1.0/annotations_test.csv")
+df_gt = pd.read_csv("../ENEIDE-data/v1.0/AMD/annotations_test.csv")
 
 
 common_fields = ["doc_id", "surface", "start_pos", "end_pos", "type"]

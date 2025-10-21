@@ -1,0 +1,18 @@
+Results with exact match for all classes:
+
+True Positives: 376
+False Positives: 204
+False Negatives: 213
+Precision: 64.82758620689654
+Recall: 63.83701188455009
+F1: 64.3284858853721
+
+Results with relaxed match for all classes:
+
+True Positives: 376
+False Positives: 204
+False Negatives: 213
+Precision: 64.82758620689654
+Recall: 63.83701188455009
+F1: 64.3284858853721
+

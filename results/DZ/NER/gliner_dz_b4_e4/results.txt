@@ -1,0 +1,72 @@
+Results with exact match for all classes:
+
+True Positives: 434
+False Positives: 86
+False Negatives: 183
+Precision: 0.8346153846153846
+Recall: 0.7034035656401945
+F1: 0.7634124890061564
+
+Results with relaxed match for all classes:
+
+True Positives: 469
+False Positives: 54
+False Negatives: 148
+Precision: 0.8967495219885278
+Recall: 0.7601296596434359
+F1: 0.8228070175438597
+
+Results with exact match for class Person:
+
+True Positives: 249
+False Positives: 26
+False Negatives: 69
+Precision: 0.9054545454545454
+Recall: 0.7830188679245284
+F1: 0.8397976391231029
+
+Results with relaxed match for class Person:
+
+True Positives: 257
+False Positives: 20
+False Negatives: 61
+Precision: 0.927797833935018
+Recall: 0.8081761006289309
+F1: 0.8638655462184873
+
+Results with exact match for class Work:
+
+True Positives: 82
+False Positives: 55
+False Negatives: 87
+Precision: 0.5985401459854015
+Recall: 0.48520710059171596
+F1: 0.5359477124183006
+
+Results with relaxed match for class Work:
+
+True Positives: 106
+False Positives: 32
+False Negatives: 63
+Precision: 0.7681159420289855
+Recall: 0.6272189349112426
+F1: 0.6905537459283387
+
+Results with exact match for class Location:
+
+True Positives: 103
+False Positives: 5
+False Negatives: 27
+Precision: 0.9537037037037037
+Recall: 0.7923076923076923
+F1: 0.865546218487395
+
+Results with relaxed match for class Location:
+
+True Positives: 106
+False Positives: 2
+False Negatives: 24
+Precision: 0.9814814814814815
+Recall: 0.8153846153846154
+F1: 0.8907563025210083
+

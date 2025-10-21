@@ -1,0 +1,525 @@
+doc_id,start_pos,end_pos,surface,type,identifier,title,score
+https://digitalzibaldone.net/node/p1012_2,243,249,Andrès,PER,Q2758559,Juan Andrés,142.0982666015625
+https://digitalzibaldone.net/node/p1012_2,251,256,l. c.,WORK,Q193506,Marco Porcio Catone Uticense,148.46206665039062
+https://digitalzibaldone.net/node/p1012_2,276,280,Roma,LOC,Q220,Roma,107.20443725585938
+https://digitalzibaldone.net/node/p1012_2,416,422,Milano,LOC,Q490,Milano,106.27069091796875
+https://digitalzibaldone.net/node/p1012_2,529,537,Cicerone,PER,Q1541,Marco Tullio Cicerone,137.3910675048828
+https://digitalzibaldone.net/node/p1012_2,540,546,Andrès,PER,Q2758559,Juan Andrés,143.60165405273438
+https://digitalzibaldone.net/node/p1012_2,548,553,l. c.,WORK,Q180081,Marco Porcio Catone,156.28964233398438
+https://digitalzibaldone.net/node/p1023_2,189,195,italia,LOC,Q38,Italia,105.95694732666016
+https://digitalzibaldone.net/node/p1023_2,251,255,Cic.,PER,Q1541,Marco Tullio Cicerone,142.06549072265625
+https://digitalzibaldone.net/node/p1023_2,262,270,Virgilio,PER,Q1398,Publio Virgilio Marone,129.63031005859375
+https://digitalzibaldone.net/node/p1023_2,289,296,Augusto,PER,Q1405,Augusto,128.1673583984375
+https://digitalzibaldone.net/node/p1023_2,425,431,Andrès,PER,Q2758559,Juan Andrés,138.04055786132812
+https://digitalzibaldone.net/node/p1023_2,433,440,l. cit.,WORK,Q2274948,Lucio Flavio Filostrato,151.8798370361328
+https://digitalzibaldone.net/node/p1034_2,62,68,Italia,LOC,Q38,Italia,103.93374633789062
+https://digitalzibaldone.net/node/p1037_1,64,73,Demostene,PER,Q117253,Demostene,126.43061828613281
+https://digitalzibaldone.net/node/p1040_1,280,286,Grecia,LOC,Q41,Grecia,114.99710083007812
+https://digitalzibaldone.net/node/p1040_1,421,427,italia,LOC,Q184313,Magna Grecia,111.93850708007812
+https://digitalzibaldone.net/node/p1040_1,436,442,Gallie,LOC,Q273854,Galli,137.61151123046875
+https://digitalzibaldone.net/node/p1040_1,642,648,Gallie,LOC,Q273854,Galli,141.44778442382812
+https://digitalzibaldone.net/node/p1040_1,681,687,italia,LOC,Q38,Italia,104.68257141113281
+https://digitalzibaldone.net/node/p1040_1,721,728,Sicilia,LOC,Q1460,Sicilia,108.37901306152344
+https://digitalzibaldone.net/node/p1040_1,740,746,Gallie,LOC,Q273854,Galli,143.17623901367188
+https://digitalzibaldone.net/node/p1040_1,1300,1306,italia,LOC,Q38,Italia,103.62591552734375
+https://digitalzibaldone.net/node/p1040_1,1312,1319,Francia,LOC,Q142,Francia,108.56538391113281
+https://digitalzibaldone.net/node/p1040_1,1610,1616,italia,LOC,Q38,Italia,103.31183624267578
+https://digitalzibaldone.net/node/p1040_1,1622,1629,Francia,LOC,Q142,Francia,107.53179931640625
+https://digitalzibaldone.net/node/p1042_2,208,214,italia,LOC,Q38,Italia,104.28732299804688
+https://digitalzibaldone.net/node/p1042_2,333,339,Gallie,LOC,Q38060,Gallia,130.48037719726562
+https://digitalzibaldone.net/node/p1042_2,432,436,Roma,LOC,Q220,Roma,109.87408447265625
+https://digitalzibaldone.net/node/p1042_2,442,448,italia,LOC,Q38,Italia,104.17605590820312
+https://digitalzibaldone.net/node/p1042_2,622,626,Roma,LOC,Q220,Roma,111.65738677978516
+https://digitalzibaldone.net/node/p1042_2,632,638,italia,LOC,Q38,Italia,107.44151306152344
+https://digitalzibaldone.net/node/p1042_2,965,971,Gallie,LOC,Q38060,Gallia,132.4374237060547
+https://digitalzibaldone.net/node/p1042_2,1112,1118,italia,LOC,Q38,Italia,109.74270629882812
+https://digitalzibaldone.net/node/p1042_2,1171,1178,Francia,LOC,Q142,Francia,117.63543701171875
+https://digitalzibaldone.net/node/p1045_2,3,10,Francia,LOC,Q142,Francia,108.39313507080078
+https://digitalzibaldone.net/node/p1045_2,595,606,inghilterra,LOC,Q21,Inghilterra,109.31263732910156
+https://digitalzibaldone.net/node/p1045_2,741,747,europa,LOC,Q46,Europa,108.47726440429688
+https://digitalzibaldone.net/node/p1045_2,804,810,Andrès,PER,Q84233,Ludwig von Mises,148.67697143554688
+https://digitalzibaldone.net/node/p1045_2,888,894,europa,LOC,NIL,,0
+https://digitalzibaldone.net/node/p1045_2,997,1008,Shakespeare,PER,Q692,William Shakespeare,122.1581802368164
+https://digitalzibaldone.net/node/p1045_2,1074,1081,Francia,LOC,Q142,Francia,112.54359436035156
+https://digitalzibaldone.net/node/p1048_2,902,913,Castelvetro,PER,Q936665,Lodovico Castelvetro,123.99920654296875
+https://digitalzibaldone.net/node/p1049_1,300,306,Orazio,PER,Q6197,Quinto Orazio Flacco,129.42518615722656
+https://digitalzibaldone.net/node/p1052_3,59,63,Cic.,PER,Q1541,Marco Tullio Cicerone,147.51727294921875
+https://digitalzibaldone.net/node/p1052_3,74,86,de Senectute,WORK,Q1051232,Cato Maior de senectute,205.6980743408203
+https://digitalzibaldone.net/node/p1054_2,146,152,Sulzer,PER,Q116036,Johann Georg Sulzer,147.08389282226562
+https://digitalzibaldone.net/node/p1054_2,330,340,Forcellini,WORK,Q550353,Egidio Forcellini,135.6148223876953
+https://digitalzibaldone.net/node/p1055_2,128,133,Soave,PER,Q37260,Scrittura,148.78628540039062
+https://digitalzibaldone.net/node/p1055_2,170,179,Compendio,WORK,Q3685091,Compendium,160.45303344726562
+https://digitalzibaldone.net/node/p1055_2,183,188,Locke,PER,Q9353,John Locke,132.37161254882812
+https://digitalzibaldone.net/node/p1055_2,190,197,Venezia,LOC,Q641,Venezia,119.69621276855469
+https://digitalzibaldone.net/node/p1056_3,425,433,Cicerone,PER,Q1541,Marco Tullio Cicerone,131.28501892089844
+https://digitalzibaldone.net/node/p1056_3,441,447,Plauto,PER,Q172048,Publio Terenzio Afro,143.82122802734375
+https://digitalzibaldone.net/node/p1056_3,453,461,Terenzio,PER,Q172048,Publio Terenzio Afro,137.0031280517578
+https://digitalzibaldone.net/node/p1065_3,544,575,Scelta di Opuscoli interessanti,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1065_3,577,583,Milano,LOC,Q490,Milano,108.00953674316406
+https://digitalzibaldone.net/node/p1104_1,502,513,Franciosini,PER,Q1767444,Lorenzo Franciosini,160.2075653076172
+https://digitalzibaldone.net/node/p1104_1,637,642,Dante,PER,Q1067,Dante Alighieri,111.70809936523438
+https://digitalzibaldone.net/node/p1104_1,650,659,la Crusca,WORK,Q188672,Crusca,175.41763305664062
+https://digitalzibaldone.net/node/p1105_1,237,247,Forcellini,WORK,Q550353,Egidio Forcellini,141.91635131835938
+https://digitalzibaldone.net/node/p1105_3,250,258,Virgilio,PER,Q1398,Publio Virgilio Marone,146.93191528320312
+https://digitalzibaldone.net/node/p1105_3,260,264,Aen.,WORK,Q60220,Eneide,177.6887664794922
+https://digitalzibaldone.net/node/p1105_3,1017,1020,En.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1139_1,678,686,Palamede,PER,Q252387,Palamede,165.34176635742188
+https://digitalzibaldone.net/node/p1139_1,688,693,Plin.,PER,Q82778,Plinio il Vecchio,172.7364959716797
+https://digitalzibaldone.net/node/p1139_1,758,765,Servius,PER,Q355350,Servio Mario Onorato,169.79632568359375
+https://digitalzibaldone.net/node/p1139_1,766,773,ad Aen.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1139_1,793,800,Fabric.,PER,Q3767184,Giovanni Fabrini,172.76026916503906
+https://digitalzibaldone.net/node/p1139_1,801,806,B. G.,WORK,Q3767277,Giovan Francesco Loredan,184.22055053710938
+https://digitalzibaldone.net/node/p1139_1,839,847,Hofmanno,PER,Q681601,Leone il Matematico,143.54452514648438
+https://digitalzibaldone.net/node/p1139_1,1249,1276,Annali di Scienze e lettere,WORK,Q193866,Annali,172.46957397460938
+https://digitalzibaldone.net/node/p1139_1,1278,1284,Milano,LOC,Q490,Milano,108.94894409179688
+https://digitalzibaldone.net/node/p1139_1,1368,1375,Giapeto,PER,NIL,,0
+https://digitalzibaldone.net/node/p1139_1,1380,1385,Jafet,PER,Q200637,Jafet,140.70095825195312
+https://digitalzibaldone.net/node/p1148_1,28,38,Forcellini,PER,Q3846125,Marco Forcellini,143.38897705078125
+https://digitalzibaldone.net/node/p1213_1,42,48,europa,LOC,Q46,Europa,107.56926727294922
+https://digitalzibaldone.net/node/p1213_1,352,358,europa,LOC,Q46,Europa,106.76435852050781
+https://digitalzibaldone.net/node/p1213_1,1018,1024,europa,LOC,Q46,Europa,107.15739440917969
+https://digitalzibaldone.net/node/p1213_1,1515,1521,europa,LOC,Q46,Europa,105.90994262695312
+https://digitalzibaldone.net/node/p1213_1,1696,1702,europa,LOC,Q46,Europa,106.80830383300781
+https://digitalzibaldone.net/node/p1213_1,1716,1722,italia,LOC,Q38,Italia,104.10527038574219
+https://digitalzibaldone.net/node/p1213_1,1779,1785,italia,LOC,Q38,Italia,103.93086242675781
+https://digitalzibaldone.net/node/p1217_1,57,68,Vocabolario,WORK,Q8096,Lessico,118.25729370117188
+https://digitalzibaldone.net/node/p1230_1,23,33,Forcellini,PER,Q3846125,Marco Forcellini,138.5203857421875
+https://digitalzibaldone.net/node/p1230_1,162,168,Crusca,WORK,Q188672,Crusca,146.94027709960938
+https://digitalzibaldone.net/node/p1230_1,186,191,Dante,PER,Q1067,Dante Alighieri,112.24787902832031
+https://digitalzibaldone.net/node/p1230_1,203,211,Soderini,PER,Q1102344,Giovan Vettorio Soderini,161.2281494140625
+https://digitalzibaldone.net/node/p1230_1,458,464,Crusca,WORK,Q188672,Crusca,149.53427124023438
+https://digitalzibaldone.net/node/p1230_1,484,503,Storia della Guerra,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1230_1,507,516,Semifonte,PER,Q3955018,Semifonte,135.90994262695312
+https://digitalzibaldone.net/node/p1230_1,528,535,M. Pace,PER,Q3992824,Tommaso Pace,181.92697143554688
+https://digitalzibaldone.net/node/p1230_1,539,547,Certaldo,PER,Q82646,Certaldo,133.4710235595703
+https://digitalzibaldone.net/node/p1230_1,549,556,Firenze,LOC,Q2044,Firenze,105.43641662597656
+https://digitalzibaldone.net/node/p1230_1,793,810,Vincenzo Lancetti,PER,Q723643,Vincenzo Monti,208.76873779296875
+https://digitalzibaldone.net/node/p1230_1,894,900,Milano,LOC,Q490,Milano,106.554931640625
+https://digitalzibaldone.net/node/p1230_1,980,989,la Crusca,WORK,Q338489,Accademia della Crusca,147.41195678710938
+https://digitalzibaldone.net/node/p1230_1,1094,1100,Crusca,WORK,Q188672,Crusca,146.78564453125
+https://digitalzibaldone.net/node/p1230_1,1150,1158,Du Cange,PER,Q442240,"Charles du Fresne, sieur du Cange",153.52947998046875
+https://digitalzibaldone.net/node/p1233_1,92,98,europa,LOC,Q46,Europa,106.00628662109375
+https://digitalzibaldone.net/node/p1233_1,379,390,Vocabolario,WORK,Q8096,Lessico,126.01593017578125
+https://digitalzibaldone.net/node/p1256_2,106,111,Omero,PER,Q6691,Omero,118.40851593017578
+https://digitalzibaldone.net/node/p1256_2,164,173,Raffaello,PER,Q5597,Raffaello Sanzio,118.47383117675781
+https://digitalzibaldone.net/node/p1256_2,1083,1088,Omero,PER,Q6691,Omero,116.59110260009766
+https://digitalzibaldone.net/node/p1260_2,160,167,Alfieri,PER,Q296244,Vittorio Alfieri,131.3770294189453
+https://digitalzibaldone.net/node/p1260_2,179,183,Vita,WORK,Q4014886,Vita (Benvenuto Cellini),126.01554870605469
+https://digitalzibaldone.net/node/p1270_2,815,827,Sir W. Jones,PER,Q273969,William Jones (filologo),162.80435180664062
+https://digitalzibaldone.net/node/p1290_1,731,737,Morery,PER,NIL,,0
+https://digitalzibaldone.net/node/p1290_1,739,768,Grand dictionnaire historique,WORK,Q3026758,Dictionnaire historique de la langue française,201.3802490234375
+https://digitalzibaldone.net/node/p1290_1,795,801,Calmet,PER,Q767668,Agostino Calmet,132.48568725585938
+https://digitalzibaldone.net/node/p1290_1,807,815,Prideaux,PER,Q5941597,Humphrey Prideaux,138.3650665283203
+https://digitalzibaldone.net/node/p1290_1,821,827,Vossio,PER,Q785925,Gerhard Johannes Voss,151.7803955078125
+https://digitalzibaldone.net/node/p1292_1,108,113,Monti,PER,Q723643,Vincenzo Monti,135.46804809570312
+https://digitalzibaldone.net/node/p1302_1,910,917,Gravina,PER,Q727363,Gian Vincenzo Gravina,132.0365447998047
+https://digitalzibaldone.net/node/p1313_1,135,151,Daniello Bartoli,PER,Q2283604,Daniello Bartoli,176.46876525878906
+https://digitalzibaldone.net/node/p1313_1,232,237,Monti,PER,Q723643,Vincenzo Monti,138.64002990722656
+https://digitalzibaldone.net/node/p1313_1,239,247,Proposta,WORK,Q3831809,Libro Dodicesimo della Metafisica,155.6855010986328
+https://digitalzibaldone.net/node/p1313_1,605,612,Bartoli,PER,Q2283604,Daniello Bartoli,137.06649780273438
+https://digitalzibaldone.net/node/p1313_1,1070,1075,Dante,PER,Q1067,Dante Alighieri,110.50237274169922
+https://digitalzibaldone.net/node/p1327_1,101,110,Marmontel,PER,Q379923,Jean-François Marmontel,155.14041137695312
+https://digitalzibaldone.net/node/p1329_1,48,54,italia,LOC,Q38,Italia,104.30183410644531
+https://digitalzibaldone.net/node/p1329_1,306,312,italia,LOC,Q38,Italia,103.0469741821289
+https://digitalzibaldone.net/node/p1329_1,356,364,Lancetti,PER,Q1376130,Meta Heusser-Schweizer,147.66244506835938
+https://digitalzibaldone.net/node/p1329_1,368,373,Monti,PER,Q723643,Vincenzo Monti,122.49655151367188
+https://digitalzibaldone.net/node/p1329_1,380,388,Proposta,WORK,Q3924076,Prose nelle quali si ragiona della volgar lingua,142.015869140625
+https://digitalzibaldone.net/node/p1336_2,412,417,Monti,PER,Q723643,Vincenzo Monti,121.79096984863281
+https://digitalzibaldone.net/node/p1336_2,418,426,Proposta,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1350_1,163,169,Sulzer,PER,Q116036,Johann Georg Sulzer,142.37066650390625
+https://digitalzibaldone.net/node/p1350_1,177,198,Opuscoli interessanti,WORK,Q5173771,Opuscolo,165.4395751953125
+https://digitalzibaldone.net/node/p1350_1,202,208,Milano,LOC,Q490,Milano,107.74603271484375
+https://digitalzibaldone.net/node/p1350_1,305,308,ib.,WORK,Q495527,Filologia classica,156.57391357421875
+https://digitalzibaldone.net/node/p1366_1,14,19,Dante,PER,Q1067,Dante Alighieri,118.08924865722656
+https://digitalzibaldone.net/node/p1366_1,21,32,Petr. Bocc.,PER,Q1401,Francesco Petrarca,145.40960693359375
+https://digitalzibaldone.net/node/p1366_1,293,298,Omero,PER,Q6691,Omero,113.30897521972656
+https://digitalzibaldone.net/node/p1366_1,323,329,Grecia,LOC,Q41,Grecia,113.88208770751953
+https://digitalzibaldone.net/node/p1366_1,511,516,Omero,PER,Q6691,Omero,111.43557739257812
+https://digitalzibaldone.net/node/p1366_1,547,552,Monti,PER,Q723643,Vincenzo Monti,125.53030395507812
+https://digitalzibaldone.net/node/p1366_1,684,689,Omero,PER,Q6691,Omero,115.11522674560547
+https://digitalzibaldone.net/node/p1366_1,723,728,Dante,PER,Q1067,Dante Alighieri,111.43238830566406
+https://digitalzibaldone.net/node/p1366_1,737,742,Dante,PER,Q1067,Dante Alighieri,112.03800201416016
+https://digitalzibaldone.net/node/p1366_1,781,786,Omero,PER,Q6691,Omero,121.35042572021484
+https://digitalzibaldone.net/node/p1378_1,721,726,Gelli,PER,Q294800,Aulo Gellio,145.4822235107422
+https://digitalzibaldone.net/node/p1378_1,728,733,Circe,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1378_1,739,744,Dial.,WORK,Q518160,Giovan Battista Gelli,147.47952270507812
+https://digitalzibaldone.net/node/p1378_1,790,797,Segneri,PER,Q1057722,Paolo Segneri,137.16390991210938
+https://digitalzibaldone.net/node/p1378_1,798,807,Incredulo,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1445_1,129,135,Thomas,PER,Q151403,Thomas Carlyle,136.88406372070312
+https://digitalzibaldone.net/node/p1445_1,136,156,Essai sur les Eloges,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1445_1,210,217,Meursio,PER,Q432075,Obelerio,161.0939483642578
+https://digitalzibaldone.net/node/p1447_3,398,406,Porfirio,PER,Q203445,Porfirio,129.6936798095703
+https://digitalzibaldone.net/node/p1447_3,408,420,Vit. Plotini,WORK,Q134189,Plotino,175.2643585205078
+https://digitalzibaldone.net/node/p1450_1,1027,1032,Tasso,PER,Q168962,Torquato Tasso,116.04182434082031
+https://digitalzibaldone.net/node/p1450_1,1045,1053,Tragedia,WORK,Q80930,Tragedia,123.76234436035156
+https://digitalzibaldone.net/node/p1450_1,1058,1068,Metastasio,PER,Q48900,Ludovico Ariosto,167.93157958984375
+https://digitalzibaldone.net/node/p1450_1,1076,1083,Alfieri,PER,Q296244,Vittorio Alfieri,125.33521270751953
+https://digitalzibaldone.net/node/p1454_1,529,536,Alfieri,PER,Q296244,Vittorio Alfieri,129.46563720703125
+https://digitalzibaldone.net/node/p1468_1,92,100,Cartesio,PER,Q9191,Cartesio,145.53237915039062
+https://digitalzibaldone.net/node/p1468_1,822,828,europa,LOC,Q46,Europa,110.97663116455078
+https://digitalzibaldone.net/node/p1487_1,328,334,Sulzer,PER,Q116036,Johann Georg Sulzer,140.91241455078125
+https://digitalzibaldone.net/node/p1501_1,373,379,spagne,LOC,NIL,,0
+https://digitalzibaldone.net/node/p1501_1,387,394,francia,LOC,Q142,Francia,107.49848937988281
+https://digitalzibaldone.net/node/p1501_1,399,405,italia,LOC,Q38,Italia,102.83917999267578
+https://digitalzibaldone.net/node/p1515_1,208,214,italia,LOC,Q38,Italia,104.96754455566406
+https://digitalzibaldone.net/node/p1515_1,220,226,spagna,LOC,Q29,Spagna,105.01016235351562
+https://digitalzibaldone.net/node/p1515_1,232,243,inghilterra,LOC,Q21,Inghilterra,105.94779205322266
+https://digitalzibaldone.net/node/p1557_1,104,109,Omero,PER,Q6691,Omero,123.21044158935547
+https://digitalzibaldone.net/node/p1589_2,817,825,Commedia,WORK,Q40831,Commedia,128.5154571533203
+https://digitalzibaldone.net/node/p1589_2,829,836,Bologna,LOC,NIL,,0
+https://digitalzibaldone.net/node/p1601_1,602,607,Celso,PER,Q87051877,Celso Tolomei,134.74276733398438
+https://digitalzibaldone.net/node/p1601_1,653,664,Montesquieu,PER,Q15975,Montesquieu,135.5839080810547
+https://digitalzibaldone.net/node/p1601_1,665,673,Grandeur,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1601_1,856,861,Celso,PER,Q312420,Aulo Cornelio Celso,138.82400512695312
+https://digitalzibaldone.net/node/p1650_1,363,368,Omero,PER,Q6691,Omero,116.45816802978516
+https://digitalzibaldone.net/node/p1650_1,369,378,ὁ ποιητής,WORK,Q6691,Omero,135.54351806640625
+https://digitalzibaldone.net/node/p1659_1,514,521,Wieland,PER,Q154010,Christoph Martin Wieland,134.16627502441406
+https://digitalzibaldone.net/node/p1659_1,1041,1046,Dante,PER,Q1067,Dante Alighieri,110.57403564453125
+https://digitalzibaldone.net/node/p1659_1,1048,1056,Petrarca,PER,Q1067,Dante Alighieri,145.2258758544922
+https://digitalzibaldone.net/node/p1659_1,1064,1073,Perticari,PER,Q1401,Francesco Petrarca,145.6502685546875
+https://digitalzibaldone.net/node/p1671_1,421,429,Germania,LOC,Q183,Germania,110.24575805664062
+https://digitalzibaldone.net/node/p1671_1,1046,1052,europa,LOC,Q46,Europa,107.42361450195312
+https://digitalzibaldone.net/node/p1671_1,1084,1092,Sismondi,PER,Q124073,Jean Charles Léonard Simonde de Sismondi,130.77313232421875
+https://digitalzibaldone.net/node/p1671_1,1099,1106,Lusiade,WORK,Q781898,I Lusiadi,155.85939025878906
+https://digitalzibaldone.net/node/p1671_1,1137,1148,Gerusalemme,WORK,Q1053313,Gerusalemme liberata,126.82827758789062
+https://digitalzibaldone.net/node/p1671_1,1240,1245,Omero,PER,Q6691,Omero,114.83395385742188
+https://digitalzibaldone.net/node/p1671_1,1251,1259,Virgilio,PER,Q1398,Publio Virgilio Marone,125.59542846679688
+https://digitalzibaldone.net/node/p1671_1,1324,1331,Furioso,WORK,Q48922,Orlando furioso,150.64764404296875
+https://digitalzibaldone.net/node/p1671_1,1343,1351,Goffredo,WORK,Q188344,Goffredo di Monmouth,138.62408447265625
+https://digitalzibaldone.net/node/p1678_1,358,364,italia,LOC,Q38,Italia,102.84333801269531
+https://digitalzibaldone.net/node/p1678_1,390,398,Proposta,WORK,Q3877952,Nomi regionali italiani dei venti,136.59420776367188
+https://digitalzibaldone.net/node/p1678_1,637,643,Crusca,WORK,Q338489,Accademia della Crusca,150.88914489746094
+https://digitalzibaldone.net/node/p1678_1,691,697,Crusca,WORK,Q338489,Accademia della Crusca,152.42898559570312
+https://digitalzibaldone.net/node/p1678_1,748,757,la Crusca,WORK,Q3822055,La diottrica,184.26986694335938
+https://digitalzibaldone.net/node/p1699_2,1320,1334,la Veterinaria,WORK,Q785958,La variazione degli animali e delle piante allo stato domestico,179.33621215820312
+https://digitalzibaldone.net/node/p1699_2,1338,1345,Vegezio,PER,Q4298,Publio Vegezio Renato,134.9390869140625
+https://digitalzibaldone.net/node/p1699_2,1391,1396,Cioni,PER,Q76648171,Gaetano Cioni,162.927001953125
+https://digitalzibaldone.net/node/p1699_2,1408,1418,G. Capponi,PER,Q719985,Gino Capponi,182.60995483398438
+https://digitalzibaldone.net/node/p1699_2,1425,1434,Pelagonio,PER,Q162593,Pelagio,156.4322967529297
+https://digitalzibaldone.net/node/p1717_1,37,46,Apoftegma,WORK,Q619658,Apoftegma,155.7267303466797
+https://digitalzibaldone.net/node/p1717_1,61,70,Periandro,PER,Q328793,Periandro,155.48223876953125
+https://digitalzibaldone.net/node/p1720_1,200,208,Cartesio,PER,Q9191,Cartesio,136.2391357421875
+https://digitalzibaldone.net/node/p1773_1,447,452,Adamo,PER,Q70899,Adamo,114.18119049072266
+https://digitalzibaldone.net/node/p1794_1,157,165,Agesilao,PER,Q3606509,Agesilao (Senofonte),159.585693359375
+https://digitalzibaldone.net/node/p1794_1,193,202,Senofonte,PER,Q129772,Senofonte,106.75711059570312
+https://digitalzibaldone.net/node/p1794_1,230,251,Coti re de' Paflagoni,PER,Q3073493,Flavio Mitridate,205.84597778320312
+https://digitalzibaldone.net/node/p1794_1,274,283,Senofonte,PER,Q129772,Senofonte,110.7716064453125
+https://digitalzibaldone.net/node/p1794_1,336,354,Eλληνικῶν ἱστοριῶν,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1822_1,605,614,Sallustio,WORK,Q7170,Gaio Sallustio Crispo,151.24786376953125
+https://digitalzibaldone.net/node/p1822_1,618,634,Dureau Delamalle,PER,NIL,,0
+https://digitalzibaldone.net/node/p1831_1,310,316,Europa,LOC,Q46,Europa,107.47325134277344
+https://digitalzibaldone.net/node/p1831_1,332,336,Nord,LOC,Q659,Nord,113.71931457519531
+https://digitalzibaldone.net/node/p1858_1,20,29,Copernico,PER,Q619,Niccolò Copernico,129.49595642089844
+https://digitalzibaldone.net/node/p1858_1,279,288,Pittagora,PER,Q10261,Pitagora,146.09890747070312
+https://digitalzibaldone.net/node/p1858_1,292,301,Aristarco,PER,Q140188,Aristarco di Samo,152.21353149414062
+https://digitalzibaldone.net/node/p1858_1,315,328,Card. di Cusa,PER,NIL,,0
+https://digitalzibaldone.net/node/p1867_1,1881,1893,Guicciardini,PER,Q44601,Francesco Guicciardini,139.53396606445312
+https://digitalzibaldone.net/node/p1950_1,220,225,Staël,PER,Q4062,Hameln,160.09906005859375
+https://digitalzibaldone.net/node/p1980_1,396,401,Celso,PER,Q312420,Aulo Cornelio Celso,139.88369750976562
+https://digitalzibaldone.net/node/p1980_1,402,427,sull'orig. della medicina,WORK,NIL,,0
+https://digitalzibaldone.net/node/p1987_1,282,287,Omero,PER,Q6691,Omero,112.66986083984375
+https://digitalzibaldone.net/node/p1999_2,1609,1616,Francia,LOC,Q142,Francia,107.25521850585938
+https://digitalzibaldone.net/node/p2001_1,27,34,Francia,LOC,Q142,Francia,105.26402282714844
+https://digitalzibaldone.net/node/p2708_1,0,8,Cartesio,PER,Q9191,Cartesio,148.87188720703125
+https://digitalzibaldone.net/node/p2708_1,171,179,Cartesio,PER,Q9191,Cartesio,142.57052612304688
+https://digitalzibaldone.net/node/p2708_1,426,432,Newton,PER,Q935,Isaac Newton,115.32630920410156
+https://digitalzibaldone.net/node/p2708_1,591,598,Platone,PER,Q935,Isaac Newton,145.19654846191406
+https://digitalzibaldone.net/node/p2711_1,1276,1286,California,LOC,Q99,California,116.09925842285156
+https://digitalzibaldone.net/node/p2735_1,374,378,Cic.,PER,Q1541,Marco Tullio Cicerone,146.72970581054688
+https://digitalzibaldone.net/node/p2735_1,380,402,Orat. pro Archia poeta,WORK,Q3922215,Pro Archia poeta,198.98220825195312
+https://digitalzibaldone.net/node/p2735_1,944,952,Cicerone,PER,Q1541,Marco Tullio Cicerone,136.95619201660156
+https://digitalzibaldone.net/node/p2771_1,241,245,Caro,PER,Q1402,Giovanni Boccaccio,149.5078582763672
+https://digitalzibaldone.net/node/p2779_2,142,147,sisto,PER,Q133350,Papa Sisto V,139.20037841796875
+https://digitalzibaldone.net/node/p2779_2,477,483,Gramm.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p2779_2,487,491,Pad.,PER,Q501316,Giovanni Battista Caproni,153.45025634765625
+https://digitalzibaldone.net/node/p2825_2,388,396,Eustazio,PER,Q511971,Eustazio di Antiochia,174.63070678710938
+https://digitalzibaldone.net/node/p2825_2,522,532,Φυσιολόγος,WORK,NIL,,0
+https://digitalzibaldone.net/node/p2825_2,535,543,Epifanio,PER,Q313922,Epifanio di Salamina,139.6131591796875
+https://digitalzibaldone.net/node/p2825_2,559,568,Mustoxidi,PER,Q902399,Andrea Mustoxidi,172.6095733642578
+https://digitalzibaldone.net/node/p2825_2,577,582,Scinà,PER,Q3713240,Domenico Scinà,160.38772583007812
+https://digitalzibaldone.net/node/p2825_2,589,622,Collezione di vari aneddoti greci,WORK,Q1059672,Epitaffio di Sicilo,157.71441650390625
+https://digitalzibaldone.net/node/p2836_1,107,113,Georg.,PER,Q65368,Georg Burkhardt,156.3291015625
+https://digitalzibaldone.net/node/p2836_1,114,116,l.,WORK,Q93588,Georg Joachim Rheticus,168.015625
+https://digitalzibaldone.net/node/p2840_1,919,924,Ennio,PER,Q19819822,Ennio,164.11648559570312
+https://digitalzibaldone.net/node/p2840_1,972,980,Lucrezio,PER,Q47154,Tito Lucrezio Caro,132.61367797851562
+https://digitalzibaldone.net/node/p2840_1,1005,1011,Catone,PER,Q180081,Marco Porcio Catone,130.74020385742188
+https://digitalzibaldone.net/node/p2840_1,1013,1019,Cincio,PER,Q1181865,Marco Porcio Catone Saloniano,155.50494384765625
+https://digitalzibaldone.net/node/p2875_1,711,722,inghilterra,LOC,Q21,Inghilterra,110.14350128173828
+https://digitalzibaldone.net/node/p2875_1,728,736,Germania,LOC,Q183,Germania,108.95771789550781
+https://digitalzibaldone.net/node/p2882_1,288,295,Ammiano,PER,Q172198,Ammiano Marcellino,132.33108520507812
+https://digitalzibaldone.net/node/p2882_1,300,308,Forcell.,WORK,Q3846125,Marco Forcellini,153.4903564453125
+https://digitalzibaldone.net/node/p2882_1,325,332,Ammiano,PER,Q172198,Ammiano Marcellino,134.28489685058594
+https://digitalzibaldone.net/node/p2882_1,628,633,Festo,PER,Q302723,Sesto Pompeo Festo,142.552001953125
+https://digitalzibaldone.net/node/p2882_1,880,888,Forcell.,WORK,Q3846125,Marco Forcellini,151.51693725585938
+https://digitalzibaldone.net/node/p2882_1,980,991,S. Agostino,PER,Q8018,Agostino d'Ippona,126.87966918945312
+https://digitalzibaldone.net/node/p2882_1,1250,1257,Ispagna,LOC,Q29,Spagna,135.98275756835938
+https://digitalzibaldone.net/node/p2882_1,1274,1281,Ammiano,PER,Q172198,Ammiano Marcellino,129.9783477783203
+https://digitalzibaldone.net/node/p2882_1,1379,1387,Glossar.,WORK,Q397,Lingua latina,142.825927734375
+https://digitalzibaldone.net/node/p2882_1,1388,1393,Cang.,PER,Q131175,Vulgata,144.19418334960938
+https://digitalzibaldone.net/node/p2882_1,1664,1672,Glossar.,WORK,Q1132324,Glossa,142.87814331054688
+https://digitalzibaldone.net/node/p2923_3,152,162,Corticelli,PER,Q16545244,Corticelli editore,158.44815063476562
+https://digitalzibaldone.net/node/p2923_3,404,412,Cicerone,PER,Q1541,Marco Tullio Cicerone,137.12962341308594
+https://digitalzibaldone.net/node/p2923_3,552,560,Forcell.,WORK,Q1541,Marco Tullio Cicerone,139.4281005859375
+https://digitalzibaldone.net/node/p2932_1,399,407,Forcell.,WORK,Q3846125,Marco Forcellini,149.8836212158203
+https://digitalzibaldone.net/node/p2932_1,715,722,Varrone,PER,Q539607,Plinio Fraccaro,141.78067016601562
+https://digitalzibaldone.net/node/p2932_1,725,731,Plinio,PER,Q82778,Plinio il Vecchio,146.38214111328125
+https://digitalzibaldone.net/node/p2932_1,826,833,Diomede,PER,Q208256,Diomede,144.36376953125
+https://digitalzibaldone.net/node/p2932_1,869,875,Persio,PER,Q332785,Aulo Persio Flacco,153.6964874267578
+https://digitalzibaldone.net/node/p2932_1,887,895,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p2932_1,1060,1067,Anonimo,PER,Q308859,Anonimato,144.2024383544922
+https://digitalzibaldone.net/node/p2932_1,1069,1089,de re architectonica,WORK,NIL,,0
+https://digitalzibaldone.net/node/p2932_1,1165,1173,Vitruvio,PER,Q47163,Marco Vitruvio Pollione,130.77517700195312
+https://digitalzibaldone.net/node/p2932_1,1245,1251,Gloss.,WORK,Q1132324,Glossa,148.98410034179688
+https://digitalzibaldone.net/node/p2932_1,1398,1405,Varrone,PER,Q211968,Pisino,136.40179443359375
+https://digitalzibaldone.net/node/p2935_2,43,53,Forcellini,WORK,Q550353,Egidio Forcellini,164.62376403808594
+https://digitalzibaldone.net/node/p2935_2,74,83,Glossario,WORK,Q859161,Glossario,149.39178466796875
+https://digitalzibaldone.net/node/p2965_1,966,973,Alfieri,PER,Q296244,Vittorio Alfieri,135.1126251220703
+https://digitalzibaldone.net/node/p2965_1,984,988,Vita,WORK,Q3,Vita,131.13339233398438
+https://digitalzibaldone.net/node/p2983_2,455,463,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p2983_2,508,514,Crusca,WORK,Q188672,Crusca,137.9945068359375
+https://digitalzibaldone.net/node/p2983_2,888,898,Forcellini,WORK,Q3846125,Marco Forcellini,146.2493438720703
+https://digitalzibaldone.net/node/p2983_2,901,913,il Glossario,WORK,Q3772477,Glossario di Monza,162.22776794433594
+https://digitalzibaldone.net/node/p2987_1,146,154,Historia,WORK,Q309,Storia,164.3515625
+https://digitalzibaldone.net/node/p2987_1,177,202,Fray Gerundio de Campazas,PER,Q1138524,Pauly-Wissowa,227.28611755371094
+https://digitalzibaldone.net/node/p2987_1,237,252,Bastian Borrego,PER,Q3810561,José Ramón Fernández de Luanco,165.4627685546875
+https://digitalzibaldone.net/node/p2996_1,758,766,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p2996_1,833,838,Forc.,PER,Q40634,Filologia,173.85826110839844
+https://digitalzibaldone.net/node/p3001_1,126,134,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3001_1,172,178,Gloss.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3006_1,69,79,Forcellini,WORK,Q550353,Egidio Forcellini,147.50363159179688
+https://digitalzibaldone.net/node/p3006_1,98,104,Gloss.,WORK,Q1132324,Glossa,149.59983825683594
+https://digitalzibaldone.net/node/p3037_3,504,514,S. Giacomo,PER,Q43999,Giacomo il Maggiore,145.42718505859375
+https://digitalzibaldone.net/node/p3053_1,263,271,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3053_1,356,367,il Glossar.,WORK,Q55833098,Il poeta fanatico,163.07733154296875
+https://digitalzibaldone.net/node/p3055_1,762,770,Cicerone,PER,Q1541,Marco Tullio Cicerone,139.70449829101562
+https://digitalzibaldone.net/node/p3055_1,905,915,Desbillons,PER,Q229264,Georges-Louis Leclerc de Buffon,149.96371459960938
+https://digitalzibaldone.net/node/p3055_1,919,926,Phaedr.,PER,NIL,,0
+https://digitalzibaldone.net/node/p3055_1,927,934,Manheim,LOC,NIL,,0
+https://digitalzibaldone.net/node/p3057_1,148,164,S. Gio. Crisost.,PER,Q43706,Giovanni Crisostomo,202.85494995117188
+https://digitalzibaldone.net/node/p3057_1,330,339,Chrysost.,PER,NIL,,0
+https://digitalzibaldone.net/node/p3057_1,344,354,Montfaucon,PER,Q244117,Montfaucon (Gard),169.29751586914062
+https://digitalzibaldone.net/node/p3060_2,79,87,Forcell.,WORK,Q550353,Egidio Forcellini,152.15908813476562
+https://digitalzibaldone.net/node/p3060_2,119,124,Festo,PER,Q249707,Festo,138.822509765625
+https://digitalzibaldone.net/node/p3071_1,127,139,Cod. de Rep.,WORK,Q3704127,De lingua Latina,168.50933837890625
+https://digitalzibaldone.net/node/p3071_1,143,147,Cic.,PER,Q1541,Marco Tullio Cicerone,147.90615844726562
+https://digitalzibaldone.net/node/p3071_1,249,257,Richelet,PER,Q1635599,Ugo Ripelin di Strasburgo,162.34242248535156
+https://digitalzibaldone.net/node/p3071_1,262,266,Diz.,WORK,Q3712228,Dizionario enciclopedico Melzi,167.3701171875
+https://digitalzibaldone.net/node/p3071_1,529,535,Gellio,PER,Q294800,Aulo Gellio,146.41290283203125
+https://digitalzibaldone.net/node/p3071_1,585,593,Glossar.,WORK,Q1132324,Glossa,140.26193237304688
+https://digitalzibaldone.net/node/p3072_3,149,160,Lucio Silla,PER,Q483783,Lucio Cornelio Silla,158.3057403564453
+https://digitalzibaldone.net/node/p3072_3,217,225,G. Mario,PER,Q177975,Gaio Mario,143.3041534423828
+https://digitalzibaldone.net/node/p3072_3,297,304,Augusto,PER,Q1405,Augusto,148.75872802734375
+https://digitalzibaldone.net/node/p3072_3,451,463,Cosimo primo,PER,Q48547,Cosimo I de' Medici,172.05038452148438
+https://digitalzibaldone.net/node/p3073_3,214,220,Gloss.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3077_1,677,686,Perticari,PER,Q3769747,Giulio Perticari,148.04476928710938
+https://digitalzibaldone.net/node/p3077_1,782,790,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3094_1,244,251,Cellini,PER,Q190116,Benvenuto Cellini,124.30560302734375
+https://digitalzibaldone.net/node/p3094_1,328,333,Bembo,PER,Q334188,Pietro Bembo,131.28338623046875
+https://digitalzibaldone.net/node/p3094_1,384,389,Bembo,PER,Q334188,Pietro Bembo,127.81671142578125
+https://digitalzibaldone.net/node/p3094_1,414,419,Bembo,PER,Q334188,Pietro Bembo,128.13729858398438
+https://digitalzibaldone.net/node/p3094_1,468,475,Cellini,PER,Q190116,Benvenuto Cellini,126.0157470703125
+https://digitalzibaldone.net/node/p3103_1,50,55,Omero,PER,Q6691,Omero,114.37490844726562
+https://digitalzibaldone.net/node/p3103_1,207,212,Omero,PER,Q6691,Omero,114.02833557128906
+https://digitalzibaldone.net/node/p3103_1,630,637,Lusiade,WORK,Q781898,I Lusiadi,154.92466735839844
+https://digitalzibaldone.net/node/p3103_1,659,665,Eneide,WORK,Q60220,Eneide,135.94107055664062
+https://digitalzibaldone.net/node/p3103_1,675,683,Isocrate,PER,Q221182,Isocrate,141.87881469726562
+https://digitalzibaldone.net/node/p3103_1,724,729,Omero,PER,Q6691,Omero,113.07928466796875
+https://digitalzibaldone.net/node/p3103_1,924,934,Panegirico,WORK,Q3893205,Panegirico (Isocrate),155.50733947753906
+https://digitalzibaldone.net/node/p3103_1,949,962,Battie Isocr.,PER,Q8275,Iliade,183.39425659179688
+https://digitalzibaldone.net/node/p3103_1,984,994,Cantabrig.,LOC,Q283651,Giovanni Battista Martini,151.47061157226562
+https://digitalzibaldone.net/node/p3103_1,1027,1032,Omero,PER,Q6691,Omero,112.00395202636719
+https://digitalzibaldone.net/node/p3103_1,1338,1343,Omero,PER,Q6691,Omero,112.83779907226562
+https://digitalzibaldone.net/node/p3103_1,1535,1540,Omero,PER,Q6691,Omero,118.74315643310547
+https://digitalzibaldone.net/node/p3103_1,1584,1590,Mileto,LOC,Q2470261,Mileto (mitologia),137.92774963378906
+https://digitalzibaldone.net/node/p3103_1,1600,1605,Dario,PER,NIL,,0
+https://digitalzibaldone.net/node/p3103_1,1707,1714,Longino,PER,Q436634,Cassio Longino (retore),141.42713928222656
+https://digitalzibaldone.net/node/p3137_2,98,103,Omero,PER,Q6691,Omero,114.27815246582031
+https://digitalzibaldone.net/node/p3137_2,109,115,iliade,WORK,Q8275,Iliade,119.09855651855469
+https://digitalzibaldone.net/node/p3137_2,252,257,Omero,PER,Q6691,Omero,114.58101654052734
+https://digitalzibaldone.net/node/p3137_2,587,593,iliade,WORK,Q8275,Iliade,114.80864715576172
+https://digitalzibaldone.net/node/p3137_2,1133,1138,Omero,PER,Q6691,Omero,115.73355102539062
+https://digitalzibaldone.net/node/p3141_1,46,52,Eneide,WORK,Q60220,Eneide,135.4217987060547
+https://digitalzibaldone.net/node/p3141_1,187,198,Gerusalemme,LOC,Q1053313,Gerusalemme liberata,126.20854187011719
+https://digitalzibaldone.net/node/p3141_1,261,268,Argante,PER,Q768066,Termagante,153.02676391601562
+https://digitalzibaldone.net/node/p3141_1,270,278,Clorinda,PER,Q17625742,Clorinda (personaggio),152.36636352539062
+https://digitalzibaldone.net/node/p3141_1,280,288,Solimano,PER,NIL,,0
+https://digitalzibaldone.net/node/p3141_1,300,307,Argante,PER,Q768066,Termagante,142.01675415039062
+https://digitalzibaldone.net/node/p3141_1,409,415,Gerus.,WORK,Q1053313,Gerusalemme liberata,153.78453063964844
+https://digitalzibaldone.net/node/p3141_1,612,617,Tasso,PER,Q168962,Torquato Tasso,117.91651916503906
+https://digitalzibaldone.net/node/p3141_1,888,896,Solimano,PER,NIL,,0
+https://digitalzibaldone.net/node/p3141_1,900,907,Argante,PER,Q768066,Termagante,136.6025390625
+https://digitalzibaldone.net/node/p3141_1,964,975,Gerusalemme,LOC,Q1218,Gerusalemme,106.0987548828125
+https://digitalzibaldone.net/node/p3143_1,108,113,Omero,PER,Q6691,Omero,114.64726257324219
+https://digitalzibaldone.net/node/p3169_1,22,30,Grammat.,WORK,Q27716,Grammatica latina,162.4437713623047
+https://digitalzibaldone.net/node/p3169_1,35,41,Weller,PER,Q125462,Karl Ludwig von Haller,138.56875610351562
+https://digitalzibaldone.net/node/p3169_1,49,54,Lips.,LOC,Q1049773,Samuel Lipschütz,188.65711975097656
+https://digitalzibaldone.net/node/p3202_1,801,807,Caluso,PER,Q767668,Agostino Calmet,142.471435546875
+https://digitalzibaldone.net/node/p3202_1,814,838,Lettera appiè della Vita,WORK,Q3824985,La vita di Castruccio Castracani da Lucca,203.79771423339844
+https://digitalzibaldone.net/node/p3202_1,842,849,Alfieri,PER,Q296244,Vittorio Alfieri,128.4833984375
+https://digitalzibaldone.net/node/p3202_1,867,873,Esiodo,PER,Q44233,Esiodo,127.51329803466797
+https://digitalzibaldone.net/node/p3202_1,1235,1242,Riganti,PER,Q2255832,Nicola Riganti,141.53970336914062
+https://digitalzibaldone.net/node/p3202_1,1523,1531,Ermogene,PER,Q738027,Ermogene di Tarso,142.23651123046875
+https://digitalzibaldone.net/node/p3202_1,1573,1581,Dissert.,WORK,Q3710307,Dissertazione sopra l'anima delle bestie,152.5611114501953
+https://digitalzibaldone.net/node/p3202_1,1586,1597,Cancellieri,PER,Q17399508,Cesare Cancellieri,147.19912719726562
+https://digitalzibaldone.net/node/p3235_2,0,7,Platone,PER,Q859,Platone,127.609375
+https://digitalzibaldone.net/node/p3235_2,12,19,Sofista,WORK,Q859,Platone,154.36663818359375
+https://digitalzibaldone.net/node/p3235_2,49,54,Astio,PER,Q752355,Astioco,169.9393310546875
+https://digitalzibaldone.net/node/p3235_2,64,69,Plat.,PER,Q859,Platone,138.3499755859375
+https://digitalzibaldone.net/node/p3235_2,70,75,Lips.,LOC,NIL,,0
+https://digitalzibaldone.net/node/p3235_2,300,304,Ast.,PER,Q35497,Lingua greca antica,168.40036010742188
+https://digitalzibaldone.net/node/p3235_2,794,800,Astius,PER,Q3627552,Astirio,142.40431213378906
+https://digitalzibaldone.net/node/p3235_2,811,818,Platone,PER,Q859,Platone,117.75503540039062
+https://digitalzibaldone.net/node/p3235_2,1155,1162,Platone,PER,Q859,Platone,120.83583068847656
+https://digitalzibaldone.net/node/p3282_1,1107,1120,Giulio Cesare,PER,Q1048,Gaio Giulio Cesare,123.32154846191406
+https://digitalzibaldone.net/node/p3282_1,1137,1145,Svetonio,WORK,Q10133,Gaio Svetonio Tranquillo,136.50067138671875
+https://digitalzibaldone.net/node/p3283_2,754,760,Gloss.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3284_1,66,75,Perticari,PER,Q3769747,Giulio Perticari,150.5275421142578
+https://digitalzibaldone.net/node/p3312_2,332,342,S. Isidoro,PER,Q660170,Isidoro di Alessandria,154.10723876953125
+https://digitalzibaldone.net/node/p3312_2,351,361,Forcellini,WORK,Q3965279,Sottogruppo dei Forcellini,147.7419891357422
+https://digitalzibaldone.net/node/p3332_1,484,490,italia,LOC,Q38,Italia,102.85958862304688
+https://digitalzibaldone.net/node/p3332_1,1412,1418,italia,LOC,Q38,Italia,104.64535522460938
+https://digitalzibaldone.net/node/p3332_1,1849,1853,Cic.,PER,Q1541,Marco Tullio Cicerone,136.12222290039062
+https://digitalzibaldone.net/node/p3349_2,570,578,Voltaire,PER,Q9068,Voltaire,125.06330108642578
+https://digitalzibaldone.net/node/p3350_3,38,43,Forc.,WORK,Q3768238,Giovanni Tommaso Cimello,160.06944274902344
+https://digitalzibaldone.net/node/p3357_3,773,781,Forcell.,PER,Q3846125,Marco Forcellini,149.85496520996094
+https://digitalzibaldone.net/node/p3365_1,30,39,Louisiane,LOC,Q1588,Louisiana,153.98822021484375
+https://digitalzibaldone.net/node/p3365_1,55,61,France,LOC,Q142,Francia,125.79912567138672
+https://digitalzibaldone.net/node/p3365_1,451,459,Voltaire,PER,Q9068,Voltaire,135.1359100341797
+https://digitalzibaldone.net/node/p3365_1,509,520,Frédéric II,PER,Q33550,Federico II di Prussia,202.2906036376953
+https://digitalzibaldone.net/node/p3365_1,535,543,Voltaire,PER,Q9068,Voltaire,129.01808166503906
+https://digitalzibaldone.net/node/p3365_1,574,579,Cirey,LOC,Q2240551,Castello di Cirey,155.9362335205078
+https://digitalzibaldone.net/node/p3365_1,620,631,Frédéric II,PER,Q33550,Federico II di Prussia,184.52525329589844
+https://digitalzibaldone.net/node/p3365_1,696,707,Frédéric II,PER,Q33550,Federico II di Prussia,194.24172973632812
+https://digitalzibaldone.net/node/p3403_1,1229,1234,Floro,PER,Q316483,Floro,144.01025390625
+https://digitalzibaldone.net/node/p3411_1,365,375,Aristotele,PER,Q868,Aristotele,113.1885757446289
+https://digitalzibaldone.net/node/p3465_1,488,494,italia,LOC,Q38,Italia,104.19046020507812
+https://digitalzibaldone.net/node/p3465_1,848,854,europa,LOC,Q46,Europa,107.68510437011719
+https://digitalzibaldone.net/node/p3491_3,494,502,Rousseau,PER,Q6527,Jean-Jacques Rousseau,130.79949951171875
+https://digitalzibaldone.net/node/p3541_1,346,356,Forcellini,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3541_2,107,115,Aristot.,PER,Q868,Aristotele,139.7823944091797
+https://digitalzibaldone.net/node/p3541_2,116,122,Polit.,WORK,Q868,Aristotele,158.5491485595703
+https://digitalzibaldone.net/node/p3541_2,135,140,Flor.,LOC,NIL,,0
+https://digitalzibaldone.net/node/p3541_2,245,254,la Crusca,WORK,Q3822537,La ginestra,144.88592529296875
+https://digitalzibaldone.net/node/p3544_1,38,45,Fabric.,PER,Q435296,Girolamo Fabrici d'Acquapendente,189.56658935546875
+https://digitalzibaldone.net/node/p3544_1,46,61,B. Lat. ed Ven.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3544_1,96,109,de Corn. Nep.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3544_1,135,142,Catullo,PER,Q163079,Gaio Valerio Catullo,143.07687377929688
+https://digitalzibaldone.net/node/p3546_1,572,578,italia,LOC,Q38,Italia,101.84332275390625
+https://digitalzibaldone.net/node/p3568_2,128,137,Victorius,PER,Q778539,Cornelius (musicista),161.28225708007812
+https://digitalzibaldone.net/node/p3568_2,175,183,Aristot.,PER,Q868,Aristotele,159.25714111328125
+https://digitalzibaldone.net/node/p3568_2,184,190,Polit.,WORK,Q868,Aristotele,160.01962280273438
+https://digitalzibaldone.net/node/p3568_2,201,206,Flor.,PER,NIL,,0
+https://digitalzibaldone.net/node/p3569_2,597,607,Forcellini,WORK,Q3846125,Marco Forcellini,137.23074340820312
+https://digitalzibaldone.net/node/p3569_2,1355,1362,Erodoto,PER,Q26825,Erodoto,119.83595275878906
+https://digitalzibaldone.net/node/p3579_1,71,77,europa,LOC,Q46,Europa,107.88569641113281
+https://digitalzibaldone.net/node/p3579_1,82,88,Spagna,LOC,Q29,Spagna,108.72793579101562
+https://digitalzibaldone.net/node/p3579_1,204,210,italia,LOC,Q38,Italia,105.76176452636719
+https://digitalzibaldone.net/node/p3579_1,339,345,Spagna,LOC,Q29,Spagna,106.99851989746094
+https://digitalzibaldone.net/node/p3579_1,727,734,ispagna,LOC,Q29,Spagna,132.07382202148438
+https://digitalzibaldone.net/node/p3579_1,920,926,Cristo,PER,Q642420,Cristo,117.6485824584961
+https://digitalzibaldone.net/node/p3579_1,944,952,Maometto,PER,Q9458,Maometto,109.63542175292969
+https://digitalzibaldone.net/node/p3593_1,14,19,Tasso,PER,Q168962,Torquato Tasso,121.73391723632812
+https://digitalzibaldone.net/node/p3593_1,283,288,Ugone,PER,Q166234,Ugo Foscolo,138.68670654296875
+https://digitalzibaldone.net/node/p3593_1,291,299,Goffredo,PER,Q188344,Goffredo di Monmouth,130.17706298828125
+https://digitalzibaldone.net/node/p3593_1,311,318,Rinaldo,PER,Q727316,Rinaldo (paladino),139.59222412109375
+https://digitalzibaldone.net/node/p3593_1,403,408,Tasso,PER,Q168962,Torquato Tasso,129.16310119628906
+https://digitalzibaldone.net/node/p3593_1,722,727,Tasso,PER,Q168962,Torquato Tasso,116.33135986328125
+https://digitalzibaldone.net/node/p3593_1,1490,1495,Tasso,PER,Q168962,Torquato Tasso,117.70083618164062
+https://digitalzibaldone.net/node/p3604_1,1608,1613,Omero,PER,Q6691,Omero,113.8512954711914
+https://digitalzibaldone.net/node/p3604_1,1619,1625,iliade,WORK,Q8275,Iliade,116.91817474365234
+https://digitalzibaldone.net/node/p3613_1,45,51,iliade,WORK,Q8275,Iliade,116.66853332519531
+https://digitalzibaldone.net/node/p3613_1,474,479,Omero,PER,Q6691,Omero,116.32170104980469
+https://digitalzibaldone.net/node/p3613_1,1188,1194,iliade,WORK,Q8275,Iliade,119.38618469238281
+https://digitalzibaldone.net/node/p3621_2,53,61,Forcell.,WORK,Q3846125,Marco Forcellini,158.43145751953125
+https://digitalzibaldone.net/node/p3621_2,122,128,Desino,PER,Q719278,Desinenza,160.19955444335938
+https://digitalzibaldone.net/node/p3621_2,150,160,Forcellini,WORK,Q550353,Egidio Forcellini,162.5975799560547
+https://digitalzibaldone.net/node/p3636_1,674,681,Alberti,PER,Q182046,Leon Battista Alberti,147.10073852539062
+https://digitalzibaldone.net/node/p3636_1,957,962,Monti,PER,Q723643,Vincenzo Monti,138.03317260742188
+https://digitalzibaldone.net/node/p3636_1,963,970,Propos.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3636_1,1210,1219,Prudenzio,PER,Q347250,Prudenzio,141.48130798339844
+https://digitalzibaldone.net/node/p3684_5,112,123,S. Girolamo,PER,Q44248,San Girolamo,140.16189575195312
+https://digitalzibaldone.net/node/p3684_5,186,194,Forcell.,WORK,Q3846125,Marco Forcellini,144.82293701171875
+https://digitalzibaldone.net/node/p3684_5,215,221,Gloss.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3686_2,76,84,Forcell.,WORK,Q62116,Ignaz von Döllinger,158.3759765625
+https://digitalzibaldone.net/node/p3687_1,405,410,Dante,PER,Q1067,Dante Alighieri,117.1296157836914
+https://digitalzibaldone.net/node/p3687_1,437,446,la Crusca,WORK,Q188672,Crusca,172.00689697265625
+https://digitalzibaldone.net/node/p3695_1,336,344,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3715_1,1221,1229,Cicerone,PER,Q1541,Marco Tullio Cicerone,136.42703247070312
+https://digitalzibaldone.net/node/p3715_1,1250,1255,Orat.,WORK,Q1541,Marco Tullio Cicerone,147.31838989257812
+https://digitalzibaldone.net/node/p3749_2,321,326,Omero,PER,Q6691,Omero,113.15055847167969
+https://digitalzibaldone.net/node/p3749_2,867,873,italia,LOC,Q38,Italia,102.6100082397461
+https://digitalzibaldone.net/node/p3749_2,1023,1029,italia,LOC,Q38,Italia,102.53646850585938
+https://digitalzibaldone.net/node/p3749_2,1594,1600,italia,LOC,Q38,Italia,105.7315673828125
+https://digitalzibaldone.net/node/p3754_1,275,280,Forc.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3758_1,232,237,Forc.,PER,NIL,,0
+https://digitalzibaldone.net/node/p3758_1,796,801,Forc.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3811_4,1296,1323,Annali di Scienze e lettere,WORK,Q193866,Annali,180.57199096679688
+https://digitalzibaldone.net/node/p3811_4,1327,1333,Milano,LOC,NIL,,0
+https://digitalzibaldone.net/node/p3828_1,16,24,Forcell.,WORK,Q814722,Participio,157.736572265625
+https://digitalzibaldone.net/node/p3830_1,731,737,italia,LOC,Q38,Italia,103.18235778808594
+https://digitalzibaldone.net/node/p3842_1,295,302,Creuzer,PER,Q69685,Friedrich Creuzer,127.18505859375
+https://digitalzibaldone.net/node/p3842_1,303,339,Meletemata e disciplina antiquitatis,WORK,Q3797358,"In principatu commutando saepius nil, praeter domini nomen, mutant pauperes",177.8470916748047
+https://digitalzibaldone.net/node/p3842_1,349,354,Lips.,LOC,NIL,,0
+https://digitalzibaldone.net/node/p3845_2,93,100,Catullo,PER,Q163079,Gaio Valerio Catullo,158.2991943359375
+https://digitalzibaldone.net/node/p3845_2,113,135,Paolo Diacono da Festo,PER,Q160424,Paolo Diacono,217.21868896484375
+https://digitalzibaldone.net/node/p3858_1,205,211,italia,LOC,Q38,Italia,103.68830871582031
+https://digitalzibaldone.net/node/p3858_1,217,223,spagna,LOC,Q29,Spagna,106.43118286132812
+https://digitalzibaldone.net/node/p3858_1,311,317,italia,LOC,Q38,Italia,104.43245697021484
+https://digitalzibaldone.net/node/p3858_1,323,329,spagna,LOC,Q29,Spagna,107.48970031738281
+https://digitalzibaldone.net/node/p3858_1,791,797,europa,LOC,Q46,Europa,105.8345718383789
+https://digitalzibaldone.net/node/p3858_1,868,874,europa,LOC,Q46,Europa,105.64009094238281
+https://digitalzibaldone.net/node/p3858_1,1124,1131,ispagna,LOC,Q29,Spagna,133.56088256835938
+https://digitalzibaldone.net/node/p3858_1,1293,1299,italia,LOC,Q38,Italia,105.40795135498047
+https://digitalzibaldone.net/node/p3858_1,1307,1314,ispagna,LOC,Q29,Spagna,131.56439208984375
+https://digitalzibaldone.net/node/p3875_1,741,746,Forc.,WORK,Q77131,Carl Friedrich Philipp von Martius,157.97825622558594
+https://digitalzibaldone.net/node/p3887_1,23,29,italia,LOC,Q38,Italia,110.10809326171875
+https://digitalzibaldone.net/node/p3887_1,86,95,Trivulzio,PER,Q742997,Gian Giacomo Trivulzio,137.6763916015625
+https://digitalzibaldone.net/node/p3887_1,100,112,Montecuccoli,PER,Q454789,Raimondo Montecuccoli,143.3653564453125
+https://digitalzibaldone.net/node/p3887_1,255,262,Venezia,LOC,Q4948,Repubblica di Venezia,111.26065063476562
+https://digitalzibaldone.net/node/p3887_1,601,615,Bernardo Tasso,PER,Q823060,Bernardo Tasso,154.62472534179688
+https://digitalzibaldone.net/node/p3887_1,1033,1041,Mazarino,PER,NIL,,0
+https://digitalzibaldone.net/node/p3887_1,1045,1053,Alberoni,PER,Q539927,Giulio Alberoni,133.40231323242188
+https://digitalzibaldone.net/node/p3887_1,1058,1069,Bentivoglio,PER,Q2365088,Bentivoglio (famiglia),142.596923828125
+https://digitalzibaldone.net/node/p3887_1,1083,1093,Lucchesini,PER,NIL,,0
+https://digitalzibaldone.net/node/p3887_1,1333,1337,Papa,PER,Q19546,Papa,107.961181640625
+https://digitalzibaldone.net/node/p3887_1,1355,1359,Roma,LOC,Q159583,Santa Sede,114.89372253417969
+https://digitalzibaldone.net/node/p3887_1,1447,1453,italia,LOC,Q38,Italia,103.01566314697266
+https://digitalzibaldone.net/node/p3887_1,1674,1680,europa,LOC,Q46,Europa,106.0972671508789
+https://digitalzibaldone.net/node/p3895_2,311,362,Conspectus orthographiae cod. vaticani de republica,WORK,Q1346193,Klein's encyclopedia,203.93873596191406
+https://digitalzibaldone.net/node/p3895_2,366,373,Niebuhr,PER,Q57420,Carsten Niebuhr,138.27761840820312
+https://digitalzibaldone.net/node/p3895_2,426,431,Tulli,PER,NIL,,0
+https://digitalzibaldone.net/node/p3902_1,62,67,Petr.,PER,Q3556598,Pëtr Ivanovič Melissino,150.12445068359375
+https://digitalzibaldone.net/node/p3907_2,100,109,Feder. II,PER,Q33550,Federico II di Prussia,190.30575561523438
+https://digitalzibaldone.net/node/p3907_2,169,177,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3931_3,66,77,Frédéric II,PER,Q33550,Federico II di Prussia,214.21328735351562
+https://digitalzibaldone.net/node/p3931_3,91,99,D'Argens,PER,Q705830,Jean-Baptiste Boyer d'Argens,171.85964965820312
+https://digitalzibaldone.net/node/p3931_3,101,136,Sur la faiblesse de l'esprit humain,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3961_1,89,95,Gloss.,WORK,Q1132324,Glossa,169.10150146484375
+https://digitalzibaldone.net/node/p3963_1,75,80,Forc.,PER,NIL,,0
+https://digitalzibaldone.net/node/p3963_1,689,694,Forc.,PER,NIL,,0
+https://digitalzibaldone.net/node/p3963_1,745,750,Forc.,PER,Q108709,Diminutivo,167.21092224121094
+https://digitalzibaldone.net/node/p3963_1,868,873,Forc.,PER,NIL,,0
+https://digitalzibaldone.net/node/p3963_1,901,906,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,168.37298583984375
+https://digitalzibaldone.net/node/p3963_1,1329,1334,Forc.,PER,Q397,Lingua latina,166.34532165527344
+https://digitalzibaldone.net/node/p3980_1,254,264,D. Quijote,WORK,Q480,Don Chisciotte della Mancia,192.1664581298828
+https://digitalzibaldone.net/node/p3980_1,406,416,Cavalleria,WORK,Q47315,Cavalleria,119.04280853271484
+https://digitalzibaldone.net/node/p3980_1,441,447,Sancho,PER,Q1058544,Sancho I del Portogallo,138.93460083007812
+https://digitalzibaldone.net/node/p3980_1,658,668,D. Quijote,WORK,Q480,Don Chisciotte della Mancia,221.4534149169922
+https://digitalzibaldone.net/node/p3980_1,706,713,Amberes,LOC,NIL,,0
+https://digitalzibaldone.net/node/p3980_3,42,50,Forcell.,WORK,Q3776517,Gregorio Maria Suñol,167.41000366210938
+https://digitalzibaldone.net/node/p3986_3,273,281,Forcell.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3986_3,328,338,Caio Tizio,PER,Q857119,Gaio Tizio,192.53529357910156
+https://digitalzibaldone.net/node/p3988_1,213,222,De Rogati,PER,Q15672757,Francesco Saverio De Rogati,163.32296752929688
+https://digitalzibaldone.net/node/p3988_1,246,252,Anacr.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3988_1,267,274,Batillo,PER,Q791314,Batillo,123.63856506347656
+https://digitalzibaldone.net/node/p3988_1,499,508,Ippocrate,PER,Q5264,Ippocrate,123.00617218017578
+https://digitalzibaldone.net/node/p3992_5,254,264,D. Quijote,WORK,Q480,Don Chisciotte della Mancia,179.67221069335938
+https://digitalzibaldone.net/node/p3992_5,483,493,D. Quijote,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3992_5,495,500,Avisé,PER,Q34758,Avise,151.2549285888672
+https://digitalzibaldone.net/node/p3992_5,537,545,la Crus.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p3995_3,64,74,Anacreonte,PER,Q213484,Anacreonte,142.61599731445312
+https://digitalzibaldone.net/node/p4000_1,456,464,Petrarca,PER,Q1469679,Petrarchismo,143.1111297607422
+https://digitalzibaldone.net/node/p4000_1,465,490,Canz. Una donna più bella,WORK,Q777574,Canzoniere (Petrarca),156.615478515625
+https://digitalzibaldone.net/node/p4000_4,694,699,Forc.,WORK,NIL,,0
+https://digitalzibaldone.net/node/p4000_4,919,925,Gloss.,WORK,Q1132324,Glossa,146.46710205078125
+https://digitalzibaldone.net/node/p4000_4,933,939,Gloss.,WORK,Q1132324,Glossa,144.81280517578125

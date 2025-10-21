@@ -1,0 +1,291 @@
+doc_id,start_pos,end_pos,surface,type,identifier,title,score
+document_110065.html,84,110,Associazioni Universitarie,ORG,Q3091708,Federazione universitaria cattolica italiana,147.52352905273438
+document_110065.html,114,130,Azione Cattolica,ORG,Q3318304,Azione Cattolica,129.8278350830078
+document_110065.html,628,644,Azione Cattolica,ORG,Q3318304,Azione Cattolica,134.296630859375
+document_110065.html,725,741,Azione Cattolica,ORG,Q3318304,Azione Cattolica,137.016357421875
+document_110082.html,3,23,democrazia cristiana,ORG,Q815348,Democrazia Cristiana,126.82978820800781
+document_110092.html,50,56,Sforza,PER,Q463243,Carlo Sforza,128.90536499023438
+document_110092.html,88,111,Comitati di liberazione,ORG,Q547858,Comitato di Liberazione Nazionale,153.14462280273438
+document_110092.html,170,176,Sforza,PER,Q463243,Carlo Sforza,132.31883239746094
+document_110092.html,296,306,Montevideo,LOC,Q1335,Montevideo,113.36863708496094
+document_110177.html,48,64,Azione Cattolica,ORG,Q3318304,Azione Cattolica,136.71131896972656
+document_110177.html,1535,1551,Azione Cattolica,ORG,Q3318304,Azione Cattolica,129.29086303710938
+document_110199.html,509,513,FUCI,ORG,Q3091708,Federazione universitaria cattolica italiana,145.31683349609375
+document_110205.html,158,163,Parri,PER,Q471315,Ferruccio Parri,118.75515747070312
+document_121003.html,79,106,partito socialista italiano,ORG,Q590750,Partito Socialista Italiano,137.3095245361328
+document_121020.html,13,17,Moro,PER,Q171834,Aldo Moro,133.65652465820312
+document_121024.html,13,17,Moro,PER,Q171834,Aldo Moro,123.7788314819336
+document_121024.html,78,85,La Pira,PER,Q543393,Giorgio La Pira,145.7154541015625
+document_121024.html,382,389,La Pira,PER,Q543393,Giorgio La Pira,157.58192443847656
+document_121043.html,13,17,Moro,PER,Q171834,Aldo Moro,127.22106170654297
+document_121087.html,13,17,Moro,PER,Q171834,Aldo Moro,124.00421905517578
+document_121087.html,145,154,Cevolotto,PER,Q3848440,Mario Cevolotto,146.64894104003906
+document_121087.html,206,215,Togliatti,PER,Q310158,Palmiro Togliatti,119.62258911132812
+document_121088.html,13,17,Moro,PER,Q171834,Aldo Moro,123.12303161621094
+document_121088.html,198,207,Cevolotto,PER,Q3848440,Mario Cevolotto,151.39614868164062
+document_121088.html,983,992,Terracini,PER,Q4003497,Umberto Terracini,161.5612335205078
+document_121093.html,13,17,Moro,PER,Q171834,Aldo Moro,131.579833984375
+document_121093.html,660,677,Consulta araldica,ORG,Q1822839,Consulta araldica,166.83993530273438
+document_121097.html,111,115,Moro,PER,Q171834,Aldo Moro,121.1369857788086
+document_121109.html,35,56,Assemblea costituente,ORG,Q1053185,Assemblea Costituente (Italia),133.988037109375
+document_121134.html,489,509,Democrazia cristiana,ORG,Q815348,Democrazia Cristiana,126.23979187011719
+document_121134.html,818,824,Italia,LOC,Q38,Italia,104.3048095703125
+document_121142.html,67,83,Ferdinando Vegas,PER,Q21587924,Ferdinando Vegas,188.41444396972656
+document_121155.html,34,50,Adelchi Baratono,PER,Q3605170,Adelchi Baratono,181.25965881347656
+document_121186.html,100,121,Assemblea costituente,ORG,Q1053185,Assemblea Costituente (Italia),138.29298400878906
+document_121186.html,174,194,Corte costituzionale,ORG,Q981005,Corte costituzionale (Italia),137.63626098632812
+document_121238.html,89,95,Italia,LOC,Q38,Italia,101.57659912109375
+document_121238.html,167,183,Maria Montessori,PER,Q131117,Maria Montessori,133.71080017089844
+document_121238.html,279,285,Italia,LOC,Q38,Italia,103.87619018554688
+document_121238.html,356,361,Paese,LOC,Q38,Italia,112.46788787841797
+document_121245.html,37,43,Italia,LOC,Q38,Italia,104.64695739746094
+document_122012.html,298,303,Nenni,PER,Q539486,Pietro Nenni,185.3501434326172
+document_122018.html,78,94,Maria Montessori,PER,Q131117,Maria Montessori,145.29359436035156
+document_122018.html,279,295,Maria Montessori,PER,Q131117,Maria Montessori,147.7159881591797
+document_122034.html,63,82,Camera dei Deputati,ORG,Q841424,Camera dei deputati (Italia),125.38664245605469
+document_122034.html,300,306,Camera,ORG,Q841424,Camera dei deputati (Italia),120.677490234375
+document_122034.html,334,339,Leone,PER,Q1235,Giovanni Leone,135.33949279785156
+document_122034.html,349,369,Corte Costituzionale,ORG,Q981005,Corte costituzionale (Italia),144.95236206054688
+document_122034.html,461,467,Camera,ORG,Q841424,Camera dei deputati (Italia),118.966552734375
+document_122034.html,709,715,Camera,ORG,Q841424,Camera dei deputati (Italia),118.62689971923828
+document_122034.html,1055,1061,Camera,ORG,Q841424,Camera dei deputati (Italia),120.06680297851562
+document_122044.html,111,127,Giuseppe Bettiol,PER,Q3770116,Giuseppe Bettiol,201.8084716796875
+document_131006.html,26,33,Sicilia,LOC,Q1460,Sicilia,107.9434814453125
+document_131034.html,6,10,Moro,PER,Q171834,Aldo Moro,126.11738586425781
+document_131034.html,447,451,D.C.,ORG,Q815348,Democrazia Cristiana,149.23492431640625
+document_131034.html,663,667,D.C.,ORG,Q815348,Democrazia Cristiana,149.71893310546875
+document_131058.html,45,49,Moro,PER,Q171834,Aldo Moro,125.69856262207031
+document_131058.html,264,281,Partito comunista,ORG,Q461886,Partito Comunista Italiano,132.80911254882812
+document_131067.html,649,651,DC,ORG,Q815348,Democrazia Cristiana,116.19918060302734
+document_131067.html,1192,1194,DC,ORG,Q815348,Democrazia Cristiana,111.82696533203125
+document_131067.html,1326,1328,DC,ORG,Q815348,Democrazia Cristiana,113.95468139648438
+document_131087.html,106,110,D.C.,ORG,Q815348,Democrazia Cristiana,153.73486328125
+document_131087.html,452,456,D.C.,ORG,Q815348,Democrazia Cristiana,148.7528076171875
+document_131106.html,582,587,Paese,LOC,Q38,Italia,116.19647216796875
+document_131111.html,176,184,Berloffa,PER,Q661117,Alcide Berloffa,156.44357299804688
+document_131119.html,2,8,Padova,LOC,Q617,Padova,117.91780853271484
+document_131119.html,89,98,Aldo Moro,PER,Q171834,Aldo Moro,170.453857421875
+document_131119.html,270,274,Moro,PER,Q171834,Aldo Moro,127.86632537841797
+document_131126.html,534,536,DC,ORG,Q815348,Democrazia Cristiana,114.68414306640625
+document_131128.html,19,39,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,149.2620849609375
+document_131128.html,486,499,Nazioni Unite,ORG,Q1065,Organizzazione delle Nazioni Unite,118.57099914550781
+document_131128.html,925,933,Alleanza,ORG,Q7184,Organizzazione del Trattato dell'Atlantico del Nord,121.82599639892578
+document_131130.html,281,301,democrazia cristiana,ORG,Q815348,Democrazia Cristiana,124.79560852050781
+document_131130.html,315,324,Togliatti,PER,Q310158,Palmiro Togliatti,119.27651977539062
+document_131130.html,538,555,partito comunista,ORG,Q461886,Partito Comunista Italiano,119.87705993652344
+document_132011.html,25,31,Italia,LOC,Q38,Italia,105.32080078125
+document_132011.html,127,132,Paese,LOC,Q38,Italia,112.86370849609375
+document_132011.html,684,690,Italia,LOC,Q38,Italia,103.94490051269531
+document_132011.html,1088,1094,Italia,LOC,Q38,Italia,105.02214050292969
+document_132028.html,39,42,Rai,ORG,Q19616,Rai,116.93211364746094
+document_132065.html,167,170,IRI,ORG,Q1674879,IRI,155.99960327148438
+document_132065.html,177,185,Alitalia,ORG,Q153975,Alitalia,111.69004821777344
+document_132065.html,311,320,Carandini,PER,Q1987236,Nicolò Carandini,159.9650115966797
+document_132073.html,32,41,Aldo Moro,PER,Q171834,Aldo Moro,164.15379333496094
+document_132109.html,193,199,Italia,LOC,Q38,Italia,100.23867797851562
+document_132109.html,292,300,Giappone,LOC,Q17,Giappone,101.45024108886719
+document_132165.html,523,528,Paese,LOC,Q38,Italia,115.23635864257812
+document_132165.html,814,820,Italia,LOC,Q38,Italia,102.79391479492188
+document_132165.html,1161,1167,Italia,LOC,Q38,Italia,104.16792297363281
+document_132179.html,444,463,Parlamento italiano,ORG,Q1117578,Parlamento italiano,131.4161376953125
+document_132179.html,983,993,Alto Adige,LOC,Q15124,Provincia autonoma di Bolzano,122.68663024902344
+document_132179.html,1080,1086,Camera,ORG,Q841424,Camera dei deputati (Italia),119.12089538574219
+document_132183.html,32,41,Aldo Moro,PER,Q171834,Aldo Moro,153.25860595703125
+document_132198.html,44,53,Aldo Moro,PER,Q171834,Aldo Moro,172.22637939453125
+document_132198.html,77,87,Bargellini,PER,Q3903157,Piero Bargellini,158.66729736328125
+document_132223.html,206,212,Italia,LOC,Q38,Italia,103.59767150878906
+document_132230.html,398,403,Paese,LOC,Q38,Italia,121.12689208984375
+document_132257.html,41,50,Aldo Moro,PER,Q171834,Aldo Moro,152.00042724609375
+document_132257.html,171,187,Giovanni Giraudo,PER,Q3767386,Giovanni Giraudo,168.35333251953125
+document_132257.html,289,293,Moro,PER,Q171834,Aldo Moro,118.81151580810547
+document_132272.html,235,255,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,130.09315490722656
+document_132274.html,77,87,Tremelloni,PER,Q3939205,Roberto Tremelloni,136.94448852539062
+document_132274.html,125,147,Ministero della Difesa,ORG,Q1855201,Ministero della difesa,122.6745834350586
+document_132289.html,387,402,Massimo Pilotti,PER,Q3851409,Massimo Pilotti,164.39117431640625
+document_132289.html,410,426,Gaetano Azzariti,PER,Q3756893,Gaetano Azzariti,185.1514434814453
+document_132289.html,435,450,Andrea Torrente,PER,Q3616074,Andrea Torrente,155.3924560546875
+document_141002.html,218,259,Unione italiana delle Camere di Commercio,ORG,Q21236933,"Unione italiana delle Camere di commercio, industria, artigianato e agricoltura",175.99444580078125
+document_141016.html,648,668,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,124.64048767089844
+document_141027.html,23,32,Aldo Moro,PER,Q171834,Aldo Moro,143.36672973632812
+document_141027.html,62,82,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,126.75132751464844
+document_141027.html,137,143,Italia,LOC,Q38,Italia,103.72857666015625
+document_141031.html,19,26,Taviani,PER,Q1379277,Paolo Emilio Taviani,165.934814453125
+document_141031.html,82,89,Gaspari,PER,Q3932481,Remo Gaspari,135.1237335205078
+document_141036.html,6,15,Aldo Moro,PER,Q171834,Aldo Moro,158.69329833984375
+document_141036.html,261,267,Italia,LOC,Q38,Italia,102.75859832763672
+document_141036.html,1050,1055,Paese,LOC,Q38,Italia,122.72900390625
+document_141061.html,252,268,Maurice Schumann,PER,Q282882,Maurice Schumann,205.0369873046875
+document_141061.html,356,360,Moro,PER,Q171834,Aldo Moro,129.29830932617188
+document_141094.html,234,240,Europa,LOC,Q46,Europa,103.59406280517578
+document_141095.html,87,92,Cairo,LOC,Q85,Il Cairo,119.75045013427734
+document_141099.html,30,39,Aldo Moro,PER,Q171834,Aldo Moro,143.70809936523438
+document_141104.html,293,331,Comitato dei Rappresentanti Permanenti,ORG,Q780116,Comitato dei rappresentanti permanenti,155.33807373046875
+document_141104.html,470,478,Comunità,ORG,Q52847,Comunità economica europea,112.92228698730469
+document_141114.html,53,59,Camera,ORG,Q841424,Camera dei deputati (Italia),119.28600311279297
+document_141114.html,163,168,Libia,LOC,Q1016,Libia,107.21037292480469
+document_141155.html,0,4,Moro,PER,Q171834,Aldo Moro,124.35609436035156
+document_141155.html,46,53,Israele,LOC,Q801,Israele,111.43574523925781
+document_141155.html,206,217,Gerusalemme,LOC,Q1218,Gerusalemme,103.23261260986328
+document_141155.html,498,509,Gerusalemme,LOC,Q1218,Gerusalemme,104.42756652832031
+document_141168.html,226,231,Ghana,LOC,Q117,Ghana,99.84861755371094
+document_141193.html,103,113,Bouteflika,PER,Q57308,Abdelaziz Bouteflika,177.036376953125
+document_141193.html,173,180,Algérie,LOC,Q262,Algeria,122.93470764160156
+document_141213.html,146,151,Nixon,PER,Q9588,Richard Nixon,107.3173828125
+document_141225.html,178,186,Comunità,ORG,Q52847,Comunità economica europea,110.64861297607422
+document_141226.html,38,42,Moro,PER,Q171834,Aldo Moro,123.0781021118164
+document_141226.html,275,281,Europa,LOC,Q46,Europa,106.96688842773438
+document_141254.html,324,330,Milano,LOC,Q490,Milano,104.95823669433594
+document_141269.html,78,86,Comunità,ORG,Q52847,Comunità economica europea,115.56265258789062
+document_141269.html,294,302,Comunità,ORG,Q52847,Comunità economica europea,117.00498962402344
+document_141270.html,132,144,Willy Brandt,PER,Q2514,Willy Brandt,155.64279174804688
+document_141271.html,207,211,NATO,ORG,Q7184,Organizzazione del Trattato dell'Atlantico del Nord,132.0262451171875
+document_141271.html,461,469,Comunità,ORG,Q52847,Comunità economica europea,114.99454498291016
+document_141276.html,480,488,Cariglia,PER,Q601298,Antonio Cariglia,157.8250732421875
+document_141276.html,922,927,Malta,LOC,Q233,Malta,108.69337463378906
+document_141276.html,1009,1015,Canada,LOC,Q16,Canada,109.57075500488281
+document_141294.html,73,82,Aldo Moro,PER,Q171834,Aldo Moro,155.49412536621094
+document_141294.html,137,176,partito socialista democratico italiano,ORG,Q665335,Partito Socialista Democratico Italiano,181.60679626464844
+document_141302.html,167,187,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,138.78956604003906
+document_141304.html,279,299,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,126.65249633789062
+document_141304.html,325,330,Paese,LOC,Q38,Italia,115.79386901855469
+document_142010.html,266,282,Salvador Allende,PER,Q440,Salvador Allende,160.17401123046875
+document_142022.html,73,92,Parlamento italiano,ORG,Q1117578,Parlamento italiano,136.1279296875
+document_142022.html,299,304,Paese,LOC,Q38,Italia,121.06582641601562
+document_142035.html,352,356,Moro,PER,Q171834,Aldo Moro,137.79879760742188
+document_142035.html,492,499,Francia,LOC,Q142,Francia,152.88497924804688
+document_142036.html,13,17,Moro,PER,Q171834,Aldo Moro,143.50770568847656
+document_142036.html,268,274,Italia,LOC,Q38,Italia,110.2810287475586
+document_142036.html,458,462,Moro,PER,Q171834,Aldo Moro,150.74057006835938
+document_142047.html,91,95,Moro,PER,Q171834,Aldo Moro,140.02188110351562
+document_142051.html,160,165,Malta,LOC,Q233,Malta,107.24054718017578
+document_142061.html,32,41,Togliatti,PER,Q310158,Palmiro Togliatti,145.1387176513672
+document_142061.html,425,434,Togliatti,PER,Q310158,Palmiro Togliatti,119.67767333984375
+document_142061.html,646,655,Togliatti,PER,Q310158,Palmiro Togliatti,116.68936157226562
+document_142061.html,692,694,DC,ORG,Q815348,Democrazia Cristiana,115.40426635742188
+document_142061.html,1102,1123,Assemblea costituente,ORG,Q1053185,Assemblea Costituente (Italia),136.2451171875
+document_142087.html,385,391,Canadà,LOC,Q16,Canada,105.64836120605469
+document_142087.html,401,407,Italia,LOC,Q38,Italia,103.01046752929688
+document_142145.html,219,239,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,126.13243103027344
+document_142145.html,403,410,Gonella,PER,Q1553555,Guido Gonella,133.84536743164062
+document_142145.html,437,443,Merlin,PER,Q3832550,Lina Merlin,139.96810913085938
+document_142145.html,452,458,Tupini,PER,Q4003498,Umberto Tupini,140.70614624023438
+document_142145.html,540,547,Fanfani,PER,Q273228,Amintore Fanfani,124.37957763671875
+document_142145.html,556,560,Moro,PER,Q171834,Aldo Moro,117.5548324584961
+document_142145.html,569,574,Rumor,PER,Q316288,Mariano Rumor,143.38409423828125
+document_142145.html,600,609,Andreotti,PER,Q50005,Giulio Andreotti,117.65904998779297
+document_142145.html,619,626,Taviani,PER,Q1379277,Paolo Emilio Taviani,151.6123046875
+document_142145.html,763,770,De Mita,PER,Q316226,Ciriaco De Mita,154.1715545654297
+document_142145.html,831,839,Gullotti,PER,Q3619102,Antonino Pietro Gullotti,133.01556396484375
+document_142145.html,849,857,Bisaglia,PER,Q1059394,Antonio Bisaglia,145.90911865234375
+document_142162.html,33,42,Aldo Moro,PER,Q171834,Aldo Moro,158.6533203125
+document_142162.html,134,154,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,130.585693359375
+document_142162.html,746,766,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,127.45144653320312
+document_142196.html,200,209,Tremaglia,PER,Q1514742,Mirko Tremaglia,141.0411834716797
+document_142222.html,24,28,D.C.,ORG,Q815348,Democrazia Cristiana,152.4498748779297
+document_110106.html,30,45,Luigi Lavitrano,PER,Q1493618,Luigi Lavitrano,207.24264526367188
+document_110106.html,388,392,Fuci,ORG,Q3091708,Federazione universitaria cattolica italiana,143.008056640625
+document_110167.html,64,72,Germania,LOC,Q183,Germania,104.26698303222656
+document_121034.html,13,17,Moro,PER,Q171834,Aldo Moro,121.90717315673828
+document_121104.html,188,194,Italia,LOC,Q38,Italia,102.45651245117188
+document_121239.html,39,82,Società per l’organizzazione internazionale,ORG,Q3963401,Società italiana per l'organizzazione internazionale,155.56544494628906
+document_121239.html,431,437,Italia,LOC,Q38,Italia,103.45053100585938
+document_122004.html,469,475,Senato,ORG,Q633872,Senato della Repubblica,110.92416381835938
+document_122004.html,493,499,Camera,ORG,Q841424,Camera dei deputati (Italia),115.05674743652344
+document_122033.html,246,253,Covelli,PER,Q3611381,Alfredo Covelli,139.6919708251953
+document_131120.html,29,31,DC,ORG,Q815348,Democrazia Cristiana,116.5279312133789
+document_131120.html,36,40,Moro,PER,Q171834,Aldo Moro,127.69668579101562
+document_131120.html,191,193,DC,ORG,Q815348,Democrazia Cristiana,113.22894287109375
+document_131120.html,400,404,Moro,PER,Q171834,Aldo Moro,126.37004089355469
+document_131120.html,467,469,DC,ORG,Q815348,Democrazia Cristiana,113.7154541015625
+document_131120.html,636,638,DC,ORG,Q815348,Democrazia Cristiana,114.24281311035156
+document_131120.html,816,821,Paese,LOC,Q38,Italia,121.61663818359375
+document_131120.html,874,876,DC,ORG,Q815348,Democrazia Cristiana,114.72210693359375
+document_132047.html,164,169,Malta,LOC,Q233,Malta,106.5247573852539
+document_132117.html,32,41,Aldo Moro,PER,Q171834,Aldo Moro,169.7995147705078
+document_132172.html,159,168,Aldo Moro,PER,Q171834,Aldo Moro,175.33348083496094
+document_132172.html,495,499,Moro,PER,Q171834,Aldo Moro,131.5731201171875
+document_132256.html,162,171,Aldo Moro,PER,Q171834,Aldo Moro,173.48977661132812
+document_132256.html,236,250,Maria Badaloni,PER,Q28030773,Maria Badaloni,148.52706909179688
+document_132256.html,517,521,Moro,PER,Q171834,Aldo Moro,119.00814819335938
+document_132256.html,1103,1108,Paese,LOC,Q38,Italia,121.584228515625
+document_132296.html,322,338,Union Valdotaine,ORG,Q370936,Union Valdôtaine,223.71444702148438
+document_141009.html,101,104,PCI,ORG,Q461886,Partito Comunista Italiano,116.20184326171875
+document_141046.html,45,53,Comunità,ORG,Q52847,Comunità economica europea,116.14701843261719
+document_141203.html,56,62,Italia,LOC,Q38,Italia,103.7626724243164
+document_141203.html,165,169,Moro,PER,Q171834,Aldo Moro,132.91275024414062
+document_141203.html,223,235,Villa Madama,LOC,Q1267485,Villa Madama,133.6728973388672
+document_141239.html,105,109,Moro,PER,Q171834,Aldo Moro,129.66929626464844
+document_141239.html,158,184,Comunità economica europea,ORG,Q52847,Comunità economica europea,133.3197479248047
+document_141249.html,6,15,Aldo Moro,PER,Q171834,Aldo Moro,142.92926025390625
+document_141249.html,1168,1188,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,133.30735778808594
+document_141249.html,1247,1251,Moro,PER,Q171834,Aldo Moro,123.1397476196289
+document_141249.html,1350,1370,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,132.8740692138672
+document_141249.html,1567,1572,Paese,LOC,Q38,Italia,122.91084289550781
+document_142041.html,121,138,Santiago del Cile,LOC,Q2887,Santiago del Cile,126.59420776367188
+document_142053.html,13,17,Moro,PER,Q171834,Aldo Moro,123.25633239746094
+document_142053.html,202,208,Europa,LOC,Q46,Europa,106.23179626464844
+document_142073.html,153,159,Camera,ORG,Q841424,Camera dei deputati (Italia),118.90797424316406
+document_142073.html,913,920,Rognoni,PER,Q1748746,Virginio Rognoni,144.70938110351562
+document_142073.html,962,969,Orlandi,PER,Q3746504,Flavio Orlandi,152.75765991210938
+document_142083.html,85,91,Italia,LOC,Q38,Italia,104.48194885253906
+document_142083.html,122,135,Nazioni Unite,ORG,Q1065,Organizzazione delle Nazioni Unite,122.026123046875
+document_142083.html,197,211,Organizzazione,ORG,Q1065,Organizzazione delle Nazioni Unite,119.59878540039062
+document_142116.html,4,10,Italia,LOC,Q38,Italia,105.00178527832031
+document_142160.html,33,42,Aldo Moro,PER,Q171834,Aldo Moro,146.43914794921875
+document_142160.html,151,171,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,132.63861083984375
+document_142160.html,354,374,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,128.6290283203125
+document_142160.html,463,468,Paese,LOC,Q38,Italia,119.69999694824219
+document_142160.html,913,933,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,125.79280090332031
+document_110032.html,24,40,Tommaso d’Aquino,PER,Q9438,Tommaso d'Aquino,148.52490234375
+document_110032.html,62,78,Azione Cattolica,ORG,Q3318304,Azione Cattolica,147.3135986328125
+document_110032.html,188,199,San Tommaso,PER,Q9438,Tommaso d'Aquino,120.47689056396484
+document_110032.html,752,762,S. Tommaso,PER,Q9438,Tommaso d'Aquino,134.04873657226562
+document_110047.html,179,191,Associazioni,ORG,Q3091708,Federazione universitaria cattolica italiana,136.71861267089844
+document_110088.html,905,925,democrazia cristiana,ORG,Q815348,Democrazia Cristiana,140.01333618164062
+document_110088.html,1583,1590,Pio XII,PER,Q2604,Papa Pio XII,142.3765106201172
+document_121012.html,13,17,Moro,PER,Q171834,Aldo Moro,122.29447937011719
+document_121021.html,13,17,Moro,PER,Q171834,Aldo Moro,125.22151947021484
+document_121021.html,334,341,La Pira,PER,Q543393,Giorgio La Pira,162.31199645996094
+document_121029.html,13,17,Moro,PER,Q171834,Aldo Moro,122.21595001220703
+document_121029.html,144,152,Dossetti,PER,Q370039,Giuseppe Dossetti,139.22674560546875
+document_121149.html,141,147,Italia,LOC,Q38,Italia,102.84768676757812
+document_121149.html,462,468,Italia,LOC,Q38,Italia,101.45880126953125
+document_121196.html,3,5,DC,ORG,Q815348,Democrazia Cristiana,113.70321655273438
+document_131084.html,19,23,D.C.,ORG,Q815348,Democrazia Cristiana,152.04307556152344
+document_131084.html,235,239,D.C.,ORG,Q815348,Democrazia Cristiana,166.42994689941406
+document_131084.html,392,397,Paese,LOC,Q38,Italia,111.11000061035156
+document_131084.html,513,519,Italia,LOC,Q38,Italia,103.13687133789062
+document_131092.html,6,10,Moro,PER,Q171834,Aldo Moro,126.02734375
+document_131092.html,315,319,Moro,PER,Q171834,Aldo Moro,130.63113403320312
+document_131092.html,1043,1047,D.C.,ORG,Q815348,Democrazia Cristiana,150.25828552246094
+document_131092.html,1204,1208,D.C.,ORG,Q815348,Democrazia Cristiana,154.63046264648438
+document_131092.html,1573,1577,D.C.,ORG,Q815348,Democrazia Cristiana,149.99879455566406
+document_132086.html,83,89,Italia,LOC,Q38,Italia,104.60444641113281
+document_132086.html,137,141,Nato,ORG,Q7184,Organizzazione del Trattato dell'Atlantico del Nord,130.29879760742188
+document_132115.html,39,47,Badaloni,PER,Q28030773,Maria Badaloni,132.4974365234375
+document_132115.html,131,140,Aldo Moro,PER,Q171834,Aldo Moro,153.26840209960938
+document_132173.html,64,79,Cesare Battisti,PER,Q78782,Cesare Battisti,139.0606689453125
+document_132173.html,357,365,Battisti,PER,Q78782,Cesare Battisti,116.25606536865234
+document_132173.html,407,415,Battisti,PER,Q78782,Cesare Battisti,112.89697265625
+document_132194.html,263,268,Paese,LOC,Q38,Italia,123.12599182128906
+document_132194.html,1921,1927,Italia,LOC,Q38,Italia,103.617919921875
+document_132264.html,45,47,Dc,ORG,Q815348,Democrazia Cristiana,116.77303314208984
+document_132264.html,368,374,Italia,LOC,Q38,Italia,103.12992858886719
+document_132264.html,1070,1090,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,127.70698547363281
+document_141206.html,3,11,Comunità,ORG,Q52847,Comunità economica europea,112.5837173461914
+document_141206.html,103,129,Comunità Economica Europea,ORG,Q52847,Comunità economica europea,154.62525939941406
+document_141245.html,87,112,Repubblica araba egiziana,LOC,Q79,Egitto,156.96078491210938
+document_141245.html,215,221,Italia,LOC,Q38,Italia,110.65034484863281
+document_141245.html,513,522,Ripamonti,PER,Q3651570,Camillo Ripamonti,137.14920043945312
+document_141245.html,558,564,Pedini,PER,Q3848931,Mario Pedini,147.0960693359375
+document_141245.html,638,660,ministero degli Esteri,ORG,Q789842,Ministero degli affari esteri e della cooperazione internazionale,123.99125671386719
+document_141245.html,674,678,Gaja,PER,Q3938823,Roberto Gaja,152.76516723632812
+document_141245.html,833,838,Cairo,LOC,Q85,Il Cairo,127.53024291992188
+document_141259.html,39,48,Aldo Moro,PER,Q171834,Aldo Moro,141.19859313964844
+document_142149.html,19,25,Wilson,PER,Q128956,Harold Wilson,125.45301818847656
+document_142170.html,62,82,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,123.980712890625
+document_142170.html,168,188,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,120.86781311035156
+document_142170.html,229,235,Italia,LOC,Q38,Italia,104.60723876953125
+document_142170.html,735,755,Democrazia Cristiana,ORG,Q815348,Democrazia Cristiana,122.46128845214844
+document_142209.html,18,22,Moro,PER,Q171834,Aldo Moro,118.01229858398438
+document_142209.html,243,263,Democrazia cristiana,ORG,Q815348,Democrazia Cristiana,126.43344116210938

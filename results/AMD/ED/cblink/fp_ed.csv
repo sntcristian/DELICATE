@@ -1,0 +1,300 @@
+doc_id,start_pos,end_pos,surface,type,identifier,title,score
+document_110065.html,70,76,Italia,LOC,Q913582,Italia romana,118.303955078125
+document_110065.html,222,237,Sede Apostolica,ORG,Q170174,Stato Pontificio,125.81121826171875
+document_110065.html,248,259,Padre Santo,PER,Q43734,Papa Gregorio XVI,137.02734375
+document_110065.html,515,521,Cristo,PER,Q43999,Giacomo il Maggiore,124.33192443847656
+document_110065.html,582,588,Chiesa,ORG,Q170174,Stato Pontificio,120.28053283691406
+document_110065.html,687,703,Beatissimo Padre,PER,Q4448,Papa Benedetto XV,153.50177001953125
+document_110065.html,709,721,Universitari,ORG,Q131262,Università di Bologna,125.90760040283203
+document_110065.html,985,995,Università,ORG,Q1243705,Università degli Studi di Modena e Reggio Emilia,120.78973388671875
+document_110065.html,996,1002,Italia,LOC,Q913582,Italia romana,122.067626953125
+document_110082.html,83,89,Italia,LOC,Q913582,Italia romana,119.85623931884766
+document_110092.html,267,273,Italia,LOC,Q319984,Somalia italiana,123.59322357177734
+document_110092.html,278,285,America,LOC,Q828,America,120.91805267333984
+document_110139.html,172,179,Tunisia,LOC,Q1016,Libia,117.0479736328125
+document_110139.html,302,308,Italia,LOC,Q1232988,Colonia eritrea,117.03555297851562
+document_110177.html,77,81,Roma,LOC,Q10285,Colosseo,118.9593734741211
+document_110177.html,404,410,Italia,LOC,Q12793818,Repubblica di Caporetto,117.85260009765625
+document_110177.html,1608,1613,Paese,LOC,Q12793818,Repubblica di Caporetto,127.17304229736328
+document_110199.html,232,238,Italia,LOC,Q12793818,Repubblica di Caporetto,116.80850219726562
+document_110199.html,436,440,Roma,LOC,Q15119,Provincia di Roma,123.22408294677734
+document_110199.html,620,629,Movimento,ORG,Q51122,Risorgimento,128.6016845703125
+document_110205.html,30,40,Margadonna,PER,Q1238,Giuseppe Saragat,147.0640869140625
+document_110220.html,130,148,Laureati Cattolici,ORG,Q1454044,Libera Università Maria Santissima Assunta,153.35194396972656
+document_110220.html,523,531,Laureati,ORG,Q1454044,Libera Università Maria Santissima Assunta,147.46109008789062
+document_110220.html,566,570,Roma,LOC,Q15119,Provincia di Roma,122.56599426269531
+document_110220.html,631,649,Laureati Cattolici,ORG,Q475007,Pontificia Università Lateranense,171.53955078125
+document_110220.html,658,689,Unioni Professionali Cattoliche,ORG,Q697595,Congregazione dei Sacri Cuori,173.97665405273438
+document_110220.html,834,843,Movimento,ORG,Q51122,Risorgimento,121.45905303955078
+document_110220.html,912,920,Laureati,ORG,Q46210,Università degli Studi di Milano,135.38038635253906
+document_110220.html,984,990,Italia,LOC,Q12793818,Repubblica di Caporetto,119.35658264160156
+document_121020.html,75,85,Presidente,PER,Q11696,Presidente degli Stati Uniti d'America,118.84236145019531
+document_121020.html,123,134,Commissione,ORG,Q7478146,Pontificia commissione per lo Stato della Città del Vaticano,128.33621215820312
+document_121020.html,233,243,Presidente,PER,Q8007,Franklin Delano Roosevelt,115.76962280273438
+document_121024.html,158,163,Basso,PER,Q3619753,Antonio Leopoldo Basso,139.87582397460938
+document_121024.html,169,177,Marchesi,PER,Q3778140,Gualtiero Marchesi,141.44715881347656
+document_121043.html,84,92,Marchesi,PER,Q3778140,Gualtiero Marchesi,130.03134155273438
+document_121093.html,208,214,Nobile,PER,Q187149,Umberto II di Savoia,134.45535278320312
+document_121097.html,76,82,Chiesa,ORG,Q170174,Stato Pontificio,124.80453491210938
+document_121170.html,58,69,Commissione,ORG,Q7478146,Pontificia commissione per lo Stato della Città del Vaticano,134.0364990234375
+document_121170.html,189,197,Targetti,PER,Q3929607,Raimondo Targetti,167.33624267578125
+document_121186.html,353,363,Condorelli,PER,Q26830151,Gianfranco Gambarelli,152.14410400390625
+document_121217.html,198,213,Luciano Magrini,PER,Q568804,Luciano Neroni,238.6840057373047
+document_121217.html,256,264,Il Mondo,ORG,Q3792806,Il Mondo (quotidiano),173.14642333984375
+document_122012.html,152,160,Polesine,LOC,Q617,Padova,149.00489807128906
+document_122018.html,207,217,Parlamento,ORG,Q8889,Parlamento europeo,120.18415832519531
+document_122034.html,407,416,Assemblea,ORG,Q47423,Assemblea generale delle Nazioni Unite,132.3897705078125
+document_122034.html,955,965,Parlamento,ORG,Q8889,Parlamento europeo,124.208251953125
+document_122034.html,1181,1191,Parlamento,ORG,Q8889,Parlamento europeo,126.34429931640625
+document_122044.html,7,17,Presidente,PER,Q11696,Presidente degli Stati Uniti d'America,124.744873046875
+document_122067.html,68,74,Mattei,PER,Q13407130,Gianfranco Mattei,144.355712890625
+document_131006.html,48,55,Palermo,LOC,Q126148,Tangeri,120.58071899414062
+document_131034.html,394,401,Partito,ORG,Q2704736,Partito Radicale (Italia),123.31832122802734
+document_131087.html,53,59,Napoli,LOC,Q1047594,Piazza del Plebiscito,123.1884765625
+document_131087.html,486,492,Napoli,LOC,Q1047594,Piazza del Plebiscito,123.34840393066406
+document_131106.html,133,137,Roma,LOC,Q15119,Provincia di Roma,120.24470520019531
+document_131106.html,139,145,Napoli,LOC,Q3747349,Fontana del Carciofo (Napoli),125.34839630126953
+document_131106.html,147,151,Bari,LOC,Q13498,Taranto,126.7698745727539
+document_131106.html,153,157,Pisa,LOC,Q6761,Livorno,126.71854400634766
+document_131106.html,159,165,Foggia,LOC,Q13498,Taranto,128.89254760742188
+document_131111.html,754,758,Roma,LOC,Q15119,Provincia di Roma,119.19908142089844
+document_131111.html,1793,1800,Partito,ORG,Q2717398,Partito Popolare Italiano (1919),127.62081909179688
+document_131117.html,3,7,D.C.,ORG,Q1235137,Dottrinari,164.72430419921875
+document_131119.html,175,182,Perugia,LOC,Q3676980,Cimitero monumentale di Perugia,131.49554443359375
+document_131126.html,980,987,Partito,ORG,Q606620,Südtiroler Volkspartei,125.14164733886719
+document_131126.html,1626,1632,Napoli,LOC,Q1047594,Piazza del Plebiscito,121.63951110839844
+document_131130.html,25,35,Presidente,PER,Q11696,Presidente degli Stati Uniti d'America,124.31071472167969
+document_131130.html,220,227,Governo,ORG,Q3773955,Governo Tambroni,111.64698791503906
+document_131130.html,428,435,Governo,ORG,Q3773955,Governo Tambroni,115.14041137695312
+document_132006.html,25,40,Sommo Pontefice,PER,Q101437,Papa Pio II,117.33419799804688
+document_132006.html,44,54,Terrasanta,LOC,Q2,Terra,123.62654113769531
+document_132006.html,331,337,Chiesa,ORG,Q170174,Stato Pontificio,113.242431640625
+document_132006.html,476,482,Chiesa,ORG,Q170174,Stato Pontificio,113.58444213867188
+document_132028.html,135,142,Governo,ORG,Q3773955,Governo Tambroni,112.70195770263672
+document_132073.html,67,71,Bari,LOC,Q13498,Taranto,118.87255859375
+document_132108.html,175,180,Togni,PER,Q22991664,Rosolino Ferragni,123.64445495605469
+document_132109.html,50,55,Asahi,ORG,Q598905,Asahi (Mie),186.1190948486328
+document_132124.html,39,49,Jugoslavia,LOC,Q239755,Provincia di Lubiana,123.88758850097656
+document_132124.html,114,123,Stambolic,PER,Q456898,Ivan Stambolić,149.1552734375
+document_132165.html,54,58,Bari,LOC,Q13498,Taranto,130.83450317382812
+document_132165.html,216,220,Bari,LOC,Q13498,Taranto,121.64308166503906
+document_132165.html,317,321,Bari,LOC,Q13498,Taranto,124.43550109863281
+document_132165.html,406,413,Governo,ORG,Q3773910,Governo Pella,113.56038665771484
+document_132165.html,1147,1158,Mezzogiorno,LOC,NIL,,0
+document_132165.html,1272,1279,Governo,ORG,Q3773815,Governo Cavour IV,110.6649398803711
+document_132171.html,218,225,Berlino,LOC,Q183,Germania,119.58772277832031
+document_132179.html,611,618,Governo,ORG,Q3773955,Governo Tambroni,113.01415252685547
+document_132179.html,748,755,Governo,ORG,Q3773815,Governo Cavour IV,112.88068389892578
+document_132179.html,769,779,Parlamento,ORG,Q8889,Parlamento europeo,122.47151947021484
+document_132179.html,819,828,Almirante,PER,Q273228,Amintore Fanfani,145.08135986328125
+document_132179.html,875,882,Governo,ORG,Q3773815,Governo Cavour IV,116.74617004394531
+document_132183.html,128,139,Arcivescovo,PER,Q155971,Papa Benedetto XIII,129.22885131835938
+document_132183.html,299,306,Salerno,LOC,Q20003293,Casa del Balilla (Salerno),121.08587646484375
+document_132183.html,342,347,Menna,PER,Q26222227,Vittorio Annona,150.46829223632812
+document_132198.html,2,9,Firenze,LOC,Q3902151,Piazza Cesare Beccaria (Firenze),114.70138549804688
+document_132198.html,178,185,Governo,ORG,Q3773910,Governo Pella,115.13569641113281
+document_132198.html,216,223,Firenze,LOC,Q3902151,Piazza Cesare Beccaria (Firenze),115.56440734863281
+document_132223.html,95,111,Governo italiano,ORG,Q3773815,Governo Cavour IV,117.16859436035156
+document_132230.html,176,195,Consiglio nazionale,ORG,Q547858,Comitato di Liberazione Nazionale,136.43539428710938
+document_132230.html,505,510,Rumor,PER,Q47583,Gianfranco Fini,144.24502563476562
+document_132230.html,685,694,Consiglio,ORG,Q609037,Consiglio degli Stati,124.37278747558594
+document_132230.html,773,783,Segretario,PER,Q11696,Presidente degli Stati Uniti d'America,131.28834533691406
+document_132230.html,868,875,Partito,ORG,Q17427,Partito Comunista Cinese,123.89954376220703
+document_132232.html,19,26,Codogno,LOC,Q2013225,Codó,176.33657836914062
+document_132257.html,2,7,Cuneo,LOC,Q130270,Aeroporto di Cuneo-Levaldigi,127.18295288085938
+document_132257.html,251,260,Provincia,ORG,Q176,Québec (provincia),134.500244140625
+document_132257.html,346,351,Cuneo,LOC,Q130270,Aeroporto di Cuneo-Levaldigi,127.47479248046875
+document_132289.html,203,210,Governo,ORG,Q3773955,Governo Tambroni,110.53143310546875
+document_141002.html,103,115,Stefano Brun,PER,Q3972691,Stefano Romeo,194.18777465820312
+document_141002.html,279,289,Presidente,PER,Q11696,Presidente degli Stati Uniti d'America,122.28457641601562
+document_141002.html,319,325,Stagni,PER,Q16657901,Andrea Corsini (storico della scienza),145.85858154296875
+document_141002.html,405,417,Stefano Brun,PER,Q3972691,Stefano Romeo,194.1558837890625
+document_141027.html,2,15,Caltanissetta,LOC,Q1530,Baghdad,140.70309448242188
+document_141027.html,123,134,Mezzogiorno,LOC,NIL,,0
+document_141036.html,28,35,Sassari,LOC,Q16272,Provincia di Sassari,121.66963958740234
+document_141036.html,77,85,Sardegna,LOC,Q1460,Sicilia,121.9406509399414
+document_141036.html,247,258,Mezzogiorno,LOC,NIL,,0
+document_141061.html,121,124,Aja,LOC,Q2699571,Confine tra il Portogallo e la Spagna,145.4029541015625
+document_141061.html,181,190,Bruxelles,LOC,Q9005,Bruxelles,118.00147247314453
+document_141061.html,200,211,Lussemburgo,LOC,Q1842,Lussemburgo (città),135.54226684570312
+document_141061.html,361,369,Schumann,PER,Q15981,Robert Schuman,122.1655044555664
+document_141061.html,498,506,Schumann,PER,Q15981,Robert Schuman,132.40509033203125
+document_141094.html,199,202,Aja,LOC,Q2699571,Confine tra il Portogallo e la Spagna,143.06488037109375
+document_141095.html,13,34,République Arabe Unie,LOC,Q851,Arabia Saudita,186.08177185058594
+document_141095.html,267,275,Ministre,PER,Q237090,Madame de La Fayette,157.1295623779297
+document_141099.html,52,59,Brescia,LOC,Q3902453,Piazza della Vittoria (Brescia),120.65516662597656
+document_141104.html,79,90,Commissione,ORG,Q8880,Commissione europea,121.18777465820312
+document_141114.html,82,89,Governo,ORG,Q3773910,Governo Pella,119.1159439086914
+document_141155.html,180,187,Knesset,LOC,Q1218,Gerusalemme,144.5664825439453
+document_141155.html,192,202,Parlamento,ORG,Q8889,Parlamento europeo,121.26547241210938
+document_141225.html,52,61,Consiglio,ORG,Q8908,Consiglio d'Europa,119.69190216064453
+document_141226.html,162,167,Mosca,LOC,NIL,,0
+document_141226.html,176,184,Varsavia,LOC,NIL,,0
+document_141226.html,219,226,Berlino,LOC,Q5086,Muro di Berlino,120.54766082763672
+document_141226.html,373,380,Berlino,LOC,Q5086,Muro di Berlino,120.18588256835938
+document_141254.html,52,68,Governo italiano,ORG,Q3773815,Governo Cavour IV,122.61380004882812
+document_141254.html,104,110,Africa,LOC,Q181238,Africa (provincia romana),122.05078125
+document_141254.html,303,320,Fiera Campionaria,ORG,Q1756274,Fiera di Bolzano,175.91357421875
+document_141267.html,7,27,Governatore Generale,PER,NIL,,0
+document_141267.html,40,54,Primo Ministro,PER,NIL,,0
+document_141270.html,47,74,Repubblica Federale Tedesca,LOC,Q183,Germania,141.24179077148438
+document_141270.html,111,131,Cancelliere Federale,PER,Q61514,Michael Seifert (militare),186.1304931640625
+document_141271.html,25,29,Moro,PER,Q47583,Gianfranco Fini,141.033935546875
+document_141271.html,58,69,Lussemburgo,LOC,Q1842,Lussemburgo (città),124.53401184082031
+document_141271.html,178,200,Consiglio ministeriale,ORG,Q7184,Organizzazione del Trattato dell'Atlantico del Nord,151.21981811523438
+document_141271.html,217,221,Bonn,LOC,Q80985,Fès,135.96859741210938
+document_141271.html,358,361,MEC,ORG,Q7184,Organizzazione del Trattato dell'Atlantico del Nord,171.74822998046875
+document_141276.html,111,126,Governo maltese,ORG,Q3773818,Governo Colombo,146.05238342285156
+document_141276.html,310,326,Governo italiano,ORG,Q3773955,Governo Tambroni,132.55174255371094
+document_141276.html,466,474,Bemporad,PER,Q158030,Cornelius Castoriadis,172.3287811279297
+document_141276.html,542,557,Governo maltese,ORG,Q3773815,Governo Cavour IV,140.5757598876953
+document_141276.html,685,701,Governo italiano,ORG,Q3773815,Governo Cavour IV,125.71260070800781
+document_141276.html,975,1002,Repubblica federale tedesca,LOC,Q183,Germania,137.3795166015625
+document_141302.html,377,384,Partito,ORG,Q764490,Partito Democratico Italiano di Unità Monarchica,124.43851470947266
+document_142010.html,8,18,Presidente,PER,Q11696,Presidente degli Stati Uniti d'America,113.06884002685547
+document_142010.html,43,50,Governo,ORG,Q48525,Governo federale degli Stati Uniti d'America,120.97991943359375
+document_142022.html,10,20,Presidente,PER,Q11696,Presidente degli Stati Uniti d'America,121.82411193847656
+document_142022.html,226,233,Governo,ORG,Q3773815,Governo Cavour IV,115.18643188476562
+document_142022.html,282,292,Parlamento,ORG,Q8889,Parlamento europeo,120.39007568359375
+document_142022.html,495,505,Parlamento,ORG,Q8889,Parlamento europeo,125.57855987548828
+document_142035.html,302,307,Paese,LOC,Q12793818,Repubblica di Caporetto,133.04869079589844
+document_142035.html,502,508,Italia,LOC,Q42544,Tommaso Moro,153.33619689941406
+document_142035.html,672,686,unione europea,ORG,Q7184,Organizzazione del Trattato dell'Atlantico del Nord,174.64926147460938
+document_142036.html,345,358,Gran Bretagna,LOC,Q1054923,Hong Kong britannico,125.67153930664062
+document_142036.html,377,385,Comunità,ORG,Q7184,Organizzazione del Trattato dell'Atlantico del Nord,134.83395385742188
+document_142036.html,428,441,Gran Bretagna,LOC,Q1054923,Hong Kong britannico,126.54554748535156
+document_142036.html,496,504,Comunità,ORG,Q161549,Comunità europea del carbone e dell'acciaio,173.38307189941406
+document_142036.html,744,765,Parlamento britannico,ORG,NIL,,0
+document_142047.html,58,64,Africa,LOC,Q258,Sudafrica,120.02885437011719
+document_142047.html,211,217,Africa,LOC,Q258,Sudafrica,119.36592102050781
+document_142047.html,769,772,OUA,ORG,Q36600,L'Aia,171.59237670898438
+document_142051.html,279,284,Paese,LOC,Q38,Italia,115.64067077636719
+document_142061.html,125,136,Costituente,ORG,Q520640,Conclave del 1958,155.14962768554688
+document_142061.html,1156,1175,Repubblica italiana,LOC,Q38,Italia,129.7530517578125
+document_142079.html,3,24,Signor Primo ministro,PER,Q334974,"Julian Byng, I visconte Byng di Vimy",139.66400146484375
+document_142087.html,8,22,Primo Ministro,PER,Q61442,Fridolin von Senger und Etterlin,135.09378051757812
+document_142087.html,133,137,Roma,LOC,Q10285,Colosseo,118.74757385253906
+document_142120.html,84,95,Mezzogiorno,LOC,NIL,,0
+document_142128.html,255,262,Badioli,PER,Q22991664,Rosolino Ferragni,144.94915771484375
+document_142128.html,472,479,Badioli,PER,Q968365,Ennio Zelioli-Lanzini,144.25808715820312
+document_142145.html,372,377,Cappi,PER,Q47583,Gianfranco Fini,147.251953125
+document_142145.html,386,394,Piccioni,PER,Q1665575,Piero Piccioni,136.07022094726562
+document_142145.html,419,428,Cingolani,PER,Q318105,Corneliu Zelea Codreanu,152.32249450683594
+document_142145.html,583,590,Colombo,PER,Q47583,Gianfranco Fini,121.97730255126953
+document_142145.html,780,787,Marcora,PER,Q47651,Marco Pannella,137.51080322265625
+document_142145.html,797,804,Morlino,PER,Q3619102,Antonino Pietro Gullotti,146.4525146484375
+document_142145.html,814,821,Cossiga,PER,Q767345,Giuseppe Cossiga,160.51641845703125
+document_142162.html,55,60,Lucca,LOC,Q66310606,Piazza Antelminelli,130.40692138671875
+document_142162.html,62,68,Savona,LOC,Q42544,Tommaso Moro,130.54910278320312
+document_142186.html,56,67,Stati Uniti,LOC,Q35525,Casa Bianca,126.0150146484375
+document_142196.html,7,17,Presidente,PER,Q11696,Presidente degli Stati Uniti d'America,122.32015228271484
+document_142196.html,391,426,Presidente della Commissione esteri,PER,Q16975,Papa Paolo VI,149.69639587402344
+document_142221.html,10,16,Camere,ORG,Q841424,Camera dei deputati (Italia),125.30390167236328
+document_142221.html,381,388,Kappler,PER,Q993405,Bruno Kessler,154.19000244140625
+document_110090.html,27,49,Presidente Roos[e]velt,PER,Q958413,Harry Robbins Haldeman,173.24742126464844
+document_110090.html,919,927,Betlemme,LOC,Q430776,Nazareth,122.54821014404297
+document_110106.html,65,72,Palermo,LOC,NIL,,0
+document_110106.html,143,149,A.C.I.,ORG,Q3091708,Federazione universitaria cattolica italiana,177.48043823242188
+document_110106.html,292,304,Associazioni,ORG,Q3318304,Azione Cattolica,134.04087829589844
+document_110106.html,335,341,Italia,LOC,Q12793818,Repubblica di Caporetto,119.79168701171875
+document_110143.html,27,33,Italia,LOC,Q12793818,Repubblica di Caporetto,119.54432678222656
+document_110155.html,65,71,Italia,LOC,Q12793818,Repubblica di Caporetto,117.72911834716797
+document_110155.html,624,630,Italia,LOC,Q12793818,Repubblica di Caporetto,118.18562316894531
+document_121034.html,71,76,Basso,PER,Q3619753,Antonio Leopoldo Basso,137.83660888671875
+document_122004.html,149,160,Commissione,ORG,Q7478146,Pontificia commissione per lo Stato della Città del Vaticano,129.65611267089844
+document_122004.html,335,343,Ministro,PER,Q47583,Gianfranco Fini,123.14250183105469
+document_122004.html,504,513,Ministero,ORG,Q1855201,Ministero della difesa,118.63529205322266
+document_122004.html,828,836,Ministro,PER,Q47583,Gianfranco Fini,124.52547454833984
+document_122004.html,1422,1430,Ministro,PER,Q78802,Giovanni Amadeo Francesco di Paola Thugut,124.1624984741211
+document_122004.html,1454,1462,Marchesi,PER,Q431992,Pompeo Marchesi,132.47898864746094
+document_122004.html,1510,1519,Ministero,ORG,Q1855201,Ministero della difesa,118.15992736816406
+document_122004.html,1606,1614,Ministro,PER,Q78802,Giovanni Amadeo Francesco di Paola Thugut,123.95252990722656
+document_131120.html,118,130,Teatro Nuovo,ORG,Q3516757,Teatro Eliseo,169.50999450683594
+document_132117.html,57,64,Firenze,LOC,Q3902151,Piazza Cesare Beccaria (Firenze),114.47421264648438
+document_132117.html,169,176,Sindaco,PER,NIL,,0
+document_132117.html,180,187,Firenze,LOC,Q645374,Fontana del Nettuno (Firenze),115.91058349609375
+document_132172.html,122,125,Ice,ORG,Q7804,Fondo Monetario Internazionale,147.7427978515625
+document_132172.html,228,236,Istituto,ORG,Q789842,Ministero degli affari esteri e della cooperazione internazionale,137.89817810058594
+document_132172.html,442,448,Tolloy,PER,Q7327734,Richard McCoy,158.85928344726562
+document_132172.html,471,474,Ice,ORG,Q789842,Ministero degli affari esteri e della cooperazione internazionale,145.1742706298828
+document_132172.html,481,487,Donati,PER,Q3680024,Claudio Donati,143.84487915039062
+document_132172.html,554,561,Governo,ORG,Q3773910,Governo Pella,113.7796630859375
+document_132172.html,779,786,Governo,ORG,Q3773955,Governo Tambroni,114.67857360839844
+document_132256.html,3,14,Alberobello,LOC,Q34664,Hiroshima,151.53109741210938
+document_132296.html,166,173,Regione,LOC,NIL,,0
+document_132296.html,940,959,Consiglio regionale,ORG,Q3687386,Consiglio regionale del Friuli-Venezia Giulia,140.79360961914062
+document_132296.html,1021,1026,Stato,ORG,Q2577303,Regno di Sardegna (1720-1861),125.08223724365234
+document_132296.html,1114,1121,Regione,LOC,Q15124,Provincia autonoma di Bolzano,132.94581604003906
+document_132296.html,1182,1201,Consiglio regionale,ORG,Q3687386,Consiglio regionale del Friuli-Venezia Giulia,134.1122589111328
+document_141046.html,62,72,Jugoslavia,LOC,Q838291,Repubblica Socialista di Montenegro,126.07923126220703
+document_141046.html,184,189,Paese,LOC,Q222,Albania,126.16151428222656
+document_141046.html,234,241,Governo,ORG,Q191077,Regno di Jugoslavia,119.90029907226562
+document_141203.html,67,107,ministro federale austriaco degli Esteri,PER,Q63273,Wolfgang Hoppe,214.51622009277344
+document_141239.html,269,276,Turchia,LOC,Q229,Cipro,119.92941284179688
+document_141249.html,28,49,San Giovanni in Fiore,LOC,NIL,,0
+document_141249.html,70,79,Catanzaro,LOC,Q8471,Reggio Calabria,131.89527893066406
+document_141249.html,82,89,Cosenza,LOC,Q8471,Reggio Calabria,130.4469451904297
+document_141249.html,450,457,Partiti,ORG,Q558334,Partito Libertario (Stati Uniti d'America),130.24346923828125
+document_141249.html,1556,1563,Governo,ORG,Q3773910,Governo Pella,113.40316772460938
+document_142053.html,47,55,Varsavia,LOC,Q1781,Budapest,129.62832641601562
+document_142053.html,84,93,Bruxelles,LOC,Q9005,Bruxelles,113.07899475097656
+document_142053.html,382,385,Usa,LOC,Q910495,America russa,131.03257751464844
+document_142053.html,388,392,Urss,LOC,Q189266,Fronte orientale (1941-1945),134.16818237304688
+document_142073.html,8,18,Presidente,PER,Q11696,Presidente degli Stati Uniti d'America,121.82878112792969
+document_142073.html,140,146,Senato,ORG,Q3955184,Senato Subalpino,113.97521209716797
+document_142073.html,809,816,Governo,ORG,Q3773815,Governo Cavour IV,112.62796020507812
+document_142073.html,943,953,De Martino,PER,Q3659250,Carlo De Martino,154.4925994873047
+document_142073.html,978,985,Biasini,PER,Q729032,Luigi Carlo Farini,148.68026733398438
+document_142083.html,4,20,Governo italiano,ORG,Q3773815,Governo Cavour IV,121.6055908203125
+document_142116.html,76,90,Primo Ministro,PER,NIL,,0
+document_142116.html,125,129,Roma,LOC,Q10285,Colosseo,112.9034423828125
+document_142160.html,55,62,Trieste,LOC,Q12793818,Repubblica di Caporetto,132.6241455078125
+document_142160.html,82,97,Vittorio Veneto,LOC,Q217527,Piazza San Marco,177.1068115234375
+document_110032.html,46,58,Universitari,ORG,Q131262,Università di Bologna,129.50038146972656
+document_110032.html,131,143,Associazione,ORG,Q3318304,Azione Cattolica,130.2569580078125
+document_110032.html,535,538,Dio,PER,Q313417,Barabba,126.05863189697266
+document_110032.html,602,608,Chiesa,ORG,Q170174,Stato Pontificio,120.539794921875
+document_110034.html,49,56,Firenze,LOC,Q51177,Basilica di Santa Croce,114.8403091430664
+document_110034.html,161,189,Gioventù di Azione Cattolica,ORG,Q3318304,Azione Cattolica,177.71925354003906
+document_110114.html,114,120,Italia,LOC,Q12793818,Repubblica di Caporetto,115.92318725585938
+document_110144.html,38,43,Padre,PER,Q4448,Papa Benedetto XV,124.16259765625
+document_121012.html,45,53,Lombardi,PER,Q3763095,Gianfranco Lombardi,142.09365844726562
+document_121021.html,363,368,Basso,PER,Q3619753,Antonio Leopoldo Basso,141.11297607421875
+document_131072.html,49,73,Presidente del Consiglio,PER,Q11696,Presidente degli Stati Uniti d'America,127.63365173339844
+document_131072.html,434,441,Morlino,PER,Q1170132,Francesco Merlino,138.4300537109375
+document_131092.html,79,86,Partito,ORG,Q461886,Partito Comunista Italiano,124.23728942871094
+document_131092.html,198,204,Napoli,LOC,Q1047594,Piazza del Plebiscito,121.51914978027344
+document_131092.html,628,635,Partito,ORG,Q461886,Partito Comunista Italiano,122.11883544921875
+document_131092.html,723,729,Napoli,LOC,Q1047594,Piazza del Plebiscito,121.835205078125
+document_131092.html,1004,1011,Partito,ORG,Q2704736,Partito Radicale (Italia),126.08552551269531
+document_132086.html,14,18,Roma,LOC,Q10285,Colosseo,118.24201965332031
+document_132086.html,151,167,Governo italiano,ORG,Q3773815,Governo Cavour IV,120.4832763671875
+document_132115.html,237,241,AIMC,ORG,Q815348,Democrazia Cristiana,205.14181518554688
+document_132173.html,99,105,Trento,LOC,Q1735,Innsbruck,122.56494140625
+document_132194.html,36,43,Gorizia,LOC,Q15928,Velenje,128.59500122070312
+document_132194.html,1054,1061,Oslavia,LOC,Q385,Gdynia,137.28961181640625
+document_132194.html,1111,1119,Sabotino,LOC,Q121923,Ferrovia Parenzana,144.9318389892578
+document_132194.html,1125,1132,Pogdora,LOC,Q875791,Forte Vezzena,150.4822235107422
+document_132194.html,1198,1205,Gorizia,LOC,Q4656,Pola,130.23178100585938
+document_132194.html,1392,1407,Patria italiana,ORG,Q172579,Regno d'Italia (1861-1946),126.03275299072266
+document_132194.html,1524,1530,Isonzo,LOC,Q659745,Fronte italiano (1915-1918),146.27914428710938
+document_132194.html,1567,1574,Oslavia,LOC,Q385,Gdynia,140.86605834960938
+document_132194.html,1791,1799,Sabotino,LOC,Q659745,Fronte italiano (1915-1918),150.65682983398438
+document_132194.html,1802,1809,Gorizia,LOC,Q4656,Pola,133.6170654296875
+document_132264.html,716,723,Partito,ORG,Q2717398,Partito Popolare Italiano (1919),125.48345947265625
+document_141097.html,54,63,Bruxelles,LOC,Q9005,Bruxelles,119.68193054199219
+document_141172.html,49,65,Governo italiano,ORG,Q3773955,Governo Tambroni,128.55319213867188
+document_141172.html,206,225,Governo indonesiano,ORG,Q2029522,Ternate (stato),138.6825714111328
+document_141172.html,250,258,Djakarta,LOC,Q4803,Surakarta,143.76499938964844
+document_141180.html,69,85,Governo italiano,ORG,Q3773815,Governo Cavour IV,116.56796264648438
+document_141180.html,150,154,Roma,LOC,Q10285,Colosseo,115.82540893554688
+document_141206.html,138,145,Turchia,LOC,Q222,Albania,124.45762634277344
+document_141245.html,25,29,Moro,PER,Q47583,Gianfranco Fini,140.3329315185547
+document_141245.html,114,117,RAE,LOC,NIL,,0
+document_141245.html,120,142,Mohamed Abdal Marzaban,PER,Q311129,Ahmed Abdallah Mohamed Sambi,233.52325439453125
+document_141245.html,178,187,Farnesina,ORG,Q789842,Ministero degli affari esteri e della cooperazione internazionale,141.147705078125
+document_141245.html,224,227,RAE,LOC,NIL,,0
+document_141245.html,598,605,Picardi,PER,Q1525531,Giorgio Piccardi,150.32752990722656
+document_141259.html,52,59,Cassino,LOC,Q506234,Vittoriano,140.08413696289062
+document_142149.html,88,106,Governo britannico,ORG,Q8680,Impero britannico,123.69990539550781
+document_142209.html,11,17,Andria,LOC,Q3950056,Santuario di Santa Maria dei Miracoli (Andria),152.3135528564453

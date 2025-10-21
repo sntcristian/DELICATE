@@ -33,7 +33,7 @@ python pipeline.py --config_file "configs/config_dz.json" --output_dir "./test" 
 
 Example:
 ```
-python train_NER.py --dataset_path "../ENEIDE/DZ/v0.1/json_data" --output_dir "ner_model"
+python train_NER.py --dataset_path "../ENEIDE-data/v0.1/DZ/json_data" --output_dir "ner_model"
 ```
 
 
@@ -41,7 +41,7 @@ python train_NER.py --dataset_path "../ENEIDE/DZ/v0.1/json_data" --output_dir "n
 
 Example:
 ```
-python train.py --dataset_path "../ENEIDE/DZ/v0.1/" --models_dir "./DELICATE_models" --block_size 50 --negatives 10 --output_dir "./"
+python train.py --dataset_path "../ENEIDE/v0.1/DZ/" --models_dir "./DELICATE_models" --block_size 50 --negatives 10 --output_dir "./"
 ```
 
 ## Run DELICATE on ENEIDE Dataset

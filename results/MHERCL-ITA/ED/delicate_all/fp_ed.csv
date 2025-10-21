@@ -1,0 +1,963 @@
+doc_id,start_pos,end_pos,surface,type,identifier,wiki_title,score
+document_000004.html,71,77,Busont,PER,NIL,,0.03358085686984195
+document_000004.html,405,413,Scriabin,PER,NIL,,0.05052886055917997
+document_000005.html,46,52,Schalk,PER,Q550701,Louis Moreau Gottschalk,0.42861077887470406
+document_000005.html,72,92,gran maestro di Bonn,PER,Q373770,Johann Simon Mayr,0.43698917669660015
+document_000005.html,335,342,Nikisch,PER,NIL,,0.380491995402664
+document_000005.html,435,438,Gui,PER,NIL,,0.05769137095918268
+document_000006.html,224,230,Wendel,PER,NIL,,0.14217904087057143
+document_000007.html,36,51,Quinta sinfonia,MISC,NIL,,0.13895713364680393
+document_000007.html,89,96,Nikisch,PER,NIL,,0.145986725684239
+document_000008.html,116,135,Sinfonia incompiuta,MISC,NIL,,0.2947734610086842
+document_000008.html,356,363,Cellini,MISC,NIL,,0.38978222418563097
+document_000009.html,4,12,Seriabin,PER,NIL,,0.11466357269405779
+document_000009.html,40,56,diterza Sinfonia,MISC,NIL,,0.017520151727804273
+document_000009.html,109,122,delVPAugusteo,LOC,NIL,,0.01572871193748442
+document_000010.html,84,96,all’Augusteo,LOC,NIL,,0.0159437121661999
+document_000010.html,148,155,Haendel,PER,NIL,,0.38539863719670997
+document_000011.html,19,26,Nikisch,PER,NIL,,0.11929339623843084
+document_000011.html,397,411,terza Sinfonia,MISC,Q157489,Sinfonia n. 3 (Beethoven),0.43161935611672386
+document_000011.html,415,423,Scriabin,PER,NIL,,0.10284911338638777
+document_000012.html,203,217,Alberto Coates,PER,NIL,,0.2098140116662054
+document_000013.html,37,45,Juventus,MISC,NIL,,0.005605811783619449
+document_000013.html,52,60,DiSabata,PER,NIL,,0.08478772938893855
+document_000013.html,238,252,Prima sinfonia,MISC,NIL,,0.06326339856289508
+document_000013.html,256,265,Becthoven,PER,NIL,,0.20078359214610242
+document_000013.html,662,674,all’Augusteo,LOC,NIL,,0.03766814193064149
+document_000013.html,695,717,La Sinfonia delle Alpi,MISC,NIL,,0.046896305173871194
+document_000013.html,721,731,R. Strauss,PER,NIL,,0.1041633323677188
+document_000013.html,755,763,Molinari,PER,Q3725923,Enrico Molinari,0.4528743633062693
+document_000014.html,83,92,Tarantini,PER,Q455135,Alberto Tarantini,0.6511451455515089
+document_000014.html,127,131,Fano,PER,Q13142,Fano,0.7103231832994629
+document_000014.html,133,146,dell’Agostini,PER,Q3609956,Alessandro D'Agostini,0.6665406905029021
+document_000014.html,167,174,Zanella,PER,NIL,,0.31749036291598826
+document_000015.html,71,114,Chiesa monumentale di S. Salvatore al Monte,LOC,NIL,,0.35391825315976544
+document_000016.html,72,116,Le sette parole » per coro e grand’orchestra,MISC,NIL,,0.001609687283767854
+document_000017.html,136,176,La Musica dell’Antichité e del Medio Evo,MISC,Q16558415,Galilei e la musica,0.506686940872004
+document_000018.html,212,225,Nelia Rivalta,PER,Q4358583,Ángela Peralta,0.5434907491934923
+document_000018.html,273,277,Peri,PER,Q3746661,Flora Perini,0.4996011069634329
+document_000018.html,298,305,Cavalli,PER,NIL,,0.2953177247139861
+document_000018.html,314,323,Scarlatti,PER,Q167837,Domenico Scarlatti,0.6744329932565005
+document_000019.html,173,190,Gaetano Bavagnoli,PER,NIL,,0.016890251904236275
+document_000019.html,264,268,Azda,MISC,NIL,,0.3187796101132082
+document_000019.html,396,405,Argentini,PER,Q414,Argentina,0.8198083286327452
+document_000019.html,412,419,Consoli,PER,NIL,,0.35955465756392796
+document_000019.html,457,472,Avena di Verona,LOC,NIL,,0.030783494735868517
+document_000019.html,535,549,Edoardo Vitale,PER,NIL,,0.005344571763873294
+document_000019.html,559,575,Sansone e Dalila,MISC,NIL,,0.3691585521764149
+document_000019.html,685,698,Piccolo Marat,MISC,NIL,,0.29151495988295145
+document_000020.html,354,362,Turandot,MISC,Q207990,Turandot,0.9285935453495734
+document_000022.html,33,38,Gozzi,PER,NIL,,0.3998262003072511
+document_000022.html,42,50,Turandot,MISC,Q207990,Turandot,0.98352323046568
+document_000023.html,40,53,Arrigo Serato,PER,NIL,,0.23783244287387786
+document_000023.html,141,147,Brahms,PER,NIL,,0.258654391948253
+document_000023.html,199,207,Pizzetti,PER,NIL,,0.08426585091569329
+document_000024.html,107,114,Zabarro,MISC,NIL,,0.01647352615061989
+document_000024.html,217,223,Marini,PER,Q633103,Lou Marini,0.5322625787091557
+document_000025.html,87,93,Galefh,PER,Q3128897,Johnny Alf,0.4431744762469653
+document_000025.html,95,106,il /alsfaff,MISC,NIL,,0.1172250450230203
+document_000025.html,256,275,Larbiere di Sivigla,MISC,NIL,,0.30117211065517
+document_000025.html,355,362,Hackett,PER,Q315811,Steve Hackett,0.8672822845584435
+document_000025.html,399,409,De Angelis,PER,NIL,,0.37716408286174496
+document_000025.html,424,441,i Maestri Cantort,MISC,NIL,,0.08668947447036872
+document_000025.html,445,451,Wagner,PER,Q255,Ludwig van Beethoven,0.47182121152141876
+document_000026.html,35,51,Maestrit Canfori,MISC,NIL,,0.24176994993554488
+document_000026.html,160,171,Il Parsifal,MISC,NIL,,0.3611607431888573
+document_000026.html,213,222,Wildbrunn,PER,NIL,,0.23617804264426503
+document_000026.html,227,233,Galefi,PER,NIL,,0.33383654881545516
+document_000026.html,239,249,De Angelis,PER,NIL,,0.39784920539601054
+document_000027.html,57,64,Ranzato,PER,NIL,,0.00485207775940385
+document_000027.html,344,348,Rota,PER,Q214665,Nino Rota,0.4591862152985366
+document_000027.html,350,360,Rovescalli,PER,NIL,,0.20021876599656285
+document_000027.html,362,371,Marchioro,PER,Q3737768,Fabio Marchioro,0.5996830611920906
+document_000027.html,373,380,Santoni,PER,Q640174,Elisa Santoni,0.44299518020289724
+document_000028.html,199,216,Mafalda de Voltri,PER,Q235832,Mafalda di Savoia,0.7266574069072507
+document_000028.html,218,227,Eva Didur,PER,NIL,,0.0722927456515206
+document_000028.html,245,258,Anna Gramegna,PER,NIL,,0.15401609487875492
+document_000028.html,315,326,Giulia Tess,PER,NIL,,0.04827332893310628
+document_000028.html,341,356,Elena Wildbrunn,PER,NIL,,0.0068513373246123525
+document_000029.html,137,151,Sergio Failoni,PER,NIL,,0.02500458832051533
+document_000030.html,0,20,Gerolamo Frescobaldi,PER,NIL,,0.06955896965398375
+document_000032.html,3,25,Sectela del Quarteltlo,ORG,NIL,,0.011376433299910768
+document_000032.html,136,145,Viterbini,PER,Q47491382,Adriano Viterbini,0.9582090464696816
+document_000032.html,160,167,Scarano,PER,Q3886148,Oronzo Mario Scarano,0.8281883929321006
+document_000032.html,251,264,Gaspar Cayado,PER,Q347871,Sigismund Thalberg,0.5565071700979195
+document_000032.html,376,393,Sonata a Kreutzer,MISC,NIL,,0.14667604257706957
+document_000032.html,411,420,E Consolo,PER,NIL,,0.21352651169960446
+document_000032.html,488,510,Sifrid Hoffmann Onegin,PER,NIL,,0.00775794293990984
+document_000032.html,546,553,Consolo,PER,NIL,,0.3456670708205529
+document_000033.html,165,172,Riboldi,PER,Q21192910,Laura Rappoldi,0.5106048553053962
+document_000033.html,215,224,Minghetti,PER,Q597155,Marco Minghetti,0.7061731196155943
+document_000034.html,161,174,Michelangiolo,PER,NIL,,0.11716194233117731
+document_000035.html,44,52,Cagliero,PER,NIL,,0.1595673887303334
+document_000035.html,92,99,Ranuzzi,PER,Q1989583,Carlo Milanuzzi,0.7286331697722113
+document_000035.html,245,252,Sistina,ORG,Q2943,Cappella Sistina,0.8431377503099136
+document_000035.html,259,264,Boezi,PER,NIL,,0.18795183976674307
+document_000035.html,369,379,Papa Sarto,PER,Q132708,Papa Innocenzo XII,0.42040156870089784
+document_000036.html,193,212,Biblioteca Vaticana,LOC,Q2901256,Biblioteca capitolare di Verona,0.43908580287681737
+document_000037.html,48,67,Biblioteca Vaticana,LOC,NIL,,0.32662401120889617
+document_000037.html,138,159,Biblioteca Corsiniana,LOC,NIL,,0.1837852129345219
+document_000038.html,96,100,Roma,LOC,Q220,Roma,0.9954810433812944
+document_000038.html,158,164,Wagner,PER,Q255,Ludwig van Beethoven,0.5637622980595
+document_000038.html,210,218,Augusteo,LOC,NIL,,0.022060625510637196
+document_000038.html,229,237,Costanzi,LOC,NIL,,0.39507457348958036
+document_000039.html,159,176,Aristide Sartorio,PER,Q56253557,Aristide Sartor,0.9127379762887866
+document_000041.html,134,151,Giulielta e Romeo,MISC,Q918714,Romeo e Giulietta (Gounod),0.4506449442516224
+document_000041.html,415,433,Teatro dei Piccoli,LOC,Q3982093,Teatro Piccolo (Roma),0.8484360784330661
+document_000042.html,33,41,Molinari,PER,Q3725923,Enrico Molinari,0.684296733452683
+document_000043.html,74,93,concerto gregoriano,MISC,NIL,,0.3771090593287742
+document_000044.html,430,440,l’Augusteo,LOC,NIL,,0.18270526112998395
+document_000045.html,34,42,Molinari,PER,Q3725923,Enrico Molinari,0.4142127459359991
+document_000046.html,120,139,Marsilio Ceccarelli,PER,NIL,,0.012456164785009008
+document_000048.html,6,23,Sonata in sol min,MISC,NIL,,0.015452370398154084
+document_000048.html,28,35,Tartint,PER,NIL,,0.2687450559063455
+document_000048.html,44,60,Sonata in Za mix,MISC,NIL,,0.02455267955245678
+document_000049.html,105,110,Ricci,PER,Q6700123,Luigi Ricci (direttore d'orchestra),0.42169710665415483
+document_000049.html,121,128,Sartori,PER,Q30128606,Luigi Sartori,0.6074280827535464
+document_000050.html,106,132,Societa Amici della Musica,ORG,Q3963794,Società del quartetto di Milano,0.48981415631819797
+document_000050.html,144,158,Eugenio Albini,PER,NIL,,0.009442208452512275
+document_000051.html,0,29,Nell’oratorio di San Marcello,LOC,NIL,,0.26416185821897264
+document_000051.html,92,99,Zuccari,PER,Q301304,Carlo Zuccari,0.8792409130605201
+document_000051.html,121,135,Cardenio Botti,PER,NIL,,0.09393424815917505
+document_000051.html,153,163,l’Alaleona,MISC,Q1880621,L'Arianna,0.40233204953841706
+document_000051.html,247,265,Casa degli Artisti,LOC,Q858831,Casa Verdi,0.7141316689570704
+document_000052.html,2,7,Botti,PER,NIL,,0.26510718648008597
+document_000052.html,576,581,Botti,PER,Q3935916,Rinaldo Botti,0.5772497732687758
+document_000052.html,35,48,Eugenio Bozza,PER,NIL,,0.013421378350321351
+document_000052.html,141,155,Libuje Bohmova,PER,Q1749547,Sonia Prina,0.4246932250909724
+document_000052.html,467,484,Vergine Benedetta,PER,NIL,,0.005585476354716449
+document_000052.html,669,675,Rosadi,PER,Q21001361,Rosa Morandi,0.7486087466201916
+document_000052.html,854,865,La felicita,MISC,Q176700,La Cenerentola,0.5280728076111102
+document_000053.html,57,62,Bozza,PER,NIL,,0.07105152789345154
+document_000053.html,325,330,Bozza,PER,NIL,,0.013737680119509692
+document_000053.html,243,248,Vayra,PER,Q242395,Thyra,0.4458108892528272
+document_000053.html,404,418,Cardenio Botti,PER,NIL,,0.16971611442513512
+document_000054.html,12,28,Maria Capoccetti,PER,Q23830028,Maria Bertoletti,0.8044132764996125
+document_000054.html,210,215,Baton,PER,NIL,,0.02811012785059425
+document_000055.html,85,94,L. Refice,PER,NIL,,0.15467091904746189
+document_000056.html,112,145,Banda Musicale del Comune di Roma,ORG,NIL,,0.005038903975709916
+document_000056.html,187,203,Luzgi Mancinelli,PER,NIL,,0.3021465634044661
+document_000056.html,74,82,Vessella,PER,Q86880,Ressel Orla,0.6204739466123507
+document_000057.html,111,120,Cleopatra,MISC,Q635,Cleopatra,0.971722348120689
+document_000059.html,228,247,Don Filippo Caetani,PER,Q3766117,Giovan Filippo Certani,0.6986552044964283
+document_000059.html,261,266,Peano,LOC,Q1382,Pirano,0.4814235586240342
+document_000059.html,284,295,Donna Elena,PER,Q3050684,Elena Virginia Balletti,0.5201788055074249
+document_000059.html,309,315,Albani,ORG,NIL,,0.21735035920074458
+document_000060.html,59,64,Pangi,LOC,NIL,,0.012723119938707235
+document_000060.html,218,234,Maria Antonietta,PER,Q327869,Maria Antonietta Murat,0.8319955409036383
+document_000061.html,37,44,Borroni,PER,NIL,,0.26560324770493504
+document_000062.html,459,470,Gazza Ladra,MISC,NIL,,0.2471567674285544
+document_000064.html,182,192,Pitagorici,MISC,Q10261,Pitagora,0.6779428289663049
+document_000066.html,174,182,Lamberti,PER,Q3618878,Anton Maria Lamberti,0.6875259625603719
+document_000066.html,503,509,Gianni,PER,Q3763565,Gianni Mazza,0.5656545847871995
+document_000067.html,72,77,Rocca,PER,NIL,,0.27950262299028455
+document_000067.html,252,260,Augusteo,LOC,Q1892195,Arco d'Augusto (Fano),0.7946406421202591
+document_000068.html,176,197,R. Conserv.di Palermo,ORG,NIL,,0.0413251034336507
+document_000069.html,154,167,Emina Carelli,PER,Q289895,Erna Berger,0.7502818791477864
+document_000069.html,208,215,Vestale,MISC,NIL,,0.06533434538240049
+document_000069.html,219,229,Mercadante,PER,NIL,,0.31104797774176396
+document_000069.html,233,251,Teatro di Altamutr,LOC,Q2096472,Teatro Regio (Parma),0.5012822989356084
+document_000070.html,186,194,Floridia,PER,Q490900,Floridia,0.9280095872004888
+document_000070.html,255,263,Giordano,PER,Q36330,Giordano Bruno,0.44235360290225356
+document_000070.html,278,286,Ellettra,MISC,NIL,,0.26904435298818935
+document_000070.html,290,300,R. Strauss,PER,NIL,,0.147125414789099
+document_000071.html,46,56,Margherita,PER,Q3846956,Margherita Pusterla,0.687662601779378
+document_000071.html,86,98,nell’Ovtedlo,MISC,NIL,,0.028436661404533645
+document_000071.html,147,153,Gloria,MISC,NIL,,0.28281358344127144
+document_000071.html,161,166,Wally,MISC,NIL,,0.0033039693493768073
+document_000071.html,317,321,Jris,MISC,NIL,,0.1176461903638365
+document_000073.html,14,21,Rizzoli,PER,Q1327389,RCS MediaGroup,0.9180506414124352
+document_000073.html,144,155,Guglielmina,PER,Q1776320,Guglielmo Embriaco,0.8109413496375836
+document_000074.html,74,91,Ingenua di Parigi,MISC,Q117482,Ingenua,0.4403275513736213
+document_000074.html,154,160,Teresa,MISC,Q2793617,Teresa,0.8310529633078987
+document_000074.html,164,169,Dumas,PER,Q2738233,Doramas,0.820888933256379
+document_000074.html,186,206,Biricchino di Parigi,MISC,Q3856740,Michele Parigi,0.44257521976723485
+document_000075.html,6,25,compagnia Barracani,ORG,Q3684973,Compagnia barracellare,0.7637506775451192
+document_000075.html,29,36,Rizzoli,PER,Q56777493,Rizzoli,0.5175068203109287
+document_000075.html,165,172,Cazzola,PER,NIL,,0.0731014927158378
+document_000075.html,179,204,Compaonia dello Stacchini,ORG,NIL,,0.06029183137651667
+document_000076.html,90,97,Cazzola,PER,Q27571831,Gianni Cazzola,0.5126602384524396
+document_000077.html,13,38,Compagnia dello Stacchini,ORG,Q3685032,Compagnie della Calza,0.8344004413377847
+document_000077.html,87,93,Romani,PER,Q16598333,Romolo Romani,0.42442463750588316
+document_000077.html,167,174,RizZoli,PER,Q1327389,RCS MediaGroup,0.8957946504923477
+document_000078.html,8,25,Angelo Bartelloni,PER,NIL,,0.03320846531872616
+document_000079.html,61,66,Patti,PER,NIL,,0.21608228309191907
+document_000079.html,108,118,Frezzolini,PER,Q1381618,Giuseppe Frezzolini,0.9748608499434345
+document_000080.html,0,6,Ernuni,MISC,NIL,,0.15344147643230976
+document_000081.html,46,56,Mercadante,PER,NIL,,0.35224354901313154
+document_000081.html,123,130,Bellini,PER,Q170209,Vincenzo Bellini,0.6644133945039638
+document_000083.html,61,72,Don Bartolo,PER,Q3731078,Erasmo di Bartolo,0.5026974590831634
+document_000083.html,260,266,Fagott,PER,Q159998,Fagotto,0.43759128100650835
+document_000083.html,287,294,Favoria,MISC,NIL,,0.024574198800366702
+document_000084.html,211,225,PozziBranzanti,PER,NIL,,0.09298679073924065
+document_000084.html,237,244,Minetti,PER,Q67950,Bernhard Minetti,0.5226658825496016
+document_000084.html,248,257,Dal Negro,PER,Q2215682,Salvatore Dal Negro,0.47842518281072954
+document_000085.html,3,8,Pozzi,PER,NIL,,0.1628821061609365
+document_000085.html,136,141,Pozzi,PER,NIL,,0.13014192280920137
+document_000085.html,49,72,ll Barbiere di Siviglia,MISC,NIL,,0.30164059451842734
+document_000085.html,165,172,Minetti,PER,Q67950,Bernhard Minetti,0.629403294593281
+document_000085.html,223,230,Steller,PER,Q57222,Georg Wilhelm Steller,0.8527853621680839
+document_000086.html,22,30,Squarcia,PER,NIL,,0.16843196609850355
+document_000086.html,177,185,Squarcia,PER,NIL,,0.17003913344709976
+document_000086.html,117,139,il Barbiere di Sivigha,MISC,NIL,,0.27357541432370397
+document_000087.html,61,72,Don Bartolo,PER,Q3731078,Erasmo di Bartolo,0.5364436244475393
+document_000087.html,287,294,Favoria,MISC,NIL,,0.05812956886979917
+document_000087.html,315,320,Marta,MISC,NIL,,0.07598138929222499
+document_000087.html,379,387,Fioretti,PER,NIL,,0.05155375890129404
+document_000088.html,213,227,PozziBranzanti,PER,NIL,,0.10394164482482425
+document_000088.html,239,246,Minetti,PER,Q67950,Bernhard Minetti,0.4052733283787333
+document_000088.html,254,259,Negro,PER,Q3884905,Orazio Di Negro,0.4830151869718463
+document_000089.html,114,120,Amelia,PER,Q3613952,Amelia Pinto,0.4972243885582136
+document_000089.html,235,243,Anastasi,PER,Q62252,Pietro Anastasi,0.5615537779103481
+document_000089.html,284,292,Favorita,MISC,NIL,,0.3519632924742081
+document_000090.html,0,4,Grau,PER,NIL,,0.010609267806558128
+document_000090.html,172,191,Diario della Marina,ORG,NIL,,0.14048178420766655
+document_000090.html,293,302,Gazzaniga,PER,Q101130,Gazzaniga,0.9538755382377906
+document_000091.html,70,86,Aristide Gandrey,PER,NIL,,0.003928457990579442
+document_000091.html,124,140,Figaro di Parigi,ORG,NIL,,0.39160546540586944
+document_000091.html,292,301,Zanardini,PER,NIL,,0.3092292426283791
+document_000093.html,3,18,teatro Brunetti,LOC,Q3982376,Teatro stabile del Veneto Carlo Goldoni,0.8084640476094924
+document_000093.html,130,137,Emanuel,PER,Q213547,Emanuel Schikaneder,0.6838770656304608
+document_000093.html,189,195,Sardou,PER,Q358513,Michel Sardou,0.8659744484084891
+document_000093.html,335,349,Stella Bonheur,PER,Q241732,Rosa Bonheur,0.45612688501359094
+document_000094.html,285,294,Lohengrui,MISC,NIL,,0.052778532775649076
+document_000095.html,35,45,Mancinelli,PER,Q489501,Graziano Mancinelli,0.9391571119414633
+document_000096.html,0,8,Nouvelli,PER,NIL,,0.37540513164941447
+document_000096.html,194,202,Nouvelli,PER,Q60684,Novalis,0.6454763701854945
+document_000096.html,360,370,Telramondo,PER,NIL,,0.05553692466646531
+document_000097.html,300,310,John Urich,PER,Q345870,John Goss,0.9456892027323783
+document_000098.html,126,136,Mancinelli,PER,Q489501,Graziano Mancinelli,0.8971514884846629
+document_000099.html,80,98,Diario de Noticias,ORG,NIL,,0.06288978221370385
+document_000099.html,276,281,Dotti,PER,Q3635364,Bartolomeo Dotti,0.4512399202727262
+document_000100.html,65,82,Ballo in Maschera,MISC,NIL,,0.258051311133997
+document_000101.html,58,76,Clementina De Vere,PER,Q240963,Giuditta Pasta,0.4978659229713031
+document_000101.html,69,76,De Vere,PER,Q242001,Cléo de Mérode,0.6166346930288957
+document_000101.html,185,192,De Vere,PER,Q2850546,Anna De Amicis,0.4849728992901607
+document_000102.html,3,17,teatro Rossini,LOC,Q3982122,Teatro Rossini (Roma),0.6258804322546854
+document_000102.html,290,301,Catalanotti,PER,Q671043,Alessandro Poglietti,0.4449757847023563
+document_000102.html,331,341,Ponciielli,PER,NIL,,0.2963349348140891
+document_000104.html,17,24,Guarany,MISC,NIL,,0.10114563217199694
+document_000104.html,136,144,Ugonottt,MISC,NIL,,0.04538699533242384
+document_000104.html,147,155,Africana,MISC,NIL,,0.36836001287445463
+document_000104.html,157,162,Ebrea,MISC,NIL,,0.05364603998982686
+document_000105.html,11,36,Giuseppina Borsi De Giuli,PER,NIL,,0.011820319740876096
+document_000105.html,61,65,casa,MISC,Q3947,Casa,0.4369866312619384
+document_000105.html,125,139,Cola di Rienzi,MISC,Q433189,Cola di Rienzo,0.507556342559852
+document_000105.html,188,203,teatro Brunetti,LOC,Q3516755,Teatro Gaetano Donizetti,0.4249778096136973
+document_000105.html,315,322,Emanuel,PER,Q213547,Emanuel Schikaneder,0.9108218628749652
+document_000106.html,161,167,Borghi,PER,NIL,,0.3977254625712828
+document_000107.html,70,86,Giovanni Sirauss,PER,NIL,,0.00541875674553092
+document_000107.html,88,105,Una oie a Venezia,MISC,NIL,,0.39869360822216937
+document_000107.html,155,163,Traviata,MISC,NIL,,0.10763178285738366
+document_000107.html,210,215,Muzio,PER,NIL,,0.3448428733239185
+document_000108.html,66,75,Politeama,LOC,Q3907411,Politeama Giuseppe Verdi,0.7622529972762434
+document_000108.html,82,90,Traviata,MISC,NIL,,0.3838974459800204
+document_000108.html,126,134,Delibers,PER,NIL,,0.12498744279999033
+document_000108.html,255,262,Gerster,PER,NIL,,0.010141575821864974
+document_000109.html,2,16,teatro Rossini,LOC,Q3982376,Teatro stabile del Veneto Carlo Goldoni,0.7934469000106835
+document_000109.html,118,129,Marescalchi,PER,Q3068715,Ferdinando Marescalchi,0.8952996204882872
+document_000109.html,177,188,Marescalchi,PER,Q3068715,Ferdinando Marescalchi,0.658522848309646
+document_000110.html,2,18,teatro Bellecour,LOC,NIL,,0.11750742041840057
+document_000110.html,126,143,Lorenzo Abrugnedo,PER,NIL,,0.00541875674553092
+document_000110.html,170,175,Blasi,PER,NIL,,0.19988192130018384
+document_000110.html,181,191,San Pietro,LOC,NIL,,0.28833099342828833
+document_000110.html,195,202,Lavagna,LOC,Q235585,Lavagna,0.9290596090582139
+document_000111.html,305,318,Ettore Marchi,PER,Q3733963,Ettore Marchi,0.9813720140840143
+document_000112.html,196,201,Parma,LOC,Q3887924,PARMA,0.948594128378649
+document_000112.html,232,249,Marino Mancinelli,PER,NIL,,0.020019495597350907
+document_000113.html,83,120,Gian Giuseppe Cassanea di Mondonville,PER,NIL,,0.006007497129830546
+document_000113.html,257,270,Re Enrico III,PER,Q936976,Enrico IV di Francia,0.8284173572372845
+document_000114.html,87,97,Sonnambula,MISC,NIL,,0.013326054304109694
+document_000114.html,138,143,Giove,PER,Q319,Giove (astronomia),0.7034798328343782
+document_000114.html,221,236,Pietro Lombardi,PER,Q1337156,Pietro Lombardi,0.9448144836666137
+document_000115.html,158,168,Via Durini,LOC,Q4011959,Villa Durini,0.5049932326403564
+document_000116.html,46,54,Ruy Blas,MISC,NIL,,0.028153260209577712
+document_000116.html,65,76,Cappelletti,PER,Q3948201,Sandro Cappelletto,0.9796619698402398
+document_000116.html,135,140,Lucia,MISC,NIL,,0.07792552172429905
+document_000117.html,58,66,Sonzogno,PER,Q3964929,Sonzogno (editore musicale),0.41298604670539857
+document_000117.html,140,154,Cecilia Ritter,PER,NIL,,0.23024326102076553
+document_000117.html,187,193,Ofello,MISC,NIL,,0.3569920555939255
+document_000117.html,318,327,Trovatore,MISC,NIL,,0.3278470549875565
+document_000118.html,63,74,Mefistofele,PER,Q935669,Mefistofele (opera),0.4412306508848565
+document_000118.html,144,155,Cappelletti,PER,Q3948201,Sandro Cappelletto,0.9534475302371187
+document_000119.html,23,34,Benfratelli,PER,Q1616917,Brigida Banti,0.897738687948964
+document_000119.html,74,79,Parma,LOC,Q3887924,PARMA,0.9983868903942666
+document_000119.html,233,241,Barbieri,PER,Q3614385,Amleto Barbieri,0.9137665999097218
+document_000119.html,270,285,Regina di Cipro,MISC,NIL,,0.08804214528594032
+document_000120.html,192,200,Ugonotti,MISC,NIL,,0.23012635495825257
+document_000120.html,209,217,Costanzi,LOC,Q1525849,Giovanni Battista Costanzi,0.5424045449251155
+document_000122.html,37,43,Donati,PER,Q3905266,Pino Donati,0.4318550931828641
+document_000122.html,46,57,Caltagirone,PER,Q66816388,Carlo Caltagirone,0.6106230786925375
+document_000122.html,176,184,Crosmond,PER,Q223310,Torrismondo,0.7497950056141676
+document_000122.html,187,194,Terrigi,PER,Q3849317,Marisa Interligi,0.6374679104493837
+document_000123.html,3,8,Parma,LOC,Q3887924,PARMA,0.9850974725556432
+document_000123.html,302,307,Parma,LOC,Q3887924,PARMA,0.9810861327322465
+document_000123.html,51,59,d’Auteri,PER,NIL,,0.11480555892112775
+document_000123.html,62,77,Regina dt Cipro,MISC,NIL,,0.14922298473060297
+document_000123.html,81,87,Halery,PER,NIL,,0.1783971721641073
+document_000123.html,271,279,Barbieri,PER,Q3614385,Amleto Barbieri,0.7563900724989809
+document_000124.html,79,88,Sparapani,PER,NIL,,0.0897452345517927
+document_000124.html,106,110,Arpa,ORG,Q47369,Arpa,0.5780985925610813
+document_000124.html,178,186,Costanzi,LOC,NIL,,0.329041026999249
+document_000124.html,207,214,Amneris,PER,NIL,,0.17913048311431462
+document_000124.html,288,295,Pozzoni,PER,NIL,,0.3258699932214902
+document_000125.html,19,26,Bonheur,PER,Q241732,Rosa Bonheur,0.9248230390529713
+document_000125.html,238,245,Bonheur,PER,Q241732,Rosa Bonheur,0.89966255110627
+document_000126.html,2,10,Bukarest,LOC,NIL,,0.20226485132880662
+document_000126.html,14,19,Gabbi,PER,Q363254,Tito Gobbi,0.8185389902037882
+document_000126.html,24,32,Preziosi,PER,Q231156,Mina (cantante),0.7514917112047471
+document_000126.html,34,43,Petrovich,PER,Q453252,Ljiljana Petrović,0.4025688102727584
+document_000126.html,159,164,Ferni,PER,NIL,,0.2908143072716839
+document_000126.html,176,181,Engel,PER,NIL,,0.12764642718643557
+document_000127.html,51,61,Margherita,PER,Q6760166,Margherita Salicola,0.767604623738582
+document_000127.html,73,86,Elena Boronat,PER,Q7086879,Olimpia Boronat,0.7107403455436876
+document_000127.html,131,146,Pietro Lombardi,PER,Q1337156,Pietro Lombardi,0.9755083085800726
+document_000127.html,186,196,Barcellona,LOC,NIL,,0.011532480581707246
+document_000128.html,2,19,Valenza di Spagna,LOC,Q3682983,Collegio di Spagna,0.9226828241608243
+document_000128.html,38,46,Belletti,PER,Q3742104,Felice Bellotti,0.47111983729900153
+document_000128.html,111,116,Ebreo,MISC,NIL,,0.09450205834782556
+document_000128.html,181,192,Mefistofele,PER,Q5879,Johann Wolfgang von Goethe,0.40113800495246166
+document_000128.html,197,202,Faust,MISC,Q29478,Faust (Goethe),0.8648893370562444
+document_000129.html,1,18,Valenza di Spagna,LOC,NIL,,0.3865565315207948
+document_000129.html,34,40,Russel,PER,NIL,,0.1001581028000023
+document_000129.html,74,79,Lucic,MISC,NIL,,0.009196240340267302
+document_000129.html,122,128,Amleto,MISC,Q41567,Amleto,0.816318476238886
+document_000129.html,143,147,Rapp,PER,Q1351171,Jean Rapp,0.4364709818583784
+document_000129.html,158,165,Carrion,PER,Q3714589,Doug Carrion,0.8247837748888042
+document_000129.html,171,179,Cagliari,LOC,NIL,,0.0019489157038516407
+document_000129.html,183,197,Dolores Buireo,PER,Q3034280,Dolores Duran,0.61905201313342
+document_000130.html,24,37,Medea Borelli,PER,NIL,,0.006151989710318442
+document_000130.html,307,323,Antonio Rossetti,PER,Q19884141,Antonio Rossetti,0.938072300276307
+document_000131.html,153,167,Antonino Cuzzo,PER,Q50975773,Antonino Castiglione,0.8397740508425721
+document_000132.html,109,123,Irene Morpurgo,PER,Q537114,Irene Fargo,0.43588213275920723
+document_000132.html,168,185,R. Teatro Salvini,LOC,Q3982191,Teatro Verdi (Firenze),0.9201247764872558
+document_000133.html,4,23,Gazzetta di Messina,ORG,Q3099813,Gazzetta di Mantova,0.8211566698125161
+document_000133.html,41,53,Re di Lahore,MISC,NIL,,0.02747922109821985
+document_000134.html,193,200,De Vere,PER,Q1180430,De Vere,0.763625618059509
+document_000134.html,206,223,Hyacinthe Bedetti,PER,Q94752484,Claudina Cucchi,0.4914594116698174
+document_000134.html,226,235,Forestier,PER,NIL,,0.14682568411633368
+document_000135.html,6,13,De Vere,PER,Q1180430,De Vere,0.8146335546297896
+document_000135.html,34,52,Pardon de Ploermel,MISC,NIL,,0.11932175945874905
+document_000135.html,90,98,Mireille,MISC,NIL,,0.34187446173640323
+document_000136.html,193,200,De Vere,PER,Q1180430,De Vere,0.765864411275402
+document_000136.html,226,235,Forestier,PER,NIL,,0.1651441212892246
+document_000137.html,70,77,De Vere,PER,Q1052300,Cecil De Vere,0.5740960299893821
+document_000137.html,114,119,Lucia,MISC,NIL,,0.05626112727652404
+document_000137.html,146,151,Lucia,MISC,NIL,,0.20580783672144445
+document_000138.html,30,45,Lucrezia Borgia,MISC,Q191103,Lucrezia Borgia,0.9301147746478007
+document_000138.html,144,156,Duca Alfonso,PER,Q166886,Duca,0.6608865821500101
+document_000139.html,15,22,Guarany,MISC,NIL,,0.30888588142540974
+document_000139.html,138,144,Rocchi,PER,Q3958219,Sesto Rocchi,0.6517183719005633
+document_000139.html,160,167,Fontana,PER,Q3761905,Giacinto Fontana,0.44387358460731624
+document_000140.html,245,256,Fra Diavolo,PER,Q920642,Fra Diavolo,0.9924846880188581
+document_000141.html,16,23,Gayarre,PER,NIL,,0.11633627113310892
+document_000141.html,119,147,teatro Principale di Valenza,LOC,NIL,,0.36091938691563685
+document_000141.html,169,177,Ugonotti,MISC,NIL,,0.03350684800333018
+document_000143.html,80,96,Pietro Corneille,PER,NIL,,0.31960368081109136
+document_000143.html,129,159,Ouvertuve des Ruines è Atkenes,MISC,NIL,,0.006357316714039311
+document_000143.html,204,228,La madre di lord Parnell,PER,NIL,,0.13236720307381145
+document_000144.html,115,132,Manzoni di Milano,LOC,NIL,,0.32619934166728665
+document_000144.html,201,208,Cortini,PER,Q3925313,Publio Cortini,0.5161220763615834
+document_000144.html,223,228,Rouia,LOC,NIL,,0.36028083608552897
+document_000145.html,24,30,Apollo,LOC,Q37340,Apollo,0.9672610971654304
+document_000145.html,71,98,teatro municipale di Modena,LOC,Q28001162,Teatro Municipale (Piacenza),0.7476923143600023
+document_000145.html,174,179,Mirza,PER,Q166416,Mirza,0.40660376195874853
+document_000145.html,192,198,Creola,MISC,NIL,,0.13518093465138353
+document_000145.html,205,213,Coronaro,PER,Q3940880,Romolo Corona,0.8332799798584721
+document_000146.html,91,99,Coronaro,PER,NIL,,0.27046211897186334
+document_000146.html,143,150,Ortruda,PER,Q2899786,Bertrude,0.8779452344829852
+document_000146.html,155,164,Lohengrin,MISC,Q3459538,Lohengrin,0.5707701930640641
+document_000147.html,65,71,Creola,MISC,Q3696986,Creola (brano musicale),0.8206463261807487
+document_000147.html,152,158,Lovati,PER,Q1091362,Lovato Lovati,0.5336883685615077
+document_000148.html,3,9,Branca,PER,Q778104,Marco Branca,0.748523952337497
+document_000148.html,65,82,teatro di Catania,LOC,Q3982171,Teatro Stabile di Catania,0.6970146300186552
+document_000148.html,138,162,Liceo musicale bolognese,ORG,Q15144810,Scuola bolognese (musica),0.8697437489254579
+document_000149.html,70,90,Stabilimento Ricordi,MISC,Q3709316,Dischi Ricordi,0.6292955529691421
+document_000150.html,4,19,Musica Popolare,ORG,Q235858,Musica tradizionale,0.4319826273127081
+document_000150.html,291,297,Lakiné,MISC,NIL,,0.38504789539811657
+document_000151.html,60,64,Vico,PER,Q178709,Giambattista Vico,0.4253904205005001
+document_000151.html,77,83,Borghi,PER,Q664913,Giovanni Battista Borghi,0.6750078200343328
+document_000151.html,121,128,Poliwto,MISC,NIL,,0.008896665518825687
+document_000151.html,294,301,Vergnet,PER,NIL,,0.29211550665699315
+document_000152.html,10,31,Societa del Quartetto,ORG,Q3963794,Società del quartetto di Milano,0.6183041367997754
+document_000152.html,190,201,Crescentini,PER,NIL,,0.14482022178390003
+document_000153.html,113,120,Paolina,PER,Q152785,Paolina Bonaparte,0.4897265953869058
+document_000153.html,125,131,Borghi,PER,Q19974401,Ayres Borghi-Zerni,0.4952787331374296
+document_000154.html,49,56,Foscari,MISC,Q750151,Foscari,0.43766870215911113
+document_000154.html,243,250,Foscari,MISC,Q17375387,Girolamo Foscari,0.4387512869585886
+document_000154.html,79,89,Scaramella,PER,Q33083450,Ugo Scaramella,0.6725281529118445
+document_000154.html,231,240,Francoxeo,PER,NIL,,0.10407375184845985
+document_000155.html,0,8,Martucci,PER,Q3665470,Cesare Martuzzi,0.5063503150193903
+document_000155.html,251,260,Ouverture,MISC,Q202287,Ouverture,0.9080706694201849
+document_000156.html,29,36,Gayarre,PER,NIL,,0.008160177788192646
+document_000156.html,47,55,Peritant,MISC,NIL,,0.0134295248028077
+document_000157.html,91,97,Wagner,PER,Q255,Ludwig van Beethoven,0.44917846449241833
+document_000157.html,195,203,Cattaneo,PER,Q1042024,Carlo Cattaneo,0.5146333802864383
+document_000158.html,35,41,Tofano,PER,NIL,,0.288396455111295
+document_000158.html,80,98,Giovanni Minuzzi.e,PER,Q4295291,Giovanni Minuzzo,0.6903651837829291
+document_000158.html,159,167,Nouvelli,PER,Q60684,Novalis,0.5060889700903721
+document_000159.html,0,9,Lhoengrin,MISC,NIL,,0.013660181896288917
+document_000159.html,137,155,Tristano ed Isotta,MISC,Q335367,Tristano e Isotta,0.638350297424627
+document_000159.html,265,273,~ermania,LOC,Q3815833,Klemania,0.40318345931611216
+document_000160.html,23,31,Volfrano,PER,NIL,,0.2755746388798333
+document_000160.html,36,46,Tannhduser,MISC,NIL,,0.013680177010409356
+document_000160.html,50,56,Wagner,PER,Q255,Ludwig van Beethoven,0.6619784648998094
+document_000161.html,10,23,Carlo Meluzzi,PER,Q1989583,Carlo Milanuzzi,0.5221579754287028
+document_000162.html,167,175,Biancani,PER,Q60841530,Bianca Giovannini,0.7748512061298797
+document_000163.html,93,100,Gayarre,PER,NIL,,0.17715811073064391
+document_000163.html,163,169,Borghi,PER,Q1099167,Adelaide Borghi-Mamo,0.7951608887726156
+document_000164.html,3,16,Popolo Romano,ORG,NIL,,0.23936022145562516
+document_000164.html,140,155,Lucrezia Borgia,MISC,Q191103,Lucrezia Borgia,0.9868977025444838
+document_000165.html,44,53,Argentina,LOC,Q414,Argentina,0.9350216123812317
+document_000165.html,77,84,Gayarre,PER,NIL,,0.25329198796338687
+document_000165.html,87,97,Pandolfini,PER,Q3616824,Angelica Pandolfini,0.8783119943537377
+document_000166.html,313,319,Borgia,PER,Q237599,Borgia,0.9558756984150502
+document_000168.html,144,159,S. M. la Regina,PER,NIL,,0.025040846730363726
+document_000168.html,291,314,marchesa di Villamarina,PER,NIL,,0.12642747861816303
+document_000169.html,3,25,Ga:- ' zetta Nazionale,ORG,NIL,,0.03576546099079743
+document_000169.html,62,67,Carpi,PER,Q3072743,Fiorenzo Carpi,0.5328894810268094
+document_000169.html,303,308,Rieva,PER,Q241835,Milva,0.4941330934440627
+document_000170.html,3,21,giornale il Limone,ORG,Q1051115,Il Giornale,0.6858650714953753
+document_000170.html,50,58,Africana,MISC,Q15,Africa,0.887091480642899
+document_000170.html,137,146,Garagnani,PER,Q316253,Andrea Bargnani,0.5008601262532514
+document_000171.html,24,32,Angeloni,PER,Q3658991,Carlo Angeloni,0.5267003517702173
+document_000171.html,178,183,Laura,PER,Q3827713,Laura (cantante),0.8949815960785971
+document_000171.html,313,322,Steinbach,PER,Q459533,Settela Steinbach,0.8561701069032046
+document_000172.html,177,183,Sivori,PER,Q1029423,Camillo Sivori,0.4678461441992596
+document_000172.html,243,247,Enzo,PER,Q780885,Enzo Bettiza,0.469499997668862
+document_000172.html,330,337,Rossato,PER,Q3737822,Fabio Rossato,0.7273303360604477
+document_000174.html,36,46,Sonnambula,MISC,NIL,,0.10601371236186102
+document_000175.html,0,17,Odoardo Sottolana,PER,NIL,,0.0781160910412671
+document_000175.html,121,138,Odoardo Sottolana,PER,NIL,,0.06250862734111125
+document_000175.html,310,324,G. B. De Negri,PER,NIL,,0.1458132315475026
+document_000176.html,77,82,Ebrea,MISC,Q9268,Ebraismo,0.47826390654026385
+document_000176.html,85,92,Profeta,MISC,Q42857,Profeta,0.5463188960302549
+document_000176.html,215,223,De Negri,PER,Q130922,Cesare Negri,0.4236834693718473
+document_000178.html,0,18,Arturo Marescaichi,PER,NIL,,0.0005496086320612179
+document_000178.html,89,109,Arturo . Marescalchi,PER,Q3624562,Arturo Marescalchi,0.9212259805631648
+document_000179.html,1,16,Pietro Lombardi,PER,Q1337156,Pietro Lombardi,0.92615328995701
+document_000179.html,255,270,Pietro Lombardi,PER,Q1337156,Pietro Lombardi,0.992633701761571
+document_000179.html,104,123,Comunale di Bologna,LOC,NIL,,0.3509184460667132
+document_000180.html,82,90,acEmpyre,LOC,Q680351,Parempuyre,0.5320907725793209
+document_000184.html,23,32,Mendioroz,PER,NIL,,0.132869523638032
+document_000184.html,241,246,Ditta,MISC,Q3711877,Ditta,0.6692374162441493
+document_000185.html,96,110,Alfredo Bajesi,PER,Q337343,Alfredo Casella,0.5153444348761816
+document_000186.html,108,113,Faust,MISC,Q745951,Faust (Gounod),0.7411884186443466
+document_000186.html,117,132,Enrico Zdollner,PER,NIL,,0.26532151856759895
+document_000186.html,288,298,Margherita,PER,Q6760166,Margherita Salicola,0.6765180222287954
+document_000186.html,326,336,Margherita,PER,Q6760166,Margherita Salicola,0.7779565200491418
+document_000187.html,133,142,Cardinali,PER,NIL,,0.07190246800187738
+document_000187.html,195,202,nelAida,MISC,NIL,,0.25212721492484474
+document_000187.html,209,218,Trovatore,MISC,Q186370,Trovatore,0.8594776880211508
+document_000187.html,226,233,Liberté,ORG,Q56757512,LiBerté,0.8662455139448101
+document_000187.html,270,275,Villa,PER,Q3950,Villa,0.564129916181554
+document_000187.html,355,363,Ruy Blas,MISC,NIL,,0.04935286192488556
+document_000188.html,73,82,Pie Jesus,MISC,NIL,,0.03460784616989532
+document_000188.html,86,95,Stradella,PER,Q41036,Stradella,0.7563480541702416
+document_000188.html,177,200,teatro Principe Alfonso,LOC,NIL,,0.16830158683153185
+document_000189.html,47,61,teatro di Bari,LOC,Q845510,Teatro Petruzzelli,0.6066247071219044
+document_000189.html,332,340,Seppilli,PER,NIL,,0.3575171065395716
+document_000189.html,408,421,Vittorio Pepe,PER,NIL,,0.156948449953415
+document_000190.html,33,39,Attila,MISC,Q36724,Attila,0.9455708207659753
+document_000190.html,108,121,Maria Cantori,PER,Q19547000,Maria Farneti,0.484100565945967
+document_000190.html,214,239,S. M. la Regina di Spagna,PER,NIL,,0.1689739878558603
+document_000191.html,11,18,Gargano,PER,Q763332,Gargano,0.9132737330038654
+document_000191.html,19,26,Gargano,PER,Q763332,Gargano,0.4690157561594874
+document_000192.html,50,64,Eugenio Pirani,PER,NIL,,0.007797540591692313
+document_000193.html,35,42,Verdini,PER,Q7317,Giuseppe Verdi,0.5983241094106386
+document_000193.html,197,205,Ugonotti,MISC,NIL,,0.13615251655068983
+document_000194.html,58,81,teatro Principe Alfonso,LOC,NIL,,0.2759355643680065
+document_000195.html,23,39,Teatro Ilustrato,ORG,Q5471,Teatro alla Scala,0.47664808412865434
+document_000195.html,176,184,Seppilli,PER,Q3610301,Alessandro Seppilli,0.56985505752024
+document_000195.html,252,265,Vittorio Pepe,PER,NIL,,0.12013609809331974
+document_000196.html,1,9,Costetti,PER,Q3767062,Giovanni Costetti,0.8590680664529577
+document_000196.html,108,117,Cammarota,PER,Q3804384,Italo Cammarota,0.4972426073488527
+document_000196.html,159,174,teatro di Pavia,LOC,NIL,,0.2524005186237403
+document_000196.html,232,237,Agram,LOC,Q18445805,Agrano,0.5856377314668614
+document_000197.html,16,23,Borelli,PER,Q6999768,Ambra Borelli,0.5712722857342682
+document_000197.html,64,72,Gioconda,MISC,Q12418,Gioconda,0.5000874468546312
+document_000197.html,123,132,Trovatore,MISC,Q186370,Trovatore,0.6082191353850179
+document_000198.html,3,10,Cremona,LOC,NIL,,0.0072216879762548696
+document_000198.html,48,53,Zorzi,PER,Q2465133,Veronica Zorzi,0.48417128430174944
+document_000198.html,60,68,Favorita,MISC,NIL,,0.011864183211934621
+document_000198.html,72,78,Parodi,PER,Q3697552,Cristina Parodi,0.9069115440765092
+document_000198.html,81,89,Brindisi,LOC,NIL,,0.008651553336819141
+document_000198.html,114,119,Norma,MISC,NIL,,0.0026875105150176775
+document_000198.html,136,141,Malta,LOC,NIL,,0.010907663350993808
+document_000198.html,175,183,Gioconda,MISC,Q12418,Gioconda,0.5452339695186226
+document_000199.html,71,79,Martucci,PER,Q3665470,Cesare Martuzzi,0.6289634454393955
+document_000199.html,189,193,Busi,PER,Q368206,Aldo Busi,0.6659903078097751
+document_000199.html,497,501,Raff,PER,NIL,,0.1004414609314442
+document_000201.html,9,18,Schneider,PER,Q74556,Marius Schneider,0.8542422459374344
+document_000201.html,27,37,il Lamento,MISC,NIL,,0.3570315850275317
+document_000203.html,233,243,Carlo Marx,PER,Q3044,Carlo Magno,0.41933563162637244
+document_000203.html,457,469,Paolo Bekker,PER,Q2050427,Paolo Ravaglia,0.7679976917500495
+document_000204.html,183,188,Fokin,PER,NIL,,0.1905488580392085
+document_000204.html,191,198,Miassin,PER,NIL,,0.14235270789993373
+document_000212.html,225,231,Wendel,PER,NIL,,0.13931687704018542
+document_000213.html,37,52,Quinta sinfonia,MISC,NIL,,0.05585474015429072
+document_000213.html,90,97,Nikisch,PER,NIL,,0.16447025260938058
+document_000214.html,116,135,Sinfonia incompiuta,MISC,NIL,,0.22164463472561272
+document_000215.html,5,13,Seriabin,PER,Q748221,Ramón Vinay,0.51025948332322
+document_000215.html,41,57,diterza Sinfonia,MISC,NIL,,0.06376570478223764
+document_000216.html,84,96,all’Augusteo,LOC,NIL,,0.0159437121661999
+document_000216.html,108,127,sinfonia di sol min,MISC,NIL,,0.034356391305835315
+document_000216.html,148,155,Haendel,PER,NIL,,0.38539863719670997
+document_000218.html,0,18,La sinfonia eroica,MISC,NIL,,0.04776286048024662
+document_000219.html,37,45,Juventus,MISC,NIL,,0.0029207196780683597
+document_000219.html,52,60,DiSabata,PER,NIL,,0.05474420007320951
+document_000220.html,3,22,Sinfonia delle Alpi,MISC,NIL,,0.0888244128020211
+document_000220.html,26,36,R. Strauss,PER,NIL,,0.2880770595971843
+document_000220.html,60,68,Molinari,PER,Q3610152,Alessandro Molinari,0.683430832404251
+document_000221.html,44,59,Maestri Cantori,MISC,NIL,,0.030143567378371917
+document_000222.html,54,66,Santoliquide,PER,NIL,,0.2533057758420204
+document_000222.html,84,93,Tarantini,PER,Q455135,Alberto Tarantini,0.6401688432022569
+document_000222.html,128,132,Fano,PER,Q13142,Fano,0.794278377442185
+document_000222.html,134,147,dell’Agostini,PER,NIL,,0.2190781402641934
+document_000222.html,168,175,Zanella,PER,NIL,,0.3354402779066414
+document_000222.html,210,219,Guarnieri,PER,Q346904,Adriano Guarnieri (compositore),0.9460682842681217
+document_000223.html,71,114,Chiesa monumentale di S. Salvatore al Monte,LOC,NIL,,0.08164605144079293
+document_000224.html,3,17,Inno trionfale,MISC,Q484692,Inno,0.403289610976678
+document_000224.html,72,87,Le sette parole,MISC,NIL,,0.02326973446348107
+document_000226.html,35,44,Opernhaus,LOC,Q670406,Opernhaus Zürich,0.7525114988682978
+document_000226.html,45,55,difBerlino,LOC,NIL,,0.14766503354319283
+document_000228.html,234,242,Turandot,MISC,Q207990,Turandot,0.9656990272086164
+document_000229.html,124,145,teatro dei Campi Elsi,LOC,NIL,,0.02181338047296534
+document_000230.html,40,53,Arrigo Serato,PER,NIL,,0.23783244287387786
+document_000230.html,187,196,do minore,MISC,Q309994,Do minore,0.9277978687233657
+document_000230.html,199,207,Pizzetti,PER,NIL,,0.3066301898051476
+document_000231.html,102,126,Liceo Benedetto Marcello,ORG,NIL,,0.010536596051652268
+document_000232.html,87,109,Liceo di Santa Cecilia,ORG,NIL,,0.33760162418314105
+document_000233.html,38,44,Wagner,PER,NIL,,0.2824044043385061
+document_000235.html,44,54,Ukolebavke,MISC,NIL,,0.010887550597687892
+document_000235.html,139,144,Sesta,MISC,NIL,,0.030044837617117487
+document_000235.html,148,158,Ciaikovski,MISC,NIL,,0.07476735381595043
+document_000236.html,101,104,Suk,PER,NIL,,0.16594898013951007
+document_000236.html,35,40,Novak,PER,Q5812,Novak Đoković,0.48660910496413057
+document_000237.html,76,85,Puirsifal,MISC,NIL,,0.029924566988274448
+document_000237.html,124,137,Principe Igor,MISC,NIL,,0.01615605091346445
+document_000238.html,196,199,Suk,PER,NIL,,0.16873600945609887
+document_000240.html,79,87,M. Costa,PER,NIL,,0.23727748036426533
+document_000241.html,90,97,in Alto,MISC,NIL,,0.13872868166354563
+document_000242.html,109,116,Masetti,PER,Q28708229,Amina Boschetti,0.874745556037114
+document_000242.html,155,162,Dilelio,PER,NIL,,0.3071654911855958
+document_000244.html,134,152,dell’Ente Autonomo,LOC,Q3726220,Ente autonomo,0.5079194336516984
+document_000246.html,36,44,Lalstaff,MISC,NIL,,0.01135023082258715
+document_000247.html,0,19,Larbiere di Sivigla,MISC,NIL,,0.09293339551321345
+document_000247.html,99,106,Hackett,PER,Q315811,Steve Hackett,0.858121332409726
+document_000248.html,80,85,Boito,PER,NIL,,0.2730938593853545
+document_000248.html,107,115,Catalani,PER,Q24999498,Guido Catalano,0.5622280395099607
+document_000249.html,138,146,Catalani,PER,Q5705,Catalogna,0.8072591383252595
+document_000250.html,35,51,Maestrit Canfori,MISC,NIL,,0.24176994993554488
+document_000250.html,163,171,Parsifal,MISC,Q728510,Parsifal,0.5943913696459628
+document_000250.html,213,222,Wildbrunn,PER,NIL,,0.23617804264426503
+document_000250.html,227,233,Galefi,PER,NIL,,0.33383654881545516
+document_000250.html,239,249,De Angelis,PER,NIL,,0.39784920539601054
+document_000251.html,150,165,Maestri Cantort,MISC,NIL,,0.005038711347019724
+document_000251.html,195,207,Debora Jacle,MISC,NIL,,0.0030991221486182875
+document_000252.html,10,14,Rota,PER,NIL,,0.1519233297112449
+document_000252.html,16,26,Rovescalli,PER,Q22673201,Andrea Favilli,0.6605955849660173
+document_000252.html,28,37,Marchioro,PER,Q3737768,Fabio Marchioro,0.4026607700771349
+document_000252.html,39,46,Santoni,PER,Q18812251,Alessandro Santoni,0.6120804071830094
+document_000253.html,0,21,1’Accademia Americana,ORG,NIL,,0.12220675589684077
+document_000253.html,59,65,Lamond,PER,NIL,,0.2131214349845246
+document_000253.html,133,147,Premio di Roma,MISC,NIL,,0.32814692850790733
+document_000254.html,44,59,Schola cantorum,ORG,Q675386,Schola cantorum,0.9909448703895332
+document_000254.html,63,84,S. Salvatore in Lauro,LOC,NIL,,0.2262402648768249
+document_000254.html,104,112,Cappelle,LOC,Q108325,Cappella,0.9853250199130664
+document_000256.html,6,25,Liceo di S. Cecilia,ORG,NIL,,0.0807031300428783
+document_000256.html,49,73,Conservatorio di Palermo,ORG,NIL,,0.1927359061836325
+document_000256.html,83,102,Marsilio Ceccarelli,PER,NIL,,0.020395197046487307
+document_000259.html,202,210,A. Luiso,PER,Q192963,Luís Fabiano,0.6217763998793268
+document_000260.html,0,15,Filippo Vinardi,PER,Q3745278,Filippo Nardi,0.7562444182418844
+document_000262.html,9,17,Juventus,MISC,NIL,,0.0028530669280197353
+document_000263.html,23,40,Maria Rita Brondi,PER,NIL,,0.23783244287387786
+document_000264.html,80,85,Boito,PER,NIL,,0.2730938593853545
+document_000264.html,107,115,Catalani,PER,Q24999498,Guido Catalano,0.5622280395099607
+document_000265.html,41,71,Collegio dei Cantori pontifici,ORG,NIL,,0.18760463113837517
+document_000265.html,119,135,Cappella Sistina,ORG,Q2943,Cappella Sistina,0.7671946814636367
+document_000266.html,45,53,Cappella,ORG,NIL,,0.26690779232374506
+document_000267.html,9,25,Cappella Sistina,ORG,Q2943,Cappella Sistina,0.9328354905057339
+document_000268.html,20,30,Scuola Pia,ORG,Q15056137,Scuola Pontificia Pio IX,0.7837307991130532
+document_000268.html,42,48,Perosi,PER,Q1230485,Giovanni Maria Lancisi,0.6276430879592594
+document_000272.html,126,135,Raffaello,PER,Q3929232,Raffaello Baldini,0.8304966961411367
+document_000272.html,159,176,Aristide Sartorio,PER,Q56253557,Aristide Sartor,0.8807964866320158
+document_000274.html,53,61,Schtmann,PER,NIL,,0.27757169002382914
+document_000275.html,87,95,Augusteo,LOC,Q3516747,Teatro Augusteo,0.48032790062436687
+document_000276.html,20,26,Handel,PER,NIL,,0.32824557600330156
+document_000277.html,33,41,Molinari,PER,NIL,,0.36606684354709895
+document_000282.html,32,47,Jaroslav Kocian,PER,NIL,,0.23783244287387786
+document_000282.html,74,91,Vladimiro Poliuka,PER,NIL,,0.02500458832051533
+document_000284.html,12,28,Maria Capoccetti,PER,Q23830028,Maria Bertoletti,0.9264998042531145
+document_000284.html,210,215,Baton,PER,NIL,,0.023727885475028344
+document_000286.html,6,18,Sala Smetana,LOC,Q230752,Sala da concerto,0.49448785252989935
+document_000286.html,99,131,Sensifiva per canto ed orchestra,MISC,NIL,,0.011418487466274949
+document_000286.html,135,146,O. Respighi,PER,Q447545,Elsa Respighi,0.9043649985597538
+document_000288.html,13,23,Papa Ratti,PER,NIL,,0.3164923580384558
+document_000290.html,22,29,Arcadia,ORG,Q12898802,Arcadia,0.8033248615365123
+document_000291.html,164,200,Real Chiesa di S. Luigi dei Francesi,LOC,NIL,,0.15830658540431797
+document_000292.html,43,61,Matrimonio segreto,MISC,NIL,,0.21985803231588788
+document_000292.html,99,106,Borroni,PER,NIL,,0.30651751456618687
+document_000293.html,290,300,Stuttgarda,LOC,NIL,,0.004219553864571908
+document_000294.html,37,44,Borroni,PER,Q76736575,Deifebo Romagnoli,0.5237621964902229
+document_000297.html,32,45,Giorgi Belloc,PER,NIL,,0.3010302488935476
+document_000300.html,44,49,Monti,PER,Q3767772,Giovanni Monti,0.6457284121960563
+document_000300.html,68,78,Compagnoni,PER,Q3480826,Severino Compagnoni,0.831177922935149
+document_000301.html,296,307,Gazza Ladra,MISC,NIL,,0.3176665816349041
+document_000304.html,192,200,d'Italia,LOC,Q223936,Regno d'Italia (1805-1814),0.6660201084307134
+document_000307.html,106,116,Alessandro,LOC,Q5249606,Alessandro Gagliano,0.6756972759525495
+document_000308.html,186,194,Floridia,PER,Q490900,Floridia,0.9280095872004888
+document_000308.html,206,213,Lorenza,MISC,NIL,,0.01410800060907182
+document_000308.html,255,263,Giordano,PER,Q36330,Giordano Bruno,0.44235360290225356
+document_000308.html,278,286,Ellettra,MISC,NIL,,0.26904435298818935
+document_000308.html,290,300,R. Strauss,PER,NIL,,0.147125414789099
+document_000309.html,14,21,Rizzoli,PER,Q1327389,RCS MediaGroup,0.9180506414124352
+document_000309.html,144,155,Guglielmina,PER,Q1776320,Guglielmo Embriaco,0.8109413496375836
+document_000310.html,30,37,Cazzola,PER,NIL,,0.22414565793206903
+document_000312.html,232,239,Rizzoli,PER,Q56777493,Rizzoli,0.847751909379998
+document_000313.html,34,42,Africana,MISC,Q15,Africa,0.4347790580848438
+document_000314.html,0,10,la Sonnand,MISC,NIL,,0.3539935782435226
+document_000314.html,14,29,Teatro Pagliano,LOC,NIL,,0.3529592513981988
+document_000314.html,62,72,Frezzolini,PER,Q1381618,Giuseppe Frezzolini,0.873511157295316
+document_000314.html,108,116,Giannoli,PER,Q1674992,Pasquale Brignoli,0.7340761832835765
+document_000315.html,16,21,Patti,PER,Q175759,Patti Page,0.7345489265353953
+document_000315.html,76,86,Frezzolini,PER,Q1381618,Giuseppe Frezzolini,0.9526088110909396
+document_000316.html,68,76,Africana,MISC,NIL,,0.03599080154519859
+document_000317.html,10,16,Ernuni,MISC,NIL,,0.27900130485049435
+document_000317.html,103,110,La Maio,PER,Q188621,La bohème,0.6260799212676287
+document_000318.html,87,97,Mercadante,PER,NIL,,0.20763919863021732
+document_000318.html,207,216,Gaggiotti,PER,Q37615,Luciano Pavarotti,0.5961915653320181
+document_000318.html,262,266,Buti,PER,Q962487,Carlo Buti,0.4159068520722147
+document_000319.html,10,17,Ugolini,PER,Q4002939,Ugolino (cantante),0.7749029445550615
+document_000320.html,50,58,Lombardi,MISC,Q1210,Lombardia,0.8586648925401369
+document_000320.html,120,128,Graziani,PER,Q3768936,Girolamo Graziani,0.6061108037006778
+document_000322.html,4,21,Teatro Contavalli,LOC,Q24939513,Teatro Girolamo Magnani,0.7949093213865086
+document_000322.html,92,114,Francesco Maria Albini,PER,NIL,,0.04338098361449693
+document_000323.html,2,17,Teatro Comunale,LOC,Q3982227,Teatro comunale (Porto San Giorgio),0.9071317179237007
+document_000323.html,56,65,Pallerini,PER,Q62071869,Antonietta Pallerini,0.7876692059177024
+document_000326.html,115,138,Conservatorio di Musica,ORG,NIL,,0.24432611544324404
+document_000327.html,3,19,Teatro del Corso,LOC,Q3982296,Teatro della Compagnia,0.6771598080092752
+document_000329.html,110,118,Bukarest,LOC,NIL,,0.2397876155697606
+document_000329.html,199,205,Italia,LOC,NIL,,0.23404684505394124
+document_000330.html,106,116,i Loméardi,MISC,NIL,,0.026690479391514504
+document_000332.html,75,92,Piazza S. Martino,LOC,Q2091949,Piazza Santo Stefano (Bologna),0.4794935291815765
+document_000333.html,86,96,Mancinelli,PER,Q3713108,Domenico Mancinelli,0.8603696936047734
+document_000334.html,94,104,John Urich,PER,Q345870,John Goss,0.6940699710775835
+document_000335.html,9,18,Schneider,PER,Q74556,Marius Schneider,0.8542422459374344
+document_000336.html,109,116,Arianna,MISC,Q272523,Inanna,0.5012524168382962
+document_000337.html,0,6,Busoni,PER,NIL,,0.3180694476117156
+document_000337.html,133,141,Scriabin,PER,NIL,,0.17958765468761953
+document_000338.html,50,56,Busoni,PER,Q219551,Ferruccio Busoni,0.46793074274157836
+document_000338.html,104,110,Busoni,PER,Q219551,Ferruccio Busoni,0.6369352972651715
+document_000340.html,33,46,dell’Augusteo,LOC,Q3516747,Teatro Augusteo,0.6517883107191088
+document_000340.html,132,140,Glazunov,PER,NIL,,0.2607322682788308
+document_000341.html,116,130,Alberto Coates,PER,NIL,,0.005671659720132649
+document_000342.html,3,9,Coates,PER,Q1230717,Eric Coates,0.8196035171747944
+document_000342.html,42,56,terza Sinfonia,MISC,NIL,,0.1497294847864776
+document_000342.html,60,68,Scriabin,PER,Q689576,Matthias Georg Monn,0.5512165980448457
+document_000343.html,63,79,fantasia indiana,MISC,NIL,,0.02829834252383371
+document_000343.html,86,92,Busoni,PER,NIL,,0.31494099219223315
+document_000346.html,14,19,Busom,PER,NIL,,0.021621749445288458
+document_000347.html,130,144,Tullio Serafin,PER,NIL,,0.23783244287387786
+document_000347.html,171,188,Tristano e Isofta,MISC,NIL,,0.26562248509223496
+document_000348.html,127,141,Elena Rakowska,PER,NIL,,0.11702716151073765
+document_000348.html,172,185,Giuseppe Noto,PER,Q7317,Giuseppe Verdi,0.8566277070245477
+document_000350.html,0,13,Olive ffilder,PER,Q174930,Olive Borden,0.5318745725582698
+document_000351.html,207,215,A. Luise,PER,Q3038827,Luis Advis,0.7812781920980116
+document_000352.html,41,49,Specehia,LOC,NIL,,0.08443718927244137
+document_000353.html,119,132,Flazto magico,MISC,NIL,,0.1050275804212945
+document_000353.html,146,161,Arianna a Nasso,MISC,NIL,,0.3149298945842126
+document_000354.html,26,40,Guglielmo Tell,MISC,Q30908,Guglielmo Tell,0.8512568933057557
+document_000354.html,77,86,Gtoconda/,MISC,NIL,,0.010835670090301982
+document_000356.html,14,20,Dvovak,PER,NIL,,0.06938522473545777
+document_000357.html,78,84,Marnuf,MISC,NIL,,0.029683865876469047
+document_000357.html,88,94,Rabaud,PER,Q105237,Giacomo Meyerbeer,0.6705910459337818
+document_000357.html,101,117,Quattro rusteghi,MISC,NIL,,0.19778278183840323
+document_000358.html,151,166,Maestri Cantort,MISC,NIL,,0.005038711347019724
+document_000358.html,196,208,Debora Jacle,MISC,NIL,,0.0030991221486182875
+document_000359.html,48,59,dall’Olimpo,LOC,NIL,,0.020200070409933643
+document_000360.html,369,377,Augusteo,LOC,Q3516747,Teatro Augusteo,0.676285436394426
+document_000362.html,37,58,Florestano Rossomandi,PER,Q60836773,Florestano Rossomandi,0.9707164342342528
+document_000362.html,73,84,De Robertis,PER,Q99458614,Federico De Robertis,0.5636292514673912
+document_000362.html,186,197,Respighidal,PER,Q30881086,Ermenegildo Paccagnella,0.6740865394930982
+document_000362.html,207,218,E. D’Albert,PER,NIL,,0.07950152650131577
+document_000362.html,239,254,Arnold Foldesky,PER,NIL,,0.003928457990579442
+document_000362.html,260,268,Olivieri,PER,Q3707940,Dino Olivieri,0.8785347086255257
+document_000362.html,301,315,loseph Szigeti,PER,NIL,,0.06955896965398375
+document_000363.html,169,183,Eduardo Vitale,PER,NIL,,0.05065293477319607
+document_000364.html,162,169,M. Vico,PER,Q26972407,Giovanni Piazza,0.7215317786882545
+document_000364.html,259,275,Marietta Amstadt,PER,NIL,,0.031343335912818265
+document_000364.html,282,298,Quartetti Lehner,ORG,Q2368340,Quartetto Beethoven,0.7303663661140762
+document_000366.html,122,135,papa Gvegorio,PER,Q931464,Diomede Catone,0.7830371009726453
+document_000368.html,149,166,Socteta Cectliana,ORG,NIL,,0.04531155890942028
+document_000368.html,203,219,Cardinal De Luca,PER,Q3870122,Nando De Luca,0.4692540647282545
+document_000369.html,212,222,Papa Pecci,PER,Q43739,Papa Pio X,0.5047236630249561
+document_000370.html,73,85,Abate Amelli,PER,NIL,,0.16760662798313763
+document_000370.html,209,216,Venezia,LOC,Q641,Venezia,0.9519740765432062
+document_000371.html,151,157,Pietro,PER,NIL,,0.33007978759707235
+document_000372.html,7,16,S. Flavio,PER,Q514171,Gneo Flavio,0.5561275928252505
+document_000373.html,49,53,Levi,PER,Q312628,Carlo Levi,0.46876700004927063
+document_000373.html,65,72,Zacchia,PER,Q3574488,Lorenzo Zacchia,0.6793131712545935
+document_000373.html,124,130,Boschi,PER,Q3769241,Giulia Boschi,0.4624975409322033
+document_000373.html,165,170,Gorno,PER,Q101148,Gorno,0.5879855619248726
+document_000373.html,181,186,Corsi,PER,Q3724243,Emilia Corsi,0.49270503435621354
+document_000374.html,26,36,G. Zuccoli,PER,Q21187701,Gastone De Zuccoli,0.9416647244020919
+document_000374.html,43,52,Cominetti,PER,Q3932636,Renato Cominetti,0.8269567127220382
+document_000376.html,96,106,S. Cecilia,ORG,NIL,,0.049993848719838654
+document_000376.html,108,114,Scuola,ORG,Q3914,Scuola,0.9617668528509721
+document_000378.html,131,143,Citta Eterna,LOC,NIL,,0.07515638686483297
+document_000379.html,45,69,Don Luigi Bréschi Onesti,PER,Q81930890,Luigi Soldo,0.6229495326024356
+document_000380.html,46,53,Gnriade,MISC,NIL,,0.10558294005909907
+document_000384.html,147,167,Giorgi Belloc Teresa,PER,Q3984271,Teresa Belloc-Giorgi,0.6552764964807818
+document_000384.html,199,217,Parlamagni Antonio,PER,Q95309102,Antonio Rostagno,0.4737024870956338
+document_000384.html,218,225,PiRO1oc,PER,NIL,,0.07032782747846986
+document_000384.html,234,246,Pacini Luigi,PER,Q1388598,Alexandre Luigini,0.6091349307974703
+document_000384.html,247,254,DiMANTE,PER,Q17486774,Dimante (padre di Ecuba),0.47386016881916937
+document_000384.html,264,279,Bianchi Gactano,PER,Q164045,Annibale Padovano,0.5306205700715164
+document_000385.html,37,44,Trezene,LOC,Q581494,Trezene,0.981098909511636
+document_000386.html,32,45,Giorgi Belloc,PER,NIL,,0.3010302488935476
+document_000387.html,42,51,Vartenone,LOC,Q412388,Rotenone,0.6458672399440212
+document_000388.html,0,4,Etra,PER,NIL,,0.18427564776036925
+document_000388.html,110,115,Tesco,PER,NIL,,0.0595119372914156
+document_000389.html,7,14,Pirotoo,PER,NIL,,0.20645568422494195
+document_000390.html,21,28,Dimante,PER,Q7793,Bramante,0.6024249608866991
+document_000391.html,131,138,Pirotoo,PER,NIL,,0.1711434672818953
+document_000392.html,102,107,Desai,PER,NIL,,0.07774395981263957
+document_000393.html,44,49,Atene,LOC,NIL,,0.001032611743513168
+document_000393.html,66,73,Trezene,LOC,Q581494,Trezene,0.9563475682659095
+document_000393.html,158,165,Trezene,LOC,Q581494,Trezene,0.991257495013403
+document_000394.html,61,82,Repubblica Partenopea,ORG,Q174306,Repubblica di Genova,0.91036872263944
+document_000394.html,96,103,Dionigi,PER,NIL,,0.11476575603616054
+document_000394.html,106,127,Ferdinando di Borbone,PER,Q3742586,Ferdinando Donno,0.7956995937222229
+document_000395.html,28,34,Astrea,PER,Q250588,Astreo,0.6332370195302421
+document_000395.html,130,144,Lorenza Correa,PER,Q442706,Carmela Corren,0.9090933022058086
+document_000395.html,187,202,Clandio Bonoldi,PER,NIL,,0.06955896965398375
+document_000397.html,16,29,Poeta Cesareo,PER,Q3906987,Poeta cesareo,0.7802411444106295
+document_000397.html,240,257,Francesco Augusto,PER,Q3749580,Francesco Augusto Bon,0.44535484494741645
+document_000399.html,162,173,Francesco |,PER,Q1873463,Francesco Maria Scala,0.5906698445898901
+document_000399.html,194,213,Carolina di Baviera,PER,Q242153,Carolina di Borbone-Parma,0.8072606873597973
+document_000400.html,122,147,Dalla Reffa il disinganno,MISC,NIL,,0.00639130467558051
+document_000400.html,204,222,Italiana in Algeri,MISC,NIL,,0.3945696473841469
+document_000401.html,250,277,Socieia nazionale di musica,ORG,NIL,,0.020019495597350907
+document_000403.html,62,69,Orlando,PER,Q703503,Leoluca Orlando,0.7003520287800512
+document_000403.html,130,139,Albertint,PER,Q1511145,Geraint,0.42742196138490735
+document_000404.html,70,78,Michelli,PER,Q3659625,Carlo Micheli,0.553004193141285
+document_000404.html,102,110,Baglioni,PER,Q560126,Claudio Baglioni,0.6975265356228435
+document_000405.html,71,92,Revue des deux moudes,ORG,NIL,,0.020009787870848075
+document_000406.html,146,160,Cesare Rizzoli,PER,Q3665548,Cesare Togni,0.8507864381560512
+document_000406.html,292,297,Monti,PER,Q723643,Vincenzo Monti,0.6612764910620951
+document_000406.html,312,318,Borghi,PER,Q19974401,Ayres Borghi-Zerni,0.4911611576946934
+document_000407.html,82,87,Bozzo,PER,Q248615,Benozzo Gozzoli,0.5920829799855758
+document_000408.html,71,85,Zeatro Brunett,LOC,NIL,,0.05518203629682519
+document_000409.html,108,118,Frezzolini,PER,Q1381618,Giuseppe Frezzolini,0.9849841283682059
+document_000410.html,141,149,Giannoli,PER,Q1674992,Pasquale Brignoli,0.5241675717673502
+document_000410.html,313,323,Frezzolini,PER,Q1381618,Giuseppe Frezzolini,0.9870736066819636
+document_000411.html,91,98,Rossini,PER,Q9726,Gioachino Rossini,0.7613903380550832
+document_000412.html,39,47,Lagrange,PER,NIL,,0.26068832211008697
+document_000412.html,60,66,Vitali,PER,NIL,,0.05581433638268255
+document_000412.html,158,164,Vitali,PER,NIL,,0.178792160460178
+document_000412.html,203,209,Vitali,PER,NIL,,0.13928355316194294
+document_000412.html,354,360,Vitali,PER,NIL,,0.05215352348782595
+document_000412.html,170,185,Irance Musicale,ORG,NIL,,0.18062458350127358
+document_000413.html,140,148,Squarcia,PER,Q34584,Anastacia,0.6896316354878832
+document_000414.html,10,14,Sira,ORG,Q211230,Siro (Grecia),0.423276838769983
+document_000414.html,44,50,Bastia,PER,Q134698,Bastia,0.9233727158212045
+document_000414.html,152,167,Teatro Pagliano,LOC,NIL,,0.26996775720850646
+document_000414.html,192,197,Borri,PER,NIL,,0.2977595171320115
+document_000415.html,218,235,Ballo in Maschera,MISC,NIL,,0.04510833232477897
+document_000416.html,37,45,Barbiere,MISC,Q107198,Barbiere,0.9192572335957506
+document_000416.html,76,86,Pantaleoni,PER,NIL,,0.35470504703657985
+document_000416.html,113,123,Pagiorpini,PER,Q1915302,Leonetto Cappiello,0.6999705674511134
+document_000416.html,126,145,Corriere di Firenze,ORG,NIL,,0.19690199956158422
+document_000420.html,80,87,Gisella,MISC,NIL,,0.16592404456685278
+document_000420.html,105,111,Priora,PER,Q16560360,Gisella Caccialanza,0.5375762140726783
+document_000423.html,91,95,Sira,ORG,Q2554297,Sirá,0.6642926010972902
+document_000424.html,55,71,Ottavio Nouvelli,PER,NIL,,0.00541875674553092
+document_000426.html,103,109,Moidar,LOC,Q850031,Ouidah,0.47980373086451306
+document_000426.html,275,281,Murray,PER,NIL,,0.2759819060119206
+document_000426.html,287,299,lady Cameron,PER,Q106077,Lady Godiva,0.5329654260312574
+document_000427.html,237,242,Byron,PER,Q321116,Don Byron,0.8358720708379256
+document_000430.html,168,173,Gomes,PER,NIL,,0.36388590404016036
+document_000433.html,80,94,Rio lanVesimia,LOC,NIL,,0.025390237326914752
+document_000434.html,43,48,Proch,PER,NIL,,0.08815538347059125
+document_000434.html,53,60,Gargano,PER,Q763332,Gargano,0.4850012286245093
+document_000435.html,100,112,Huenos Ayres,LOC,NIL,,0.056212166866875905
+document_000436.html,3,30,teatro Nazionale di Firenze,LOC,NIL,,0.29497808767696704
+document_000438.html,18,24,Russel,PER,NIL,,0.023610657048442653
+document_000438.html,141,146,Linda,MISC,NIL,,0.1959404150791836
+document_000439.html,18,25,Bazzolo,LOC,Q3934230,Riazzolo,0.5923577162284858
+document_000439.html,151,165,Giovanni Arany,PER,Q16658008,Giovanni Kobler,0.7715709198828055
+document_000440.html,137,151,Stella Bonheur,PER,Q241732,Rosa Bonheur,0.9017244352418377
+document_000441.html,77,88,I. Burgmein,PER,Q657453,Ludwig August Lebrun,0.5050912640642601
+document_000442.html,2,9,Sassari,LOC,NIL,,0.037361076899054206
+document_000442.html,99,110,Sangiovanni,PER,Q3766020,Giosuè Sangiovanni,0.5916815949441983
+document_000443.html,136,142,Corfit,LOC,NIL,,0.0444058706487496
+document_000444.html,49,56,Foscari,MISC,Q750151,Foscari,0.43766870215911113
+document_000444.html,243,250,Foscari,MISC,Q17375387,Girolamo Foscari,0.4387512869585886
+document_000444.html,79,89,Scaramella,PER,Q33083450,Ugo Scaramella,0.6725281529118445
+document_000444.html,231,240,Francoxeo,PER,NIL,,0.10407375184845985
+document_000445.html,0,13,Medea Borelli,PER,NIL,,0.05007783958815617
+document_000445.html,171,175,Aida,MISC,Q171277,Aida,0.47075532494721145
+document_000445.html,6,13,Borelli,PER,NIL,,0.3809018954988272
+document_000445.html,234,241,Borelli,PER,Q6999768,Ambra Borelli,0.4222589995577129
+document_000446.html,3,18,teatro Vittorio,LOC,Q261439,Teatro Massimo Vittorio Emanuele,0.5224453014623411
+document_000446.html,175,180,Norma,MISC,NIL,,0.01928056789184498
+document_000446.html,166,173,Ravogli,PER,Q3640594,Bixio Cherubini,0.5162910090366895
+document_000446.html,184,192,Adalgisa,PER,Q15057396,Adalgisa Gabbi,0.4563040454812347
+document_000447.html,15,30,Fanny Torese!la,PER,NIL,,0.10280702695467679
+document_000447.html,37,42,Linda,MISC,NIL,,0.29412573564987954
+document_000447.html,266,271,Linda,MISC,Q58487022,Balla Linda,0.4932351525395555
+document_000447.html,191,206,Funay Toresella,PER,NIL,,0.22580125948494456
+document_000448.html,3,11,Ruy Blas,MISC,NIL,,0.17127311535015893
+document_000449.html,91,104,Don Sallustio,PER,Q210372,Don Giovanni,0.9377505113095572
+document_000449.html,290,297,Casilde,PER,Q61678373,Casilde,0.728604437120271
+document_000453.html,66,74,Zaccaria,PER,Q2305425,Nicola Zaccaria,0.8462035128799008
+document_000454.html,66,74,Zaccaria,PER,Q2305425,Nicola Zaccaria,0.8593668365042187
+document_000455.html,32,37,Akdos,MISC,Q377802,Arados,0.5890212142455389
+document_000457.html,32,43,Fra Diavolo,MISC,Q920642,Fra Diavolo,0.927737846110991
+document_000458.html,3,8,Adria,ORG,Q34615,Adria,0.937537577132108
+document_000459.html,0,12,ll Cittadino,ORG,Q902507,Il Gazzettino,0.5143828930033869
+document_000460.html,14,30,Triester Zeitung,ORG,NIL,,0.2666288010013483
+document_000461.html,170,186,teatro del Corso,LOC,Q16612544,Teatro del Pavone,0.8696438152551661
+document_000462.html,157,168,L. Detroyat,PER,NIL,,0.10428801230582677
+document_000462.html,207,216,T. Dubois,PER,Q957274,Pietro Dubois,0.6041242127296029
+document_000462.html,283,300,Vittoriano Sardou,PER,NIL,,0.21422569659588378
+document_000462.html,423,432,P. Gilles,PER,NIL,,0.20157544168627017
+document_000462.html,436,453,Gymmase di Parigi,LOC,Q3856740,Michele Parigi,0.5015265366607374
+document_000463.html,11,18,Gayarre,PER,NIL,,0.18677361973346812
+document_000464.html,9,24,Arte di Trieste,ORG,Q3624159,Arte serba,0.45599222406429823
+document_000465.html,126,139,Conservatorio,ORG,Q184644,Conservatorio,0.7456693320180904
+document_000466.html,49,57,Mapleson,PER,Q440360,Miles Malleson,0.44273997094073186
+document_000467.html,23,29,Branca,PER,NIL,,0.2405886560231888
+document_000468.html,33,44,Parravicini,PER,Q22264377,Beltramino Parravicini,0.8201464970438875
+document_000470.html,98,116,Senatore Sparapani,PER,Q133535,Renato Pampanini,0.8258662808923853
+document_000471.html,115,120,Corso,PER,Q1132533,Caterina Gabrielli,0.6045842075757023
+document_000471.html,159,166,Messina,LOC,NIL,,0.005059093257531943
+document_000472.html,2,6,Pisa,LOC,Q13375,Pisa,0.8797345382292774
+document_000472.html,22,29,Dolores,MISC,NIL,,0.10228687771754012
+document_000472.html,33,39,Auteri,PER,NIL,,0.3974783424623728
+document_000472.html,72,81,Paoliceli,PER,NIL,,0.29222529817085263
+document_000472.html,102,110,Gautiero,PER,Q4007691,Valentina Gautier,0.7023845809570114
+document_000474.html,134,142,Ugonotti,MISC,NIL,,0.19909540020742464
+document_000474.html,146,164,Bellini di Palermo,LOC,NIL,,0.19700165154213645
+document_000475.html,2,7,Parma,LOC,Q3887924,PARMA,0.9481043472377021
+document_000475.html,64,70,Panche,PER,Q241835,Milva,0.5116782973815961
+document_000476.html,64,68,Dadi,PER,Q1118858,Marcel Dadi,0.7232400951774217
+document_000476.html,98,109,Fra Diavole,MISC,NIL,,0.13736154694559266
+document_000477.html,33,42,Sparapani,PER,Q3665470,Cesare Martuzzi,0.4046699971609292
+document_000477.html,49,54,Lucia,MISC,NIL,,0.2832392618913612
+document_000477.html,70,79,Bulicioff,PER,NIL,,0.10267720183473752
+document_000477.html,83,89,Masini,PER,Q20140367,Gianfranco Masini,0.7142208753686808
+document_000477.html,91,97,Batris,PER,NIL,,0.1034481056915841
+document_000477.html,103,112,Silvestri,PER,Q2286665,Silvestro Ganassi,0.8738403535287275
+document_000477.html,139,144,Faust,MISC,Q745951,Faust (Gounod),0.9238856334659069
+document_000477.html,145,160,Doria di Genova,LOC,Q3907408,Politeama Genovese,0.5301634286221655
+document_000478.html,26,32,Pasqua,PER,Q21196,Pasqua,0.9085079249021518
+document_000478.html,34,41,Signore,PER,Q2366336,Signore (titolo nobiliare),0.7813028123616189
+document_000478.html,45,52,Bianchi,PER,Q5733977,Brigida Bianchi,0.7957389115021373
+document_000478.html,74,82,Giocondu,MISC,NIL,,0.13330149979508038
+document_000478.html,176,184,Tra pani,LOC,NIL,,0.015270134450519519
+document_000479.html,42,52,Calderazzi,PER,NIL,,0.18338345445810889
+document_000479.html,63,72,Signorini,PER,Q3837079,Lorenzo Signorini,0.9385538497675722
+document_000479.html,91,100,Marangolo,PER,Q3619812,Antonio Marangolo,0.8227394991013348
+document_000479.html,165,170,Brogi,PER,NIL,,0.3210301691392516
+document_000480.html,0,7,Lisbona,LOC,NIL,,0.0010109955772156858
+document_000481.html,21,29,Gioconda,MISC,Q12418,Gioconda,0.9530375214742168
+document_000481.html,48,55,Pierson,PER,Q287309,Kate Pierson,0.6877613283914171
+document_000481.html,84,92,De \eeri,PER,Q1376130,Meta Heusser-Schweizer,0.5642617910833749
+document_000481.html,106,112,Sivori,PER,Q1029423,Camillo Sivori,0.44054506222323314
+document_000482.html,0,10,Semiramide,MISC,Q103960,Semiramide,0.6768935711457564
+document_000483.html,48,56,Gtoconda,MISC,NIL,,0.026692336423223058
+document_000484.html,11,19,Leonardi,PER,Q3956151,Sergio Leonardi,0.5671031497231755
+document_000485.html,12,26,Ernesto Sivori,PER,NIL,,0.23783244287387786
+document_000485.html,62,70,Gioconda,MISC,Q3765039,Gioconda (singolo),0.4444237669370615
+document_000486.html,37,57,J Pescatori di perle,MISC,NIL,,0.24792285856614868
+document_000486.html,115,124,Toresella,PER,NIL,,0.08222670396317668
+document_000486.html,139,147,Giordano,PER,Q332494,Luca Giordano,0.6804022297268248
+document_000486.html,150,158,Barbieri,PER,Q920977,Gato Barbieri,0.6829366729718942
+document_000487.html,174,178,Busi,PER,NIL,,0.3842979315994482
+document_000488.html,14,28,Federico Sarti,PER,NIL,,0.06955896965398375
+document_000488.html,103,111,Nouvelli,PER,NIL,,0.1738255122954594
+document_000488.html,125,132,Vaselli,PER,Q18758702,Romolo Vaselli,0.42580415732805066
+document_000488.html,145,155,Silvestri-,PER,Q3838279,Luca Silvestrin,0.6853757813160091
+document_000489.html,174,180,Tofano,PER,Q982381,Sergio Tofano,0.7220081163245349
+document_000491.html,66,72,Olello,MISC,NIL,,0.07085411708844695
+document_000492.html,95,100,Gabbi,PER,Q363254,Tito Gobbi,0.7384751306027492
+document_000493.html,45,51,Borgia,MISC,Q237599,Borgia,0.6272202716429053
+document_000494.html,0,14,Don Chisciotte,ORG,Q1239463,Don Chisciotte (balletto),0.43619657862496974
+document_000495.html,20,25,Carpi,PER,Q100041,Carpi,0.9800768585567344
+document_000495.html,89,94,Carpi,PER,Q3072743,Fiorenzo Carpi,0.7987275115606117
+document_000495.html,32,37,Linda,MISC,NIL,,0.1943948294364585
+document_000495.html,67,76,Commercio,ORG,Q601401,Commercio,0.8478605551250555
+document_000496.html,0,7,Il Sole,ORG,NIL,,0.38084264210386554
+document_000496.html,52,57,Carpi,PER,Q100041,Carpi,0.8173700636390588
+document_000496.html,245,250,Rieva,PER,Q241835,Milva,0.4342494719420835
+document_000497.html,1,16,La Perseveranza,ORG,NIL,,0.14707550742875028
+document_000497.html,118,127,Il Secolo,ORG,Q3792935,Il Secolo (quotidiano),0.985156371123999
+document_000498.html,0,10,Il Pungolo,ORG,Q3792773,Il Lampione,0.7602094621086781
+document_000498.html,121,126,Carpi,PER,Q3072743,Fiorenzo Carpi,0.6862359596526871
+document_000498.html,335,340,Rieva,PER,Q241835,Milva,0.8487603614376349
+document_000499.html,9,22,De Franceschi,PER,Q3796496,Ilo De Franceschi,0.7695573811340269
+document_000502.html,0,15,Fanny Toresella,PER,Q435304,Fanny Elssler,0.4858763236713654
+document_000502.html,71,89,Pescatori di perle,MISC,NIL,,0.047479170818882456
+document_000503.html,41,50,Toresella,PER,NIL,,0.15641310531823238
+document_000503.html,123,130,Falcone,PER,Q63108492,Maria Falcone,0.666237169840632
+document_000504.html,23,32,Toresella,PER,NIL,,0.05460238394324178
+document_000504.html,266,287,principessa Moliterno,PER,Q446504,Eleonora Pimentel Fonseca,0.5232712172811248
+document_000505.html,10,19,Toresella,PER,NIL,,0.08353366694402461
+document_000505.html,126,134,bresella,PER,Q2719255,Alessandro Vessella,0.4111195012997222
+document_000506.html,21,29,Favorita,MISC,NIL,,0.01041875216261607
+document_000506.html,114,122,Favorita,MISC,NIL,,0.02112533396440251
+document_000506.html,144,152,Favorita,MISC,Q1996375,Favorita,0.7499408171223011
+document_000506.html,36,47,teatro novo,LOC,Q3982079,Teatro Nuovo (Firenze),0.5322404446131187
+document_000506.html,134,138,Arte,ORG,Q735,Arte,0.8912451756089612
+document_000507.html,288,293,Borbe,PER,NIL,,0.21531986340551673
+document_000507.html,334,342,habanera,MISC,Q835562,Habanera,0.9854270658584046
+document_000507.html,350,360,seguidilla,MISC,Q7446359,Seguidilla,0.8621080854596531
+document_000508.html,55,64,Nagherita,LOC,NIL,,0.20512000254946436
+document_000508.html,82,92,Sonnambula,MISC,NIL,,0.14883238829542567
+document_000509.html,56,65,Escamillo,PER,Q40939,Eschilo,0.9398773748150052
+document_000509.html,117,123,Novari,PER,Q60684,Novalis,0.41316709228029896
+document_000509.html,130,136,Sgarbi,PER,Q2426702,Vittorio Sgarbi,0.724706160875732
+document_000510.html,64,91,Politeama Regina Margherita,LOC,Q3907411,Politeama Giuseppe Verdi,0.6899687198501904
+document_000510.html,138,148,Sonnambula,MISC,NIL,,0.09094653964979309
+document_000511.html,3,10,Caffaro,ORG,Q640685,Caffaro (fiume),0.735831557819697
+document_000512.html,3,21,Gazzetta di Genova,ORG,Q174306,Repubblica di Genova,0.7298462554050656
+document_000512.html,109,116,Musiani,PER,Q3893603,Paola Musiani,0.6200253807154746
+document_000513.html,2,14,Buenos Ayres,LOC,NIL,,0.0020847646952384022
+document_000513.html,136,145,Trovatore,MISC,NIL,,0.1531268149660325
+document_000514.html,39,46,Cantori,PER,Q330679,Cantore,0.8891062708132212
+document_000514.html,102,108,Attila,MISC,Q36724,Attila,0.9340632987173522
+document_000515.html,12,21,Trovatore,MISC,Q186370,Trovatore,0.8579799912392897
+document_000515.html,190,206,Ottavio Nouvelli,PER,NIL,,0.015323617913003393
+document_000516.html,3,21,Goldoni di Livorno,LOC,NIL,,0.048767085437255726
+document_000517.html,58,67,Bulicioff,PER,NIL,,0.07398092007061455
+document_000518.html,109,131,Margherita Delle Sedie,PER,Q3725732,Enrico Delle Sedie,0.8356622592525359
+document_000519.html,40,79,dell’Ordine del merito civile di Savoia,MISC,NIL,,0.003707499570993631
+document_000519.html,133,147,Eugenio Pirani,PER,NIL,,0.007797540591692313
+document_000520.html,17,31,Capitale russa,LOC,NIL,,0.38595092337241926
+document_000521.html,29,37,Migliont,PER,Q453476,Francesca Segat,0.5171798158239694
+document_000521.html,46,52,Vivigy,PER,Q180004,Fergie,0.5703446333604393
+document_000521.html,68,72,Aida,MISC,NIL,,0.023376653862805737
+document_000521.html,75,80,Terni,LOC,NIL,,0.006107236258916411
+document_000521.html,132,138,Agnila,LOC,NIL,,0.07285830450255575
+document_000522.html,76,81,Lucia,MISC,NIL,,0.27812067661667167
+document_000522.html,163,173,Sonnambuly,MISC,NIL,,0.009144319386503116
+document_000523.html,7,15,Martelli,PER,Q3848780,Mario Martelli,0.6409233090393988
+document_000524.html,2,9,Palermg,LOC,NIL,,0.009563611447468276
+document_000524.html,13,19,Ravogl,PER,NIL,,0.0856054250570934
+document_000524.html,81,88,Carinen,MISC,NIL,,0.029138092841785274
+document_000524.html,94,101,BudaPes,LOC,Q2287778,Ulapes,0.47298485790693007
+document_000524.html,120,127,Manzoni,LOC,NIL,,0.18375026463472696
+document_000524.html,155,169,Regina di Saba,MISC,NIL,,0.36456044939003246
+document_000525.html,2,13,Pletroburgo,LOC,NIL,,0.22554751409271487
+document_000525.html,137,146,Piontelli,PER,Q3758767,Gastone Monaldi,0.5688818052169297
+document_000525.html,206,228,Casty Felice di Genova,LOC,NIL,,0.07461901713893763
+document_000527.html,83,95,CoveniGarden,LOC,NIL,,0.1775076226177096
+document_000528.html,42,49,Gargano,PER,Q16607900,Sparano,0.4169585276257233
+document_000528.html,80,85,Carpi,PER,Q3072743,Fiorenzo Carpi,0.6427752991574345
+document_000528.html,103,127,Filodranmatico di Milano,LOC,NIL,,0.012800052083954051
+document_000529.html,4,13,Argentina,LOC,Q414,Argentina,0.9926693015538406
+document_000529.html,32,52,Barbiere di Siviglia,MISC,NIL,,0.39859699691643136
+document_000530.html,51,56,Gomes,PER,Q263855,Antônio Carlos Gomes,0.8014828107459468
+document_000532.html,52,70,Municipio di Fermo,LOC,Q2942660,Duomo di Fermo,0.7678766520770214

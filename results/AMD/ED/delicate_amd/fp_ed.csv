@@ -1,0 +1,169 @@
+doc_id,start_pos,end_pos,surface,type,identifier,wiki_title,score
+document_110065.html,515,521,Cristo,PER,Q642420,Cristo,0.7831037081106335
+document_110065.html,687,703,Beatissimo Padre,PER,NIL,,0.09562159257098797
+document_110065.html,709,721,Universitari,ORG,Q3918,Università,0.3735612708485979
+document_110092.html,278,285,America,LOC,Q49,America del Nord,0.9120453381885925
+document_110199.html,620,629,Movimento,ORG,Q3866621,Movimento del '77,0.7087205577954152
+document_110205.html,30,40,Margadonna,PER,Q1238,Giuseppe Saragat,0.7685165277569073
+document_110220.html,130,148,Laureati Cattolici,ORG,NIL,,0.1396579906616647
+document_110220.html,523,531,Laureati,ORG,NIL,,0.1391177036554018
+document_110220.html,631,649,Laureati Cattolici,ORG,NIL,,0.10294294881024045
+document_110220.html,834,843,Movimento,ORG,Q3866621,Movimento del '77,0.4456937048247828
+document_110220.html,912,920,Laureati,ORG,Q1054679,Laurea,0.6815432211019501
+document_121020.html,75,85,Presidente,PER,Q9696,John Fitzgerald Kennedy,0.9299598992561506
+document_121020.html,123,134,Commissione,ORG,Q7478146,Pontificia commissione per lo Stato della Città del Vaticano,0.4864067452012732
+document_121020.html,233,243,Presidente,PER,Q8007,Franklin Delano Roosevelt,0.6294701936472281
+document_121024.html,158,163,Basso,PER,Q3619753,Antonio Leopoldo Basso,0.7020948828932849
+document_121024.html,169,177,Marchesi,PER,Q3608401,Alberto Marchesi,0.8862817847023419
+document_121043.html,84,92,Marchesi,PER,Q3778140,Gualtiero Marchesi,0.7181332684864221
+document_121093.html,208,214,Nobile,PER,NIL,,0.17740170428479088
+document_121170.html,58,69,Commissione,ORG,NIL,,0.1800213877251385
+document_121186.html,353,363,Condorelli,PER,Q32544224,Francesco Condorelli,0.38017677251693766
+document_121217.html,198,213,Luciano Magrini,PER,NIL,,0.06370532349249453
+document_122018.html,207,217,Parlamento,ORG,Q35749,Parlamento,0.9404682476280196
+document_122034.html,407,416,Assemblea,ORG,Q47423,Assemblea generale delle Nazioni Unite,0.2516372754854286
+document_122034.html,1181,1191,Parlamento,ORG,Q35749,Parlamento,0.36388083195349663
+document_122044.html,7,17,Presidente,PER,Q30461,Presidente,0.35506637202136115
+document_122067.html,68,74,Mattei,PER,Q13407130,Gianfranco Mattei,0.857504465885887
+document_131111.html,1793,1800,Partito,ORG,Q2717398,Partito Popolare Italiano (1919),0.25854931864266656
+document_131126.html,980,987,Partito,ORG,Q606620,Südtiroler Volkspartei,0.2942740802321712
+document_131130.html,25,35,Presidente,PER,Q16975,Papa Paolo VI,0.8350049252520685
+document_131130.html,220,227,Governo,ORG,Q3773853,Governo Fanfani III,0.8078491296587961
+document_131130.html,428,435,Governo,ORG,Q3773955,Governo Tambroni,0.5885167841629074
+document_132006.html,25,40,Sommo Pontefice,PER,Q101437,Papa Pio II,0.7619424744574607
+document_132006.html,331,337,Chiesa,ORG,Q34651,Chiesa (comunità),0.8574582696574282
+document_132006.html,476,482,Chiesa,ORG,Q34651,Chiesa (comunità),0.8852103158114037
+document_132028.html,135,142,Governo,ORG,Q3111999,Governo De Gasperi VII,0.5139291127339406
+document_132108.html,175,180,Togni,PER,Q22991664,Rosolino Ferragni,0.8504324212600095
+document_132109.html,50,55,Asahi,ORG,Q598905,Asahi (Mie),0.9602010267128437
+document_132165.html,406,413,Governo,ORG,Q7188,Governo,0.6896172768475233
+document_132165.html,1272,1279,Governo,ORG,Q7188,Governo,0.6513071466907097
+document_132179.html,611,618,Governo,ORG,Q7188,Governo,0.6896172768475233
+document_132179.html,748,755,Governo,ORG,Q7188,Governo,0.6741522716909032
+document_132179.html,819,828,Almirante,PER,Q273228,Amintore Fanfani,0.8850967561330124
+document_132179.html,875,882,Governo,ORG,NIL,,0.10765829892241045
+document_132183.html,128,139,Arcivescovo,PER,Q49476,Arcivescovo,0.9149766982790188
+document_132198.html,178,185,Governo,ORG,Q1058671,Governo De Gasperi II,0.39883901823700046
+document_132230.html,176,195,Consiglio nazionale,ORG,Q1054567,Partito Nazionale Monarchico,0.5133222286556227
+document_132230.html,685,694,Consiglio,ORG,Q6528244,Consiglio privato,0.28332615144187634
+document_132230.html,773,783,Segretario,PER,Q736559,Segretario di Stato,0.4238992254191563
+document_132230.html,868,875,Partito,ORG,NIL,,0.08976614879806982
+document_132257.html,251,260,Provincia,ORG,Q15091,Provincia di Cuneo,0.6084930739219212
+document_132289.html,203,210,Governo,ORG,Q3111999,Governo De Gasperi VII,0.6050301675939618
+document_141002.html,103,115,Stefano Brun,PER,Q3972401,Stefano Bruni,0.21560602161481984
+document_141002.html,279,289,Presidente,PER,Q2114942,Presidenti del Cile,0.42433560466274756
+document_141002.html,319,325,Stagni,PER,Q3840177,Luigi Stabilini,0.8500752835641687
+document_141002.html,405,417,Stefano Brun,PER,Q3972401,Stefano Bruni,0.21560602161481984
+document_141061.html,181,190,Bruxelles,LOC,Q9005,Bruxelles,0.9667502617662278
+document_141061.html,361,369,Schumann,PER,Q15981,Robert Schuman,0.8794405555130671
+document_141061.html,498,506,Schumann,PER,Q15981,Robert Schuman,0.6926460774269633
+document_141095.html,13,34,République Arabe Unie,LOC,NIL,,0.07463046982902506
+document_141095.html,267,275,Ministre,PER,NIL,,0.0040979817658165895
+document_141104.html,79,90,Commissione,ORG,Q8880,Commissione europea,0.44771380024657864
+document_141114.html,82,89,Governo,ORG,Q7188,Governo,0.41513173708668444
+document_141155.html,192,202,Parlamento,ORG,Q35749,Parlamento,0.849619034373399
+document_141193.html,103,113,Bouteflika,PER,NIL,,0.11627898411862289
+document_141225.html,52,61,Consiglio,ORG,Q8908,Consiglio d'Europa,0.8971723638741869
+document_141226.html,162,167,Mosca,LOC,Q2314717,Trattato di Parigi fra l'Italia e le potenze alleate,0.22305984523164485
+document_141254.html,303,320,Fiera Campionaria,ORG,NIL,,0.13315199756498755
+document_141267.html,7,27,Governatore Generale,PER,Q782965,Governatori di Malta,0.46482419151055676
+document_141267.html,40,54,Primo Ministro,PER,Q14212,Primo ministro,0.8086923391592263
+document_141269.html,294,302,Comunità,ORG,Q177634,Comunità,0.7698408558609395
+document_141270.html,47,74,Repubblica Federale Tedesca,LOC,Q41304,Repubblica di Weimar,0.9331408958425031
+document_141270.html,111,131,Cancelliere Federale,PER,Q885840,Cancelliere federale (Confederazione Tedesca del Nord),0.620668062092037
+document_141271.html,178,200,Consiglio ministeriale,ORG,Q1354497,Consiglio mondiale per la pace,0.489875173184342
+document_141271.html,358,361,MEC,ORG,Q7184,Organizzazione del Trattato dell'Atlantico del Nord,0.2708463913702644
+document_141276.html,111,126,Governo maltese,ORG,Q3773818,Governo Colombo,0.340977049516935
+document_141276.html,310,326,Governo italiano,ORG,Q3773955,Governo Tambroni,0.5645263170879176
+document_141276.html,542,557,Governo maltese,ORG,Q3773868,Governo Giolitti IV,0.27680804189258157
+document_141276.html,975,1002,Repubblica federale tedesca,LOC,Q41304,Repubblica di Weimar,0.9013165051570045
+document_142010.html,8,18,Presidente,PER,Q3276067,Presidenti del Vietnam del Sud,0.3274112138291079
+document_142010.html,43,50,Governo,ORG,Q7188,Governo,0.8389290636197196
+document_142022.html,10,20,Presidente,PER,Q256036,Capi di Stato della Jugoslavia,0.7800633045890832
+document_142022.html,226,233,Governo,ORG,Q7188,Governo,0.6896172768475233
+document_142022.html,282,292,Parlamento,ORG,Q35749,Parlamento,0.9050404215096629
+document_142022.html,495,505,Parlamento,ORG,Q35749,Parlamento,0.8675697901078834
+document_142035.html,302,307,Paese,LOC,NIL,,0.12143111558844358
+document_142035.html,502,508,Italia,LOC,NIL,,0.17464296727707054
+document_142035.html,672,686,unione europea,ORG,NIL,,0.07235003911668933
+document_142036.html,345,358,Gran Bretagna,LOC,Q23666,Gran Bretagna,0.9769739884331327
+document_142036.html,377,385,Comunità,ORG,Q177634,Comunità,0.3038310037982045
+document_142036.html,428,441,Gran Bretagna,LOC,Q23666,Gran Bretagna,0.975764625042118
+document_142036.html,496,504,Comunità,ORG,NIL,,0.08706431127116779
+document_142036.html,744,765,Parlamento britannico,ORG,NIL,,0.06993262538723173
+document_142047.html,769,772,OUA,ORG,Q8919,Comunità europea dell'energia atomica,0.26931112059772777
+document_142051.html,279,284,Paese,LOC,Q38,Italia,0.9935315023939313
+document_142061.html,125,136,Costituente,ORG,NIL,,0.1119174498266497
+document_142061.html,1156,1175,Repubblica italiana,LOC,Q723118,Repubblica Italiana (1802-1805),0.8670447442114847
+document_142079.html,3,24,Signor Primo ministro,PER,Q14212,Primo ministro,0.4324186360920594
+document_142087.html,8,22,Primo Ministro,PER,Q14212,Primo ministro,0.6944258580525285
+document_142087.html,385,391,Canadà,LOC,NIL,,0.13021225591966573
+document_142128.html,255,262,Badioli,PER,Q3764230,Gilberto Gilioli,0.8128749766067154
+document_142128.html,472,479,Badioli,PER,Q441294,Altiero Spinelli,0.44926208853852145
+document_142145.html,372,377,Cappi,PER,Q47583,Gianfranco Fini,0.45196553550565643
+document_142145.html,386,394,Piccioni,PER,Q47651,Marco Pannella,0.8160121006686554
+document_142145.html,403,410,Gonella,PER,Q1287240,Sergio Gonella,0.9486872409364479
+document_142145.html,419,428,Cingolani,PER,Q50005,Giulio Andreotti,0.46804163976553936
+document_142145.html,437,443,Merlin,PER,Q3680782,Umberto Merlin,0.2977316886440918
+document_142145.html,452,458,Tupini,PER,Q93245607,Giorgio Tupini,0.8890911256820484
+document_142145.html,583,590,Colombo,PER,Q47583,Gianfranco Fini,0.9956048519682031
+document_142145.html,780,787,Marcora,PER,Q47651,Marco Pannella,0.8376679677030829
+document_142145.html,814,821,Cossiga,PER,NIL,,0.06483713808654898
+document_142186.html,56,67,Stati Uniti,LOC,Q856843,Stati Arabi Uniti,0.5272007612725186
+document_142196.html,7,17,Presidente,PER,Q2114942,Presidenti del Cile,0.34566530383059585
+document_142196.html,391,426,Presidente della Commissione esteri,PER,Q16975,Papa Paolo VI,0.3168889915697965
+document_142221.html,10,16,Camere,ORG,Q841424,Camera dei deputati (Italia),0.5580190134134709
+document_142221.html,381,388,Kappler,PER,Q993405,Bruno Kessler,0.524596379051613
+document_110090.html,27,49,Presidente Roos[e]velt,PER,Q2600707,Martha Root,0.5212648396373633
+document_110106.html,143,149,A.C.I.,ORG,NIL,,0.08739277234251717
+document_110106.html,292,304,Associazioni,ORG,Q48204,Associazione (diritto),0.7009759946861043
+document_122004.html,149,160,Commissione,ORG,NIL,,0.19879278448267862
+document_122004.html,335,343,Ministro,PER,NIL,,0.15977983207800808
+document_122004.html,504,513,Ministero,ORG,Q83307,Ministro,0.41978104068190364
+document_122004.html,1422,1430,Ministro,PER,Q332709,Giovanni Spadolini,0.3940080731286082
+document_122004.html,1454,1462,Marchesi,PER,Q3608401,Alberto Marchesi,0.606614265087088
+document_122004.html,1510,1519,Ministero,ORG,Q83307,Ministro,0.3069825576930906
+document_122004.html,1606,1614,Ministro,PER,NIL,,0.1849517554454972
+document_131120.html,118,130,Teatro Nuovo,ORG,Q3982080,Teatro Nuovo (Milano),0.7089067672407161
+document_132117.html,169,176,Sindaco,PER,Q30185,Sindaco,0.7420833859278263
+document_132172.html,122,125,Ice,ORG,Q97173580,ICE (azienda),0.6463920165297756
+document_132172.html,228,236,Istituto,ORG,Q1664720,Istituto,0.6827053318542549
+document_132172.html,471,474,Ice,ORG,Q789842,Ministero degli affari esteri e della cooperazione internazionale,0.4209070898174539
+document_132172.html,481,487,Donati,PER,Q104156902,Renato Donati,0.5601109061323404
+document_132172.html,554,561,Governo,ORG,Q3111999,Governo De Gasperi VII,0.6634029465081014
+document_132172.html,779,786,Governo,ORG,NIL,,0.15417161711597896
+document_132296.html,166,173,Regione,LOC,Q16110,Regione (Italia),0.2657562083999727
+document_132296.html,940,959,Consiglio regionale,ORG,Q3687395,Consiglio regionale della Lombardia,0.48435481752932774
+document_132296.html,1021,1026,Stato,ORG,Q7275,Stato,0.7788498579844975
+document_132296.html,1114,1121,Regione,LOC,NIL,,0.17383240901245328
+document_132296.html,1182,1201,Consiglio regionale,ORG,Q3687386,Consiglio regionale del Friuli-Venezia Giulia,0.6199561765723421
+document_141046.html,184,189,Paese,LOC,Q191077,Regno di Jugoslavia,0.594596587796693
+document_141046.html,234,241,Governo,ORG,Q7188,Governo,0.5255680033467129
+document_141203.html,67,107,ministro federale austriaco degli Esteri,PER,NIL,,0.05539820197293488
+document_142053.html,84,93,Bruxelles,LOC,Q9005,Bruxelles,0.9934563352752533
+document_142053.html,382,385,Usa,LOC,NIL,,0.09680952233738542
+document_142073.html,8,18,Presidente,PER,Q30461,Presidente,0.3704704916857631
+document_142073.html,153,159,Camera,ORG,Q2266479,Camera (politica),0.7314450932365961
+document_142073.html,809,816,Governo,ORG,NIL,,0.053487611725043134
+document_142083.html,197,211,Organizzazione,ORG,Q484652,Organizzazione internazionale,0.6724252426453521
+document_142116.html,76,90,Primo Ministro,PER,Q14212,Primo ministro,0.9445715130241051
+document_110032.html,46,58,Universitari,ORG,Q3918,Università,0.2657210457441502
+document_110032.html,131,143,Associazione,ORG,Q48204,Associazione (diritto),0.6495374946491742
+document_110032.html,535,538,Dio,PER,Q190,Dio,0.8395940913142618
+document_110034.html,161,189,Gioventù di Azione Cattolica,ORG,Q3318304,Azione Cattolica,0.6797291837807161
+document_110144.html,38,43,Padre,PER,Q7565,Padre,0.3171171095873451
+document_121012.html,45,53,Lombardi,PER,Q3934504,Riccardo Lombardi (politico),0.9641329620654581
+document_121021.html,363,368,Basso,PER,Q3619753,Antonio Leopoldo Basso,0.676000442507043
+document_131072.html,49,73,Presidente del Consiglio,PER,Q11696,Presidente degli Stati Uniti d'America,0.27460238208539994
+document_131072.html,434,441,Morlino,PER,Q1170132,Francesco Merlino,0.33288252406880386
+document_132115.html,237,241,AIMC,ORG,NIL,,0.13093760906230603
+document_132194.html,1125,1132,Pogdora,LOC,NIL,,0.07618672554579514
+document_132264.html,716,723,Partito,ORG,Q606620,Südtiroler Volkspartei,0.2592428075593715
+document_141097.html,54,63,Bruxelles,LOC,Q9005,Bruxelles,0.9824113383912895
+document_141172.html,206,225,Governo indonesiano,ORG,Q252,Indonesia,0.7713081012737483
+document_141172.html,250,258,Djakarta,LOC,Q27860,Jayapura,0.2357089745122736
+document_141245.html,114,117,RAE,LOC,NIL,,0.04804772061442744
+document_141245.html,178,187,Farnesina,ORG,NIL,,0.19619719518914178
+document_141245.html,224,227,RAE,LOC,NIL,,0.1781807892181817
+document_141245.html,598,605,Picardi,PER,Q1525531,Giorgio Piccardi,0.7941199662102916
+document_142149.html,88,106,Governo britannico,ORG,Q8680,Impero britannico,0.2823398211977068
