@@ -33,7 +33,6 @@ This will create the correct directory structure:
 ```
 DELICATE/
 ├── DELICATE_models/
-
 ```
 ## DELICATE Tutorial Notebook
 
@@ -53,7 +52,6 @@ python pipeline.py --config_file "configs/config_all.json" --output_dir "./test"
 
 DELICATE pairs BLINK with a GBT candidate re-ranker mechanism trained on [ENEIDE](https://github.com/sntcristian/ENEIDE). To train the reranker from scratch, you can run:
 
-Example:
 ```
 python train.py --dataset_path "../ENEIDE/v1.0/DZ/" --models_dir "./DELICATE_models" --block_size 50 --negatives 10 --output_dir "./"
 ```
