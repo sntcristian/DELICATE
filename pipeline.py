@@ -29,8 +29,8 @@ if __name__ == "__main__":
     parser.add_argument("--publication_date", type=str, default="", help="Optional publication date")
     parser.add_argument("--title", type=str, default="", help="Optional document title")
     parser.add_argument("--config_file", type=str, required=True, help="Path to configuration JSON file, e.g. configs/config_dz.json")
-    parser.add_argument("--tagset", type=str, default="DZ", choices=["DZ", "AMD"],
-                        help="Tagset to be used: 'DZ' or 'AMD'")
+    parser.add_argument("--tagset", type=str, default="ALL", choices=["DZ", "AMD", "ALL"],
+                        help="Tagset to be used: 'DZ' or 'AMD' or 'ALL'")
     parser.add_argument("--threshold_ner", type=float, default=0.9, help="Threshold of GliNER model")
     parser.add_argument("--top_k", type=int, default=50, choices=range(10, 101),
                         help=("Number of candidates to return"))

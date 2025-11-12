@@ -10,10 +10,15 @@ def load_ner_model(config_file):
 
 
 
-def get_mentions_with_ner(doc, ner_model, tagset="DZ", threshold=0.9):
+def get_mentions_with_ner(doc, ner_model, tagset="ALL", threshold=0.9):
     text = doc["text"]
     type_mapper = {"persona": "PER", "luogo": "LOC", "opera": "WORK", "organizzazione": "ORG"}
-    labels = ["persona", "luogo", "opera"] if tagset == "DZ" else ["persona", "luogo", "organizzazione"]
+    if tagset == "AMD":
+        labels = ["persona", "luogo", "organizzazione"]
+    elif tagset == "DZ":
+        labels = ["persona", "luogo", "opera"]
+    else:
+        labels = ["persona", "luogo", "opera", "organizzazione"]
     entities = ner_model.predict_entities(text, labels, threshold=threshold)
     annotations = []
     for entity in entities:
