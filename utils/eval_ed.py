@@ -5,8 +5,6 @@ import csv
 
 
 def eval_ed(data, predictions):
-    print(len(data))
-    print(len(predictions))
     tp = []
     fp = []
     fn = []
@@ -25,9 +23,9 @@ def eval_ed(data, predictions):
     accuracy = (len(tp) / (len(tp) + len(fp)))*100
     return tp, fp, fn, accuracy
 
-path_data = "../ENEIDE-data/v1.0/DZ/annotations_test"
+path_data = "../../ENEIDE/DZ/v1.0/"
 
-path_results = "./results/DZ/ED/delicate_dz"
+path_results = "../camera-ready/ED/DZ/ChatEL"
 
 dataset_name = "DZ"
 
