@@ -23,11 +23,11 @@ def eval_ed(data, predictions):
     accuracy = (len(tp) / (len(tp) + len(fp)))*100
     return tp, fp, fn, accuracy
 
-path_data = "../../ENEIDE/DZ/v1.0/"
+path_data = "../../ENEIDE/AMD/v1.0"
 
-path_results = "../camera-ready/ED/DZ/ChatEL"
+path_results = "../camera-ready/ED/AMD/ChatEL"
 
-dataset_name = "DZ"
+dataset_name = "AMD"
 
 with open(os.path.join(path_data, "annotations_test.csv"), "r", encoding="utf-8") as f1:
         data = list(csv.DictReader(f1, delimiter=","))

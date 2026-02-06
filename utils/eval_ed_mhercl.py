@@ -25,7 +25,7 @@ def eval_ed(data, predictions):
 
 path_data = "../../ENEIDE/MHERCL-ITA/"
 
-path_results = "../camera-ready/ED/MHERCL-ITA/DELICATE-LLM"
+path_results = "../camera-ready/ED/MHERCL-ITA/ChatEL"
 
 
 with open(os.path.join(path_data, "annotations_test.csv"), "r", encoding="utf-8") as f1:

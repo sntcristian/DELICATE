@@ -2,8 +2,8 @@ import csv
 import os
 
 
-result_path = "./results/AMD/EL/delicate_all"
-annotations_path = "../ENEIDE-data/v1.0/AMD/annotations_test.csv"
+result_path = "../camera-ready/EL/DZ/DELICATE-LLM"
+annotations_path = "../../ENEIDE/DZ/v1.0/annotations_test.csv"
 
 
 def compute_match(annotation1, annotation2, match_type):
