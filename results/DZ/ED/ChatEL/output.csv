@@ -1,0 +1,618 @@
+doc_id,start_pos,end_pos,surface,type,identifier,wiki_title,answer,score
+https://digitalzibaldone.net/node/p1012_2,243,249,Andrès,PER,Q2758559,Juan Andrés,"```json {""wikipedia_page"":""Juan Andrés"", ""wikidata_id"":""Q2758559""} ```",0.9370822440462534
+https://digitalzibaldone.net/node/p1012_2,276,280,Roma,LOC,Q220,Roma,"```json {""wikipedia_page"":""Roma"", ""wikidata_id"":""Q220""} ```",0.9417172574784133
+https://digitalzibaldone.net/node/p1012_2,416,422,Milano,LOC,Q490,Milano,"```json {""wikipedia_page"":""Milano"", ""wikidata_id"":""Q490""} ```",0.9995317423409458
+https://digitalzibaldone.net/node/p1012_2,529,537,Cicerone,PER,Q1541,Marco Tullio Cicerone,"```json { ""wikipedia_page"": ""Marco Tullio Cicerone"", ""wikidata_id"": ""Q1541"" } ```",0.9991417573907705
+https://digitalzibaldone.net/node/p1012_2,540,546,Andrès,PER,Q2758559,Juan Andrés,"```json { ""wikipedia_page"": ""Juan Andrés"", ""wikidata_id"": ""Q2758559"" } ```",0.9769595913009915
+https://digitalzibaldone.net/node/p1023_2,52,64,impero greco,LOC,NIL,impero greco,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1023_2,189,195,italia,LOC,Q3804214,Italia rinascimentale,"```json {""wikipedia_page"":""Italia rinascimentale"", ""wikidata_id"":""Q3804214""} ```",5.5580218964152846e-05
+https://digitalzibaldone.net/node/p1023_2,251,255,Cic.,PER,Q1541,Marco Tullio Cicerone,"```json {""wikipedia_page"": ""Marco Tullio Cicerone"", ""wikidata_id"": ""Q1541""} ```",0.917159275054723
+https://digitalzibaldone.net/node/p1023_2,262,270,Virgilio,PER,Q1398,Publio Virgilio Marone,"```json { ""wikipedia_page"": ""Publio Virgilio Marone"", ""wikidata_id"": ""Q1398"" } ```",0.9994771817273818
+https://digitalzibaldone.net/node/p1023_2,289,296,Augusto,PER,Q1405,Augusto,"```json {""wikipedia_page"":""Augusto"", ""wikidata_id"":""Q1405""} ```",0.9947320600025608
+https://digitalzibaldone.net/node/p1023_2,425,431,Andrès,PER,Q2758559,Juan Andrés,"```json {""wikipedia_page"":""Juan Andrés"", ""wikidata_id"":""Q2758559""} ```",0.906422654650595
+https://digitalzibaldone.net/node/p1034_2,62,68,Italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.999646126471963
+https://digitalzibaldone.net/node/p1037_1,40,50,᾽Eπιτάϕιος,WORK,NIL,᾽Eπιτάϕιος,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1037_1,64,73,Demostene,PER,Q117253,Demostene,"```json {""wikipedia_page"":""Demostene"", ""wikidata_id"":""Q117253""} ```",0.9969352775011994
+https://digitalzibaldone.net/node/p1040_1,280,286,Grecia,LOC,Q11772,Antica Grecia,"```json { ""wikipedia_page"": ""Antica Grecia"", ""wikidata_id"": ""Q11772"" } ```",0.9099908238238458
+https://digitalzibaldone.net/node/p1040_1,421,427,italia,LOC,Q184313,Magna Grecia,"```json {""wikipedia_page"":""Magna Grecia"", ""wikidata_id"":""Q184313""} ```",0.0037542897944370717
+https://digitalzibaldone.net/node/p1040_1,436,442,Gallie,LOC,Q38060,Gallia,"```json {""wikipedia_page"":""Gallia"", ""wikidata_id"":""Q38060""} ```",0.8854563834756228
+https://digitalzibaldone.net/node/p1040_1,642,648,Gallie,LOC,Q38060,Gallia,"```json {""wikipedia_page"":""Gallia"", ""wikidata_id"":""Q38060""} ```",0.9695459410752982
+https://digitalzibaldone.net/node/p1040_1,681,687,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.9995932931176914
+https://digitalzibaldone.net/node/p1040_1,721,728,Sicilia,LOC,Q1460,Sicilia,"```json {""wikipedia_page"":""Sicilia"", ""wikidata_id"":""Q1460""} ```",0.9872123900265944
+https://digitalzibaldone.net/node/p1040_1,740,746,Gallie,LOC,Q38060,Gallia,"```json {""wikipedia_page"":""Gallia"", ""wikidata_id"":""Q38060""} ```",0.9740217073464481
+https://digitalzibaldone.net/node/p1040_1,1300,1306,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38"" } ```",0.9994492217495231
+https://digitalzibaldone.net/node/p1040_1,1312,1319,Francia,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.9975095036288898
+https://digitalzibaldone.net/node/p1040_1,1610,1616,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9995802019146861
+https://digitalzibaldone.net/node/p1040_1,1622,1629,Francia,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.998622075976336
+https://digitalzibaldone.net/node/p1042_2,208,214,italia,LOC,Q913582,Italia romana,"```json {""wikipedia_page"":""Italia romana"", ""wikidata_id"":""Q913582""} ```",0.004548980897171542
+https://digitalzibaldone.net/node/p1042_2,333,339,Gallie,LOC,Q38060,Gallia,"```json { ""wikipedia_page"": ""Gallia"", ""wikidata_id"": ""Q38060"" } ```",0.9297058030228378
+https://digitalzibaldone.net/node/p1042_2,432,436,Roma,LOC,Q220,Roma,"```json { ""wikipedia_page"": ""Roma"", ""wikidata_id"": ""Q220"" } ```",0.9239604662581462
+https://digitalzibaldone.net/node/p1042_2,442,448,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9993193237870104
+https://digitalzibaldone.net/node/p1042_2,622,626,Roma,LOC,Q18287233,Roma (città antica),"```json { ""wikipedia_page"": ""Roma (città antica)"", ""wikidata_id"": ""Q18287233"" } ```",0.5506418154581966
+https://digitalzibaldone.net/node/p1042_2,632,638,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9922173774981086
+https://digitalzibaldone.net/node/p1042_2,965,971,Gallie,LOC,Q38060,Gallia,"```json { ""wikipedia_page"": ""Gallia"", ""wikidata_id"": ""Q38060"" } ```",0.9716434947517041
+https://digitalzibaldone.net/node/p1042_2,1112,1118,italia,LOC,Q184313,Magna Grecia,"```json { ""wikipedia_page"": ""Magna Grecia"", ""wikidata_id"": ""Q184313"" } ```",0.0019628224470891876
+https://digitalzibaldone.net/node/p1042_2,1171,1178,Francia,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.9977262420493596
+https://digitalzibaldone.net/node/p1045_2,3,10,Francia,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.9974989217085335
+https://digitalzibaldone.net/node/p1045_2,595,606,inghilterra,LOC,Q21,Inghilterra,"```json {""wikipedia_page"":""Inghilterra"", ""wikidata_id"":""Q21""} ```",0.9495966587584767
+https://digitalzibaldone.net/node/p1045_2,741,747,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9950240091873227
+https://digitalzibaldone.net/node/p1045_2,804,810,Andrès,PER,NIL,Andrès,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1045_2,888,894,europa,LOC,Q46,Europa,"```json { ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" } ```",0.9995060964306267
+https://digitalzibaldone.net/node/p1045_2,997,1008,Shakespeare,PER,Q692,William Shakespeare,"```json {""wikipedia_page"":""William Shakespeare"", ""wikidata_id"":""Q692""} ```",0.9935595987868292
+https://digitalzibaldone.net/node/p1045_2,1074,1081,Francia,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.9713996232709794
+https://digitalzibaldone.net/node/p1048_2,902,913,Castelvetro,PER,Q936665,Lodovico Castelvetro,"```json {""wikipedia_page"":""Lodovico Castelvetro"", ""wikidata_id"":""Q936665""} ```",0.9964854010369417
+https://digitalzibaldone.net/node/p1049_1,300,306,Orazio,PER,Q6197,Quinto Orazio Flacco,"```json { ""wikipedia_page"": ""Quinto Orazio Flacco"", ""wikidata_id"": ""Q6197"" } ```",0.9911896778732808
+https://digitalzibaldone.net/node/p1052_3,59,63,Cic.,PER,Q1541,Marco Tullio Cicerone,"```json { ""wikipedia_page"": ""Marco Tullio Cicerone"", ""wikidata_id"": ""Q1541"" } ```",0.9355019392634483
+https://digitalzibaldone.net/node/p1052_3,74,86,de Senectute,WORK,Q1051232,Cato Maior de senectute,"```json {""wikipedia_page"":""Cato Maior de senectute"", ""wikidata_id"":""Q1051232""} ```",0.3458486143003057
+https://digitalzibaldone.net/node/p1054_2,146,152,Sulzer,PER,Q116036,Johann Georg Sulzer,"```json {""wikipedia_page"":""Johann Georg Sulzer"", ""wikidata_id"":""Q116036""} ```",0.9837812838461294
+https://digitalzibaldone.net/node/p1054_2,330,340,Forcellini,WORK,NIL,Forcellini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1054_2,347,387,Saggio sugli Errori popol. degli antichi,WORK,NIL,Saggio sugli Errori popol. degli antichi,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1055_2,128,133,Soave,PER,NIL,Soave,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1055_2,170,179,Compendio,WORK,NIL,Compendio,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1055_2,183,188,Locke,PER,Q9353,John Locke,"```json { ""wikipedia_page"": ""John Locke"", ""wikidata_id"": ""Q9353"" } ```",0.9708810147087601
+https://digitalzibaldone.net/node/p1055_2,190,197,Venezia,LOC,Q641,Venezia,"```json {""wikipedia_page"":""Venezia"", ""wikidata_id"":""Q641""} ```",0.9919916789150091
+https://digitalzibaldone.net/node/p1056_3,425,433,Cicerone,PER,Q1541,Marco Tullio Cicerone,"```json {""wikipedia_page"":""Marco Tullio Cicerone"", ""wikidata_id"":""Q1541""} ```",0.9987757689230573
+https://digitalzibaldone.net/node/p1056_3,441,447,Plauto,PER,Q47160,Tito Maccio Plauto,"```json {""wikipedia_page"": ""Tito Maccio Plauto"", ""wikidata_id"": ""Q47160""} ```",0.9857182396298885
+https://digitalzibaldone.net/node/p1056_3,453,461,Terenzio,PER,NIL,Terenzio,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1065_3,544,575,Scelta di Opuscoli interessanti,WORK,NIL,Scelta di Opuscoli interessanti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1065_3,577,583,Milano,LOC,Q490,Milano,"```json {""wikipedia_page"":""Milano"", ""wikidata_id"":""Q490""} ```",0.980433262938205
+https://digitalzibaldone.net/node/p1104_1,502,513,Franciosini,PER,Q1767444,Lorenzo Franciosini,"```json {""wikipedia_page"": ""Lorenzo Franciosini"", ""wikidata_id"": ""Q1767444""} ```",0.942792328561776
+https://digitalzibaldone.net/node/p1104_1,637,642,Dante,PER,Q1067,Dante Alighieri,"```json {""wikipedia_page"":""Dante Alighieri"", ""wikidata_id"":""Q1067""} ```",0.9952408582154201
+https://digitalzibaldone.net/node/p1104_1,650,659,la Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.20589097974902235
+https://digitalzibaldone.net/node/p1105_1,234,248,il Forcellini.,WORK,NIL,il Forcellini.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1105_3,250,258,Virgilio,PER,Q1398,Publio Virgilio Marone,"```json {""wikipedia_page"":""Publio Virgilio Marone"", ""wikidata_id"":""Q1398""} ```",0.9976006743241967
+https://digitalzibaldone.net/node/p1105_3,260,264,Aen.,WORK,NIL,Aen.,"```json {""wikipedia_page"":""Aeneide"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1105_3,313,327,lido Siciliano,LOC,NIL,lido Siciliano,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1105_3,1017,1020,En.,WORK,Q5292,Enciclopedia,"```json {""wikipedia_page"":""Enciclopedia"", ""wikidata_id"":""Q5292""} ```",0.08110413831571972
+https://digitalzibaldone.net/node/p1139_1,678,686,Palamede,PER,NIL,Palamede,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1139_1,688,693,Plin.,PER,NIL,Plin.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1139_1,758,765,Servius,PER,NIL,Servius,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1139_1,766,773,ad Aen.,WORK,NIL,ad Aen.,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1139_1,793,800,Fabric.,PER,NIL,Fabric.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1139_1,801,806,B. G.,WORK,NIL,B. G.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1139_1,823,833,il Lessico,WORK,NIL,il Lessico,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1139_1,839,847,Hofmanno,PER,NIL,Hofmanno,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1139_1,1249,1276,Annali di Scienze e lettere,WORK,NIL,Annali di Scienze e lettere,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1139_1,1278,1284,Milano,LOC,Q490,Milano,"```json { ""wikipedia_page"": ""Milano"", ""wikidata_id"": ""Q490"" } ```",0.9884922120212484
+https://digitalzibaldone.net/node/p1148_1,28,38,Forcellini,PER,Q550353,Egidio Forcellini,"```json { ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" } ```",0.987623809152779
+https://digitalzibaldone.net/node/p1213_1,42,48,europa,LOC,Q46,Europa,"```json { ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" } ```",0.993280499140734
+https://digitalzibaldone.net/node/p1213_1,352,358,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9995250995882585
+https://digitalzibaldone.net/node/p1213_1,1018,1024,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.995686734630392
+https://digitalzibaldone.net/node/p1213_1,1515,1521,europa,LOC,Q46,Europa,"```json { ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" } ```",0.9997022097980018
+https://digitalzibaldone.net/node/p1213_1,1696,1702,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9995761637748551
+https://digitalzibaldone.net/node/p1213_1,1716,1722,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9993193237870104
+https://digitalzibaldone.net/node/p1213_1,1779,1785,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9995550889731948
+https://digitalzibaldone.net/node/p1213_1,2090,2096,europa,LOC,Q46,Europa,"```json { ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" } ```",0.9994900446325101
+https://digitalzibaldone.net/node/p1213_1,2370,2376,europa,LOC,Q46,Europa,"```json { ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" } ```",0.9995662445478395
+https://digitalzibaldone.net/node/p1217_1,57,68,Vocabolario,WORK,NIL,Vocabolario,"```json { ""wikipedia_page"": ""Vocabolario"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1230_1,23,33,Forcellini,PER,Q550353,Egidio Forcellini,"```json {""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353""} ```",0.9252110189080216
+https://digitalzibaldone.net/node/p1230_1,162,168,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.3985452383531534
+https://digitalzibaldone.net/node/p1230_1,186,191,Dante,PER,Q1067,Dante Alighieri,"```json {""wikipedia_page"":""Dante Alighieri"", ""wikidata_id"":""Q1067""} ```",0.9864961803319091
+https://digitalzibaldone.net/node/p1230_1,203,211,Soderini,PER,Q1102344,Giovan Vettorio Soderini,"```json {""wikipedia_page"": ""Giovan Vettorio Soderini"", ""wikidata_id"": ""Q1102344""} ```",0.8772017832302919
+https://digitalzibaldone.net/node/p1230_1,435,451,Storie Pistolesi,WORK,NIL,Storie Pistolesi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1230_1,458,464,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.23091293886898126
+https://digitalzibaldone.net/node/p1230_1,484,516,Storia della Guerra di Semifonte,WORK,NIL,Storia della Guerra di Semifonte,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1230_1,528,547,M. Pace da Certaldo,PER,NIL,M. Pace da Certaldo,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1230_1,549,556,Firenze,LOC,Q2044,Firenze,"```json { ""wikipedia_page"": ""Firenze"", ""wikidata_id"": ""Q2044"" } ```",0.999696724331524
+https://digitalzibaldone.net/node/p1230_1,771,789,Lettera a V. Monti,WORK,NIL,Lettera a V. Monti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1230_1,793,810,Vincenzo Lancetti,PER,NIL,Vincenzo Lancetti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1230_1,870,876,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.302044236490166
+https://digitalzibaldone.net/node/p1230_1,894,900,Milano,LOC,Q490,Milano,"```json {""wikipedia_page"":""Milano"", ""wikidata_id"":""Q490""} ```",0.9995142020943942
+https://digitalzibaldone.net/node/p1230_1,983,989,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.13573088724107735
+https://digitalzibaldone.net/node/p1230_1,1094,1100,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.31027407351991837
+https://digitalzibaldone.net/node/p1230_1,1147,1158,Il Du Cange,WORK,NIL,Il Du Cange,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1233_1,92,98,europa,LOC,Q46,Europa,"```json { ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" } ```",0.9996315606408832
+https://digitalzibaldone.net/node/p1256_2,106,111,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9955604685389392
+https://digitalzibaldone.net/node/p1256_2,164,173,Raffaello,PER,Q5597,Raffaello Sanzio,"```json { ""wikipedia_page"": ""Raffaello Sanzio"", ""wikidata_id"": ""Q5597"" } ```",0.9963931470154322
+https://digitalzibaldone.net/node/p1256_2,1083,1088,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9967517212651561
+https://digitalzibaldone.net/node/p1260_2,160,167,Alfieri,PER,Q296244,Vittorio Alfieri,"```json {""wikipedia_page"":""Vittorio Alfieri"", ""wikidata_id"":""Q296244""} ```",0.9313720123112447
+https://digitalzibaldone.net/node/p1270_2,815,827,Sir W. Jones,PER,Q273969,William Jones (filologo),"```json {""wikipedia_page"":""William Jones (filologo)"", ""wikidata_id"":""Q273969""} ```",0.9442849696023028
+https://digitalzibaldone.net/node/p1290_1,731,737,Morery,PER,NIL,Morery,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1290_1,739,768,Grand dictionnaire historique,WORK,NIL,Grand dictionnaire historique,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1290_1,795,801,Calmet,PER,Q767668,Agostino Calmet,"```json {""wikipedia_page"":""Agostino Calmet"", ""wikidata_id"":""Q767668""} ```",0.7582459943758756
+https://digitalzibaldone.net/node/p1290_1,807,815,Prideaux,PER,NIL,Prideaux,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1290_1,821,827,Vossio,PER,NIL,Vossio,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1290_1,1184,1190,Bibbia,WORK,Q1845,Bibbia,"```json {""wikipedia_page"":""Bibbia"", ""wikidata_id"":""Q1845""} ```",0.9827142200563652
+https://digitalzibaldone.net/node/p1292_1,108,113,Monti,PER,Q723643,Vincenzo Monti,"```json {""wikipedia_page"":""Vincenzo Monti"", ""wikidata_id"":""Q723643""} ```",0.980138802121859
+https://digitalzibaldone.net/node/p1302_1,910,917,Gravina,PER,Q727363,Gian Vincenzo Gravina,"```json { ""wikipedia_page"": ""Gian Vincenzo Gravina"", ""wikidata_id"": ""Q727363"" } ```",0.657404230783534
+https://digitalzibaldone.net/node/p1313_1,135,151,Daniello Bartoli,PER,Q2283604,Daniello Bartoli,"```json { ""wikipedia_page"": ""Daniello Bartoli"", ""wikidata_id"": ""Q2283604"" } ```",0.9995992687608747
+https://digitalzibaldone.net/node/p1313_1,232,237,Monti,PER,Q723643,Vincenzo Monti,"```json { ""wikipedia_page"": ""Vincenzo Monti"", ""wikidata_id"": ""Q723643"" } ```",0.9934268002829666
+https://digitalzibaldone.net/node/p1313_1,239,247,Proposta,WORK,NIL,Proposta,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1313_1,605,612,Bartoli,PER,Q2283604,Daniello Bartoli,"```json { ""wikipedia_page"": ""Daniello Bartoli"", ""wikidata_id"": ""Q2283604"" } ```",0.3970683713166231
+https://digitalzibaldone.net/node/p1313_1,1070,1075,Dante,PER,Q1067,Dante Alighieri,"```json { ""wikipedia_page"": ""Dante Alighieri"", ""wikidata_id"": ""Q1067"" } ```",0.9916297889865187
+https://digitalzibaldone.net/node/p1327_1,101,110,Marmontel,PER,Q379923,Jean-François Marmontel,"```json {""wikipedia_page"":""Jean-François Marmontel"", ""wikidata_id"":""Q379923""} ```",0.8382871984759752
+https://digitalzibaldone.net/node/p1329_1,48,54,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.999417721391868
+https://digitalzibaldone.net/node/p1329_1,306,312,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9993338396379406
+https://digitalzibaldone.net/node/p1329_1,356,364,Lancetti,PER,NIL,Lancetti,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1329_1,368,373,Monti,PER,NIL,Monti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1329_1,380,388,Proposta,WORK,NIL,Proposta,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1336_2,412,417,Monti,PER,Q723643,Vincenzo Monti,"```json { ""wikipedia_page"":""Vincenzo Monti"", ""wikidata_id"":""Q723643"" } ```",0.9948740581950042
+https://digitalzibaldone.net/node/p1350_1,163,169,Sulzer,PER,Q116036,Johann Georg Sulzer,"```json { ""wikipedia_page"": ""Johann Georg Sulzer"", ""wikidata_id"": ""Q116036"" } ```",0.2231484274133968
+https://digitalzibaldone.net/node/p1350_1,202,208,Milano,LOC,Q490,Milano,"```json { ""wikipedia_page"": ""Milano"", ""wikidata_id"": ""Q490"" } ```",0.97757601560771
+https://digitalzibaldone.net/node/p1350_1,305,308,ib.,WORK,NIL,ib.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1366_1,14,19,Dante,PER,Q1067,Dante Alighieri,"```json { ""wikipedia_page"": ""Dante Alighieri"", ""wikidata_id"": ""Q1067"" } ```",0.9960498427354774
+https://digitalzibaldone.net/node/p1366_1,21,26,Petr.,PER,Q1401,Francesco Petrarca,"```json { ""wikipedia_page"": ""Francesco Petrarca"", ""wikidata_id"": ""Q1401"" } ```",0.5802378082646199
+https://digitalzibaldone.net/node/p1366_1,27,32,Bocc.,PER,Q1402,Giovanni Boccaccio,"```json { ""wikipedia_page"": ""Giovanni Boccaccio"", ""wikidata_id"": ""Q1402"" } ```",0.7515341204622507
+https://digitalzibaldone.net/node/p1366_1,293,298,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9981875454860009
+https://digitalzibaldone.net/node/p1366_1,323,329,Grecia,LOC,Q41,Grecia,"```json {""wikipedia_page"":""Grecia"", ""wikidata_id"":""Q41""} ```",0.6181827705745138
+https://digitalzibaldone.net/node/p1366_1,511,516,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.9992176066280181
+https://digitalzibaldone.net/node/p1366_1,547,552,Monti,PER,Q723643,Vincenzo Monti,"```json {""wikipedia_page"":""Vincenzo Monti"", ""wikidata_id"":""Q723643""} ```",0.9892737989095631
+https://digitalzibaldone.net/node/p1366_1,590,598,Proposta,WORK,NIL,Proposta,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p1366_1,684,689,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.9994690542317801
+https://digitalzibaldone.net/node/p1366_1,723,728,Dante,PER,Q1067,Dante Alighieri,"```json {""wikipedia_page"": ""Dante Alighieri"", ""wikidata_id"": ""Q1067""} ```",0.9947989237650754
+https://digitalzibaldone.net/node/p1366_1,737,742,Dante,PER,Q1067,Dante Alighieri,"```json {""wikipedia_page"":""Dante Alighieri"", ""wikidata_id"":""Q1067""} ```",0.9937083605487034
+https://digitalzibaldone.net/node/p1366_1,781,786,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9304921603303182
+https://digitalzibaldone.net/node/p1378_1,721,726,Gelli,PER,Q518160,Giovan Battista Gelli,"```json { ""wikipedia_page"": ""Giovan Battista Gelli"", ""wikidata_id"": ""Q518160"" } ```",0.9782000891609465
+https://digitalzibaldone.net/node/p1378_1,728,733,Circe,WORK,NIL,Circe,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p1378_1,790,797,Segneri,PER,NIL,Segneri,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1378_1,798,807,Incredulo,WORK,NIL,Incredulo,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1445_1,129,135,Thomas,PER,NIL,Thomas,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1445_1,136,156,Essai sur les Eloges,WORK,NIL,Essai sur les Eloges,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1445_1,210,217,Meursio,PER,NIL,Meursio,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1445_1,248,279,de Festis Graecorum o Romanorum,WORK,NIL,de Festis Graecorum o Romanorum,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1447_3,398,406,Porfirio,PER,Q203445,Porfirio,"```json { ""wikipedia_page"": ""Porfirio"", ""wikidata_id"": ""Q203445"" } ```",0.9973286032332281
+https://digitalzibaldone.net/node/p1447_3,408,421,"Vit. Plotini,",WORK,NIL,"Vit. Plotini,","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1450_1,1012,1022,il Rinaldo,WORK,Q3792913,Il Rinaldo,"```json {""wikipedia_page"":""Il Rinaldo"", ""wikidata_id"":""Q3792913""} ```",0.9266223203602191
+https://digitalzibaldone.net/node/p1450_1,1027,1032,Tasso,PER,Q168962,Torquato Tasso,"```json {""wikipedia_page"":""Torquato Tasso"", ""wikidata_id"":""Q168962""} ```",0.9985030370217022
+https://digitalzibaldone.net/node/p1450_1,1058,1068,Metastasio,PER,Q29473,Pietro Metastasio,"```json {""wikipedia_page"":""Pietro Metastasio"", ""wikidata_id"":""Q29473""} ```",0.9814487512493139
+https://digitalzibaldone.net/node/p1450_1,1076,1083,Alfieri,PER,Q296244,Vittorio Alfieri,"```json {""wikipedia_page"":""Vittorio Alfieri"", ""wikidata_id"":""Q296244""} ```",0.9856154505608665
+https://digitalzibaldone.net/node/p1454_1,529,536,Alfieri,PER,Q296244,Vittorio Alfieri,"```json {""wikipedia_page"":""Vittorio Alfieri"", ""wikidata_id"":""Q296244""} ```",0.9767054259071537
+https://digitalzibaldone.net/node/p1454_1,561,565,vita,WORK,NIL,vita,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1468_1,92,100,Cartesio,PER,Q9191,Cartesio,"```json {""wikipedia_page"": ""Cartesio"", ""wikidata_id"": ""Q9191""} ```",0.9795993542645405
+https://digitalzibaldone.net/node/p1468_1,822,828,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9930705305575405
+https://digitalzibaldone.net/node/p1487_1,328,334,Sulzer,PER,Q116036,Johann Georg Sulzer,"```json {""wikipedia_page"":""Johann Georg Sulzer"", ""wikidata_id"":""Q116036""} ```",0.7716746804664752
+https://digitalzibaldone.net/node/p1501_1,373,379,spagne,LOC,NIL,spagne,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1501_1,387,394,francia,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.9990732021778932
+https://digitalzibaldone.net/node/p1501_1,399,405,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.9995612998798277
+https://digitalzibaldone.net/node/p1515_1,208,214,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.9997715308712136
+https://digitalzibaldone.net/node/p1515_1,220,226,spagna,LOC,Q29,Spagna,"```json { ""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29"" } ```",0.9999317229709533
+https://digitalzibaldone.net/node/p1515_1,232,243,inghilterra,LOC,Q21,Inghilterra,"```json { ""wikipedia_page"": ""Inghilterra"", ""wikidata_id"": ""Q21"" } ```",0.998676133656955
+https://digitalzibaldone.net/node/p1557_1,104,109,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.8630813436031948
+https://digitalzibaldone.net/node/p1589_2,829,836,Bologna,LOC,Q1891,Bologna,"```json {""wikipedia_page"":""Bologna"", ""wikidata_id"":""Q1891""} ```",0.997298581223633
+https://digitalzibaldone.net/node/p1601_1,602,607,Celso,PER,Q312420,Aulo Cornelio Celso,"```json {""wikipedia_page"":""Aulo Cornelio Celso"", ""wikidata_id"":""Q312420""} ```",0.938918607397432
+https://digitalzibaldone.net/node/p1601_1,653,664,Montesquieu,PER,NIL,Montesquieu,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1601_1,665,673,Grandeur,WORK,NIL,Grandeur,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1601_1,856,861,Celso,PER,Q312420,Aulo Cornelio Celso,"```json {""wikipedia_page"":""Aulo Cornelio Celso"", ""wikidata_id"":""Q312420""} ```",0.9838182068281028
+https://digitalzibaldone.net/node/p1650_1,363,368,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9978375792473797
+https://digitalzibaldone.net/node/p1659_1,514,521,Wieland,PER,NIL,Wieland,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1659_1,1041,1046,Dante,PER,Q1067,Dante Alighieri,"```json { ""wikipedia_page"": ""Dante Alighieri"", ""wikidata_id"": ""Q1067"" } ```",0.9884562534166532
+https://digitalzibaldone.net/node/p1659_1,1048,1056,Petrarca,PER,Q1401,Francesco Petrarca,"```json { ""wikipedia_page"": ""Francesco Petrarca"", ""wikidata_id"": ""Q1401"" } ```",0.9990458180673557
+https://digitalzibaldone.net/node/p1659_1,1064,1073,Perticari,PER,NIL,Perticari,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1659_1,1822,1830,Salviati,PER,NIL,Salviati,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1671_1,421,429,Germania,LOC,Q183,Germania,"```json {""wikipedia_page"":""Germania"", ""wikidata_id"":""Q183""} ```",0.9902723622132479
+https://digitalzibaldone.net/node/p1671_1,1046,1052,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9877235187168729
+https://digitalzibaldone.net/node/p1671_1,1084,1092,Sismondi,PER,Q124073,Jean Charles Léonard Simonde de Sismondi,"```json { ""wikipedia_page"": ""Jean Charles Léonard Simonde de Sismondi"", ""wikidata_id"": ""Q124073"" } ```",0.6855324221835625
+https://digitalzibaldone.net/node/p1671_1,1099,1106,Lusiade,WORK,NIL,Lusiade,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1671_1,1137,1148,Gerusalemme,WORK,Q1053313,Gerusalemme liberata,"```json { ""wikipedia_page"": ""Gerusalemme liberata"", ""wikidata_id"": ""Q1053313"" } ```",0.9730121305348461
+https://digitalzibaldone.net/node/p1671_1,1240,1245,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.999181253098223
+https://digitalzibaldone.net/node/p1671_1,1251,1259,Virgilio,PER,Q1398,Publio Virgilio Marone,"```json {""wikipedia_page"":""Publio Virgilio Marone"", ""wikidata_id"":""Q1398""} ```",0.9940519981375675
+https://digitalzibaldone.net/node/p1671_1,1321,1331,il Furioso,WORK,Q48922,Orlando furioso,"```json {""wikipedia_page"":""Orlando furioso"", ""wikidata_id"":""Q48922""} ```",0.5136289135773113
+https://digitalzibaldone.net/node/p1671_1,1340,1351,il Goffredo,WORK,NIL,il Goffredo,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1671_1,1993,1999,iliade,WORK,Q8275,Iliade,"```json { ""wikipedia_page"": ""Iliade"", ""wikidata_id"": ""Q8275"" } ```",0.944353015586053
+https://digitalzibaldone.net/node/p1671_1,2004,2011,odissea,WORK,Q35160,Odissea,"```json { ""wikipedia_page"": ""Odissea"", ""wikidata_id"": ""Q35160"" } ```",0.994638240037606
+https://digitalzibaldone.net/node/p1671_1,2036,2042,Eneide,WORK,Q60220,Eneide,"```json { ""wikipedia_page"": ""Eneide"", ""wikidata_id"": ""Q60220"" } ```",0.9964436338557842
+https://digitalzibaldone.net/node/p1671_1,2151,2157,iliade,WORK,Q8275,Iliade,"```json {""wikipedia_page"":""Iliade"", ""wikidata_id"":""Q8275""} ```",0.9990004186336126
+https://digitalzibaldone.net/node/p1671_1,2175,2181,Eneide,WORK,Q60220,Eneide,"```json {""wikipedia_page"":""Eneide"", ""wikidata_id"":""Q60220""} ```",0.9994039857342149
+https://digitalzibaldone.net/node/p1678_1,358,364,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9993338396379406
+https://digitalzibaldone.net/node/p1678_1,383,388,monti,PER,NIL,monti,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1678_1,390,398,Proposta,WORK,NIL,Proposta,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1678_1,637,643,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.19742122188200179
+https://digitalzibaldone.net/node/p1678_1,691,697,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.1617756833566006
+https://digitalzibaldone.net/node/p1678_1,751,757,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.4285940448842265
+https://digitalzibaldone.net/node/p1699_2,1323,1334,Veterinaria,WORK,NIL,Veterinaria,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1699_2,1338,1345,Vegezio,PER,Q4298,Publio Vegezio Renato,"```json { ""wikipedia_page"": ""Publio Vegezio Renato"", ""wikidata_id"": ""Q4298"" } ```",0.9757033567819596
+https://digitalzibaldone.net/node/p1699_2,1391,1396,Cioni,PER,NIL,Cioni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1699_2,1398,1405,Lettera,WORK,NIL,Lettera,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1699_2,1408,1418,G. Capponi,PER,NIL,G. Capponi,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1699_2,1425,1434,Pelagonio,PER,Q788340,Pelagonio,"```json {""wikipedia_page"":""Pelagonio"", ""wikidata_id"":""Q788340""} ```",0.997260470525988
+https://digitalzibaldone.net/node/p1717_1,61,70,Periandro,PER,Q328793,Periandro,"```json {""wikipedia_page"":""Periandro"", ""wikidata_id"":""Q328793""} ```",0.9455001223816215
+https://digitalzibaldone.net/node/p1720_1,200,208,Cartesio,PER,Q9191,Cartesio,"```json {""wikipedia_page"":""Cartesio"", ""wikidata_id"":""Q9191""} ```",0.9696237728228059
+https://digitalzibaldone.net/node/p1773_1,447,452,Adamo,PER,Q70899,Adamo,"```json {""wikipedia_page"":""Adamo"", ""wikidata_id"":""Q70899""} ```",0.9508239566267982
+https://digitalzibaldone.net/node/p1794_1,157,165,Agesilao,PER,Q271850,Agesilao II,"```json {""wikipedia_page"":""Agesilao II"", ""wikidata_id"":""Q271850""} ```",0.5554800553600185
+https://digitalzibaldone.net/node/p1794_1,193,202,Senofonte,PER,Q129772,Senofonte,"```json { ""wikipedia_page"": ""Senofonte"", ""wikidata_id"": ""Q129772"" } ```",0.9999931512187906
+https://digitalzibaldone.net/node/p1794_1,230,251,Coti re de' Paflagoni,PER,NIL,Coti re de' Paflagoni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1794_1,274,283,Senofonte,PER,Q129772,Senofonte,"```json { ""wikipedia_page"": ""Senofonte"", ""wikidata_id"": ""Q129772"" } ```",0.9998177290959345
+https://digitalzibaldone.net/node/p1794_1,335,354,῾Eλληνικῶν ἱστοριῶν,WORK,NIL,῾Eλληνικῶν ἱστοριῶν,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1822_1,605,614,Sallustio,WORK,Q7170,Gaio Sallustio Crispo,"```json { ""wikipedia_page"": ""Gaio Sallustio Crispo"", ""wikidata_id"": ""Q7170"" } ```",0.9433944148701204
+https://digitalzibaldone.net/node/p1822_1,618,634,Dureau Delamalle,PER,Q677943,Adolphe Dureau de la Malle,"```json {""wikipedia_page"":""Adolphe Dureau de la Malle"", ""wikidata_id"":""Q677943""} ```",0.9717862046771004
+https://digitalzibaldone.net/node/p1831_1,296,316,mezzogiorno d'Europa,LOC,Q27449,Europa meridionale,"```json {""wikipedia_page"": ""Europa meridionale"", ""wikidata_id"": ""Q27449""} ```",0.33703303060076784
+https://digitalzibaldone.net/node/p1858_1,20,29,Copernico,PER,Q619,Niccolò Copernico,"```json { ""wikipedia_page"": ""Niccolò Copernico"", ""wikidata_id"": ""Q619"" } ```",0.9935862849721824
+https://digitalzibaldone.net/node/p1858_1,279,288,Pittagora,PER,Q10261,Pitagora,"```json {""wikipedia_page"": ""Pitagora"", ""wikidata_id"": ""Q10261""} ```",0.10336487018270926
+https://digitalzibaldone.net/node/p1858_1,292,309,Aristarco di Samo,PER,Q140188,Aristarco di Samo,"```json { ""wikipedia_page"": ""Aristarco di Samo"", ""wikidata_id"": ""Q140188"" } ```",0.9979457408758301
+https://digitalzibaldone.net/node/p1858_1,315,328,Card. di Cusa,PER,NIL,Card. di Cusa,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1867_1,1881,1893,Guicciardini,PER,Q44601,Francesco Guicciardini,"```json {""wikipedia_page"":""Francesco Guicciardini"", ""wikidata_id"":""Q44601""} ```",0.8962213738203768
+https://digitalzibaldone.net/node/p1867_1,1912,1933,Considerazioni civili,WORK,NIL,Considerazioni civili,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1867_1,1937,1955,Remigio Fiorentino,PER,NIL,Remigio Fiorentino,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1867_1,1965,1973,Historie,WORK,Q3973880,Storia d'Italia (Guicciardini),"```json {""wikipedia_page"": ""Storia d'Italia (Guicciardini)"", ""wikidata_id"": ""Q3973880""} ```",0.22874632945707443
+https://digitalzibaldone.net/node/p1867_1,1980,1992,Guicciardini,PER,Q44601,Francesco Guicciardini,"```json { ""wikipedia_page"": ""Francesco Guicciardini"", ""wikidata_id"": ""Q44601"" } ```",0.3636266487694645
+https://digitalzibaldone.net/node/p1950_1,220,225,Staël,PER,NIL,Staël,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1980_1,396,401,Celso,PER,Q312420,Aulo Cornelio Celso,"```json {""wikipedia_page"":""Aulo Cornelio Celso"", ""wikidata_id"":""Q312420""} ```",0.9814129410296268
+https://digitalzibaldone.net/node/p1980_1,402,427,sull'orig. della medicina,WORK,NIL,sull'orig. della medicina,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1987_1,282,287,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.9978357918709321
+https://digitalzibaldone.net/node/p1999_2,1609,1616,Francia,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.9972137783758914
+https://digitalzibaldone.net/node/p2001_1,27,34,Francia,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.9998754736717594
+https://digitalzibaldone.net/node/p2708_1,0,8,Cartesio,PER,Q9191,Cartesio,"```json {""wikipedia_page"":""Cartesio"", ""wikidata_id"":""Q9191""} ```",0.9694447375506811
+https://digitalzibaldone.net/node/p2708_1,171,179,Cartesio,PER,Q9191,Cartesio,"```json { ""wikipedia_page"": ""Cartesio"", ""wikidata_id"": ""Q9191"" } ```",0.982005460519707
+https://digitalzibaldone.net/node/p2708_1,426,432,Newton,PER,Q935,Isaac Newton,"```json {""wikipedia_page"":""Isaac Newton"", ""wikidata_id"":""Q935""} ```",0.9945968936936563
+https://digitalzibaldone.net/node/p2708_1,591,598,Platone,PER,Q859,Platone,"```json {""wikipedia_page"":""Platone"", ""wikidata_id"":""Q859""} ```",0.9998264166278847
+https://digitalzibaldone.net/node/p2711_1,1276,1286,California,LOC,Q99,California,"```json { ""wikipedia_page"": ""California"", ""wikidata_id"": ""Q99"" } ```",0.9561918189458507
+https://digitalzibaldone.net/node/p2735_1,374,378,Cic.,PER,Q1541,Marco Tullio Cicerone,"```json {""wikipedia_page"":""Marco Tullio Cicerone"", ""wikidata_id"":""Q1541""} ```",0.9905104617745424
+https://digitalzibaldone.net/node/p2735_1,380,402,Orat. pro Archia poeta,WORK,Q3922215,Pro Archia poeta,"```json {""wikipedia_page"":""Pro Archia poeta"", ""wikidata_id"":""Q3922215""} ```",0.9959210963594248
+https://digitalzibaldone.net/node/p2735_1,880,893,impero latino,LOC,NIL,impero latino,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2735_1,944,952,Cicerone,PER,Q1541,Marco Tullio Cicerone,"```json {""wikipedia_page"":""Marco Tullio Cicerone"", ""wikidata_id"":""Q1541""} ```",0.9994657610014691
+https://digitalzibaldone.net/node/p2771_1,241,245,Caro,PER,NIL,Caro,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2778_1,1690,1696,Ammon.,PER,NIL,Ammon.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2778_1,1697,1721,de Different. vocabulor.,WORK,NIL,de Different. vocabulor.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2778_1,1742,1747,Plat.,PER,NIL,Plat.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2778_1,1753,1760,Demost.,PER,NIL,Demost.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2778_1,1767,1773,epist.,WORK,NIL,epist.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2779_2,474,483,la Gramm.,WORK,NIL,la Gramm.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2779_2,487,491,Pad.,LOC,NIL,Pad.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p2825_2,388,396,Eustazio,PER,Q453465,Eustazio di Tessalonica,"```json {""wikipedia_page"":""Eustazio di Tessalonica"", ""wikidata_id"":""Q453465""} ```",0.13530519337498956
+https://digitalzibaldone.net/node/p2825_2,535,543,Epifanio,PER,Q313922,Epifanio di Salamina,"```json { ""wikipedia_page"": ""Epifanio di Salamina"", ""wikidata_id"": ""Q313922"" } ```",0.9565981993985609
+https://digitalzibaldone.net/node/p2825_2,559,568,Mustoxidi,PER,Q902399,Andrea Mustoxidi,"```json {""wikipedia_page"":""Andrea Mustoxidi"", ""wikidata_id"":""Q902399""} ```",0.9944558003670708
+https://digitalzibaldone.net/node/p2825_2,577,582,Scinà,PER,Q3713240,Domenico Scinà,"```json {""wikipedia_page"":""Domenico Scinà"", ""wikidata_id"":""Q3713240""} ```",0.9950137477212284
+https://digitalzibaldone.net/node/p2825_2,589,622,Collezione di vari aneddoti greci,WORK,NIL,Collezione di vari aneddoti greci,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2836_1,107,113,Georg.,WORK,Q1398,Publio Virgilio Marone,"```json {""wikipedia_page"":""Publio Virgilio Marone"", ""wikidata_id"":""Q1398""} ```",0.012246015188466552
+https://digitalzibaldone.net/node/p2840_1,919,924,Ennio,PER,Q47130,Quinto Ennio,"```json {""wikipedia_page"":""Quinto Ennio"", ""wikidata_id"":""Q47130""} ```",0.9233652482289457
+https://digitalzibaldone.net/node/p2840_1,972,980,Lucrezio,PER,Q47154,Tito Lucrezio Caro,"```json {""wikipedia_page"":""Tito Lucrezio Caro"", ""wikidata_id"":""Q47154""} ```",0.9859359132625787
+https://digitalzibaldone.net/node/p2840_1,1005,1011,Catone,PER,Q180081,Marco Porcio Catone,"```json {""wikipedia_page"":""Marco Porcio Catone"", ""wikidata_id"":""Q180081""} ```",0.9892279426596312
+https://digitalzibaldone.net/node/p2840_1,1013,1019,Cincio,PER,NIL,Cincio,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p2875_1,711,722,inghilterra,LOC,Q21,Inghilterra,"```json {""wikipedia_page"": ""Inghilterra"", ""wikidata_id"": ""Q21""} ```",0.9761247305126838
+https://digitalzibaldone.net/node/p2875_1,728,736,Germania,LOC,Q183,Germania,"```json {""wikipedia_page"":""Germania"", ""wikidata_id"":""Q183""} ```",0.9727278292152186
+https://digitalzibaldone.net/node/p2882_1,288,295,Ammiano,PER,Q172198,Ammiano Marcellino,"```json {""wikipedia_page"":""Ammiano Marcellino"", ""wikidata_id"":""Q172198""} ```",0.9679955122324819
+https://digitalzibaldone.net/node/p2882_1,300,308,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2882_1,325,332,Ammiano,PER,Q172198,Ammiano Marcellino,"```json {""wikipedia_page"":""Ammiano Marcellino"", ""wikidata_id"":""Q172198""} ```",0.8535556020112799
+https://digitalzibaldone.net/node/p2882_1,628,633,Festo,PER,Q1451726,Elio Festo Aftonio,"```json { ""wikipedia_page"": ""Elio Festo Aftonio"", ""wikidata_id"": ""Q1451726"" } ```",0.9672064520387522
+https://digitalzibaldone.net/node/p2882_1,880,888,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2882_1,980,991,S. Agostino,PER,Q8018,Agostino d'Ippona,"```json {""wikipedia_page"":""Agostino d'Ippona"", ""wikidata_id"":""Q8018""} ```",0.9793263048265249
+https://digitalzibaldone.net/node/p2882_1,1250,1257,Ispagna,LOC,Q29,Spagna,"```json { ""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29"" } ```",0.7058057534610379
+https://digitalzibaldone.net/node/p2882_1,1274,1281,Ammiano,PER,Q172198,Ammiano Marcellino,"```json {""wikipedia_page"":""Ammiano Marcellino"", ""wikidata_id"":""Q172198""} ```",0.9869952057631325
+https://digitalzibaldone.net/node/p2882_1,1376,1387,il Glossar.,WORK,NIL,il Glossar.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2882_1,1388,1393,Cang.,PER,NIL,Cang.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2882_1,1664,1672,Glossar.,WORK,NIL,Glossar.,"Il contesto del testo indica che <ENT>Glossar.</ENT> si riferisce a un'opera di riferimento, probabilmente un glossario o un dizionario che fornisce spiegazioni e definizioni di termini. Non c'è alcuna menzione di un glossario specifico tra i candidati. ```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2923_3,152,162,Corticelli,PER,Q3609944,Alessandro Corticelli,"```json { ""wikipedia_page"": ""Alessandro Corticelli"", ""wikidata_id"": ""Q3609944"" } ```",0.8514290622001356
+https://digitalzibaldone.net/node/p2923_3,404,412,Cicerone,PER,Q1541,Marco Tullio Cicerone,"```json {""wikipedia_page"":""Marco Tullio Cicerone"", ""wikidata_id"":""Q1541""} ```",0.999577066387591
+https://digitalzibaldone.net/node/p2923_3,414,420,Attica,LOC,Q311733,Tito Pomponio Attico,"```json { ""wikipedia_page"": ""Tito Pomponio Attico"", ""wikidata_id"": ""Q311733"" } ```",0.703692442825134
+https://digitalzibaldone.net/node/p2932_1,715,722,Varrone,PER,Q206119,Marco Terenzio Varrone,"```json {""wikipedia_page"":""Marco Terenzio Varrone"", ""wikidata_id"":""Q206119""} ```",0.9954290823523665
+https://digitalzibaldone.net/node/p2932_1,725,731,Plinio,PER,Q82778,Plinio il Vecchio,"```json { ""wikipedia_page"": ""Plinio il Vecchio"", ""wikidata_id"": ""Q82778"" } ```",0.9846706861055893
+https://digitalzibaldone.net/node/p2932_1,826,833,Diomede,PER,Q208256,Diomede,"```json { ""wikipedia_page"": ""Diomede"", ""wikidata_id"": ""Q208256"" } ```",0.02915746597368202
+https://digitalzibaldone.net/node/p2932_1,869,875,Persio,PER,Q332785,Aulo Persio Flacco,"```json {""wikipedia_page"":""Aulo Persio Flacco"", ""wikidata_id"":""Q332785""} ```",0.9986371602570845
+https://digitalzibaldone.net/node/p2932_1,1165,1173,Vitruvio,PER,Q47163,Marco Vitruvio Pollione,"```json { ""wikipedia_page"": ""Marco Vitruvio Pollione"", ""wikidata_id"": ""Q47163"" } ```",0.9990804313175934
+https://digitalzibaldone.net/node/p2932_1,1245,1251,Gloss.,WORK,Q1132324,Glossa,"```json {""wikipedia_page"":""Glossa"", ""wikidata_id"":""Q1132324""} ```",0.3709552036743359
+https://digitalzibaldone.net/node/p2932_1,1398,1405,Varrone,PER,Q206119,Marco Terenzio Varrone,"```json { ""wikipedia_page"": ""Marco Terenzio Varrone"", ""wikidata_id"": ""Q206119"" } ```",0.9244329163238177
+https://digitalzibaldone.net/node/p2932_1,1754,1765,il Glossar.,WORK,NIL,il Glossar.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2932_1,1856,1863,Varrone,PER,Q206119,Marco Terenzio Varrone,"```json {""wikipedia_page"":""Marco Terenzio Varrone"", ""wikidata_id"":""Q206119""} ```",0.993651775485463
+https://digitalzibaldone.net/node/p2932_1,1870,1875,R. R.,WORK,NIL,R. R.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2935_2,71,83,il Glossario,WORK,NIL,il Glossario,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p2965_1,966,973,Alfieri,PER,Q296244,Vittorio Alfieri,"```json { ""wikipedia_page"": ""Vittorio Alfieri"", ""wikidata_id"": ""Q296244"" } ```",0.978094710916057
+https://digitalzibaldone.net/node/p2965_1,984,988,Vita,WORK,NIL,Vita,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2983_2,508,514,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.20183668164615562
+https://digitalzibaldone.net/node/p2983_2,885,898,il Forcellini,WORK,NIL,il Forcellini,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p2983_2,901,913,il Glossario,WORK,NIL,il Glossario,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2987_1,146,202,Historia del famoso Predicador Fray Gerundio de Campazas,WORK,NIL,Historia del famoso Predicador Fray Gerundio de Campazas,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p2987_1,237,252,Bastian Borrego,PER,NIL,Bastian Borrego,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2996_1,833,838,Forc.,PER,NIL,Forc.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3001_1,126,134,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3001_1,172,178,Gloss.,WORK,NIL,Gloss.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3006_1,69,79,Forcellini,WORK,Q550353,Egidio Forcellini,"```json {""wikipedia_page"":""Egidio Forcellini"", ""wikidata_id"":""Q550353""} ```",0.8505893935556521
+https://digitalzibaldone.net/node/p3006_1,98,104,Gloss.,WORK,NIL,Gloss.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3037_3,504,514,S. Giacomo,PER,NIL,S. Giacomo,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3053_1,263,271,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3053_1,356,367,il Glossar.,WORK,NIL,il Glossar.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3055_1,762,770,Cicerone,PER,Q1541,Marco Tullio Cicerone,"```json { ""wikipedia_page"": ""Marco Tullio Cicerone"", ""wikidata_id"": ""Q1541"" } ```",0.9995277820925127
+https://digitalzibaldone.net/node/p3055_1,905,915,Desbillons,PER,NIL,Desbillons,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3055_1,919,926,Phaedr.,WORK,NIL,Phaedr.,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3055_1,927,934,Manheim,LOC,NIL,Manheim,"```json { ""wikipedia_page"":"""", ""wikidata_id"":""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3057_1,148,164,S. Gio. Crisost.,PER,Q43706,Giovanni Crisostomo,"```json {""wikipedia_page"":""Giovanni Crisostomo"", ""wikidata_id"":""Q43706""} ```",0.5587423192413412
+https://digitalzibaldone.net/node/p3057_1,169,209,Sermone Quod nemo laedatur nisi a seipso,WORK,NIL,Sermone Quod nemo laedatur nisi a seipso,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3057_1,330,339,Chrysost.,PER,NIL,Chrysost.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3057_1,344,354,Montfaucon,PER,NIL,Montfaucon,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3060_2,79,87,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3060_2,119,124,Festo,PER,Q302723,Sesto Pompeo Festo,"```json {""wikipedia_page"": ""Sesto Pompeo Festo"", ""wikidata_id"": ""Q302723""} ```",0.9089006373481434
+https://digitalzibaldone.net/node/p3071_1,132,139,de Rep.,WORK,Q656161,De re publica,"```json { ""wikipedia_page"": ""De re publica"", ""wikidata_id"": ""Q656161"" } ```",0.9235874195977813
+https://digitalzibaldone.net/node/p3071_1,143,147,Cic.,PER,Q1541,Marco Tullio Cicerone,"```json {""wikipedia_page"":""Marco Tullio Cicerone"", ""wikidata_id"":""Q1541""} ```",0.8273457293311594
+https://digitalzibaldone.net/node/p3071_1,249,257,Richelet,PER,NIL,Richelet,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3071_1,262,266,Diz.,WORK,NIL,Diz.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3071_1,529,535,Gellio,PER,NIL,Gellio,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3071_1,582,593,il Glossar.,WORK,NIL,il Glossar.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3072_3,149,160,Lucio Silla,PER,Q483783,Lucio Cornelio Silla,"```json {""wikipedia_page"":""Lucio Cornelio Silla"", ""wikidata_id"":""Q483783""} ```",0.9005494112454152
+https://digitalzibaldone.net/node/p3072_3,217,225,G. Mario,PER,Q177975,Gaio Mario,"```json { ""wikipedia_page"": ""Gaio Mario"", ""wikidata_id"": ""Q177975"" } ```",0.8797175529806914
+https://digitalzibaldone.net/node/p3072_3,297,304,Augusto,PER,Q1405,Augusto,"```json { ""wikipedia_page"": ""Augusto"", ""wikidata_id"": ""Q1405"" } ```",0.8402865346478116
+https://digitalzibaldone.net/node/p3072_3,391,406,Bern. Davanzati,PER,NIL,Bern. Davanzati,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3072_3,408,464,Orazione in morte del Gran Duca di Toscana Cosimo primo.,WORK,NIL,Orazione in morte del Gran Duca di Toscana Cosimo primo.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3073_3,214,220,Gloss.,WORK,NIL,Gloss.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3077_1,677,686,Perticari,PER,Q3769747,Giulio Perticari,"```json { ""wikipedia_page"": ""Giulio Perticari"", ""wikidata_id"": ""Q3769747"" } ```",0.9927440056019364
+https://digitalzibaldone.net/node/p3077_1,782,790,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3094_1,244,251,Cellini,PER,Q190116,Benvenuto Cellini,"```json { ""wikipedia_page"": ""Benvenuto Cellini"", ""wikidata_id"": ""Q190116"" } ```",0.992826649193305
+https://digitalzibaldone.net/node/p3094_1,328,333,Bembo,PER,Q334188,Pietro Bembo,"```json { ""wikipedia_page"": ""Pietro Bembo"", ""wikidata_id"": ""Q334188"" } ```",0.6792615603727196
+https://digitalzibaldone.net/node/p3094_1,384,389,Bembo,PER,Q334188,Pietro Bembo,"```json {""wikipedia_page"":""Pietro Bembo"", ""wikidata_id"":""Q334188""} ```",0.7893556969443677
+https://digitalzibaldone.net/node/p3094_1,414,419,Bembo,PER,Q334188,Pietro Bembo,"```json {""wikipedia_page"":""Pietro Bembo"", ""wikidata_id"":""Q334188""} ```",0.8176802538155836
+https://digitalzibaldone.net/node/p3094_1,468,475,Cellini,PER,Q190116,Benvenuto Cellini,"```json { ""wikipedia_page"": ""Benvenuto Cellini"", ""wikidata_id"": ""Q190116"" } ```",0.9903459765166042
+https://digitalzibaldone.net/node/p3103_1,50,55,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.9989379716134362
+https://digitalzibaldone.net/node/p3103_1,207,212,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9990321937025134
+https://digitalzibaldone.net/node/p3103_1,630,637,Lusiade,WORK,Q781898,I Lusiadi,"```json { ""wikipedia_page"": ""I Lusiadi"", ""wikidata_id"": ""Q781898"" } ```",0.8318941512008542
+https://digitalzibaldone.net/node/p3103_1,659,665,Eneide,WORK,Q60220,Eneide,"```json { ""wikipedia_page"": ""Eneide"", ""wikidata_id"": ""Q60220"" } ```",0.9988296634440428
+https://digitalzibaldone.net/node/p3103_1,675,683,Isocrate,PER,Q221182,Isocrate,"```json {""wikipedia_page"":""Isocrate"", ""wikidata_id"":""Q221182""} ```",0.9757083880289666
+https://digitalzibaldone.net/node/p3103_1,724,729,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9981764472796371
+https://digitalzibaldone.net/node/p3103_1,924,934,Panegirico,WORK,NIL,Panegirico,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,949,955,Battie,PER,NIL,Battie,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,956,983,Isocr. Oratt. 7. et epistt.,WORK,NIL,Isocr. Oratt. 7. et epistt.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,984,994,Cantabrig.,LOC,NIL,Cantabrig.,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,1027,1032,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.9966841931775046
+https://digitalzibaldone.net/node/p3103_1,1338,1343,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.9980340777165128
+https://digitalzibaldone.net/node/p3103_1,1501,1517,Frinico ateniese,PER,Q317061,Frinico (tragediografo),"```json { ""wikipedia_page"": ""Frinico (tragediografo)"", ""wikidata_id"": ""Q317061"" } ```",0.04737118849506015
+https://digitalzibaldone.net/node/p3103_1,1535,1540,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9824488636318
+https://digitalzibaldone.net/node/p3103_1,1584,1590,Mileto,LOC,Q169460,Mileto (Asia Minore),"```json {""wikipedia_page"":""Mileto (Asia Minore)"", ""wikidata_id"":""Q169460""} ```",0.743606463542129
+https://digitalzibaldone.net/node/p3103_1,1600,1605,Dario,PER,NIL,Dario,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,1707,1714,Longino,PER,Q436634,Cassio Longino (retore),"```json { ""wikipedia_page"": ""Cassio Longino (retore)"", ""wikidata_id"": ""Q436634"" } ```",0.5821802795349419
+https://digitalzibaldone.net/node/p3103_1,1809,1814,Plut.,PER,Q41523,Plutarco,"```json {""wikipedia_page"":""Plutarco"", ""wikidata_id"":""Q41523""} ```",0.9709166888427174
+https://digitalzibaldone.net/node/p3103_1,1834,1840,Strabo,PER,Q45936,Strabone,"```json {""wikipedia_page"":""Strabone"", ""wikidata_id"":""Q45936""} ```",0.9840167350972049
+https://digitalzibaldone.net/node/p3103_1,1857,1866,Aristoph.,PER,NIL,Aristoph.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,1994,2002,Herodot.,PER,Q26825,Erodoto,"```json {""wikipedia_page"":""Erodoto"", ""wikidata_id"":""Q26825""} ```",0.9839974281264107
+https://digitalzibaldone.net/node/p3103_1,2106,2112,Tzetz.,PER,NIL,Tzetz.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,2113,2118,Chil.,WORK,NIL,Chil.,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,2167,2173,Eliano,PER,Q313782,Claudio Eliano,"```json { ""wikipedia_page"": ""Claudio Eliano"", ""wikidata_id"": ""Q313782"" } ```",0.6427050498584392
+https://digitalzibaldone.net/node/p3103_1,2175,2179,Var.,WORK,NIL,Var.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,2299,2306,Fabric.,PER,NIL,Fabric.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,2307,2312,B. G.,WORK,NIL,B. G.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,2335,2341,Meurs.,PER,NIL,Meurs.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,2342,2352,Bibl. Att.,WORK,NIL,Bibl. Att.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,2353,2360,Bentley,PER,NIL,Bentley,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,2361,2381,Diss. ad Ep. Phalar.,WORK,NIL,Diss. ad Ep. Phalar.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3137_2,98,103,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9991147310869559
+https://digitalzibaldone.net/node/p3137_2,109,115,iliade,WORK,Q8275,Iliade,"```json {""wikipedia_page"":""Iliade"", ""wikidata_id"":""Q8275""} ```",0.9991629450344767
+https://digitalzibaldone.net/node/p3137_2,252,257,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9992722128280503
+https://digitalzibaldone.net/node/p3137_2,587,593,iliade,WORK,Q8275,Iliade,"```json { ""wikipedia_page"": ""Iliade"", ""wikidata_id"": ""Q8275"" } ```",0.9993803075788164
+https://digitalzibaldone.net/node/p3137_2,1133,1138,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9992868549155097
+https://digitalzibaldone.net/node/p3137_2,2022,2028,iliade,WORK,Q8275,Iliade,"```json { ""wikipedia_page"": ""Iliade"", ""wikidata_id"": ""Q8275"" } ```",0.9989063654947586
+https://digitalzibaldone.net/node/p3137_2,2104,2110,Ettore,PER,Q159666,Ettore (mitologia),"```json {""wikipedia_page"":""Ettore (mitologia)"", ""wikidata_id"":""Q159666""} ```",0.8602062986865368
+https://digitalzibaldone.net/node/p3137_2,2224,2232,Patroclo,PER,Q186271,Patroclo,"```json {""wikipedia_page"":""Patroclo"", ""wikidata_id"":""Q186271""} ```",0.9968522265044458
+https://digitalzibaldone.net/node/p3137_2,2278,2287,Andromaca,PER,Q19376,Andromaca,"```json { ""wikipedia_page"": ""Andromaca"", ""wikidata_id"": ""Q19376"" } ```",0.9054580791516452
+https://digitalzibaldone.net/node/p3137_2,2502,2507,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9992171825903475
+https://digitalzibaldone.net/node/p3137_2,3209,3214,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.996880500327281
+https://digitalzibaldone.net/node/p3137_2,3228,3234,iliade,WORK,Q8275,Iliade,"```json { ""wikipedia_page"": ""Iliade"", ""wikidata_id"": ""Q8275"" } ```",0.999071116656799
+https://digitalzibaldone.net/node/p3137_2,3235,3241,Ettore,PER,Q159666,Ettore (mitologia),"```json { ""wikipedia_page"": ""Ettore (mitologia)"", ""wikidata_id"": ""Q159666"" } ```",0.9397467894746907
+https://digitalzibaldone.net/node/p3137_2,3301,3308,Achille,PER,Q41746,Achille,"```json {""wikipedia_page"":""Achille"", ""wikidata_id"":""Q41746""} ```",0.9200900326560394
+https://digitalzibaldone.net/node/p3141_1,0,5,Turno,PER,Q633549,Turno,"```json {""wikipedia_page"":""Turno"", ""wikidata_id"":""Q633549""} ```",0.8344159350193688
+https://digitalzibaldone.net/node/p3141_1,46,52,Eneide,WORK,Q60220,Eneide,"```json {""wikipedia_page"":""Eneide"", ""wikidata_id"":""Q60220""} ```",0.9989414590457202
+https://digitalzibaldone.net/node/p3141_1,187,198,Gerusalemme,LOC,Q1218,Gerusalemme,"```json { ""wikipedia_page"": ""Gerusalemme"", ""wikidata_id"": ""Q1218"" } ```",0.9556299680555747
+https://digitalzibaldone.net/node/p3141_1,261,268,Argante,PER,NIL,Argante,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3141_1,270,278,Clorinda,PER,Q17992775,Clorinda,"```json {""wikipedia_page"":""Clorinda"", ""wikidata_id"":""Q17992775""} ```",0.2024050521738278
+https://digitalzibaldone.net/node/p3141_1,280,288,Solimano,PER,NIL,Solimano,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3141_1,300,307,Argante,PER,NIL,Argante,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3141_1,409,415,Gerus.,WORK,Q1053313,Gerusalemme liberata,"```json { ""wikipedia_page"": ""Gerusalemme liberata"", ""wikidata_id"": ""Q1053313"" } ```",0.19474155367591586
+https://digitalzibaldone.net/node/p3141_1,612,617,Tasso,PER,Q168962,Torquato Tasso,"```json { ""wikipedia_page"": ""Torquato Tasso"", ""wikidata_id"": ""Q168962"" } ```",0.9981243364346155
+https://digitalzibaldone.net/node/p3141_1,888,896,Solimano,PER,NIL,Solimano,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3141_1,900,907,Argante,PER,NIL,Argante,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3141_1,964,975,Gerusalemme,LOC,Q1218,Gerusalemme,"```json {""wikipedia_page"":""Gerusalemme"", ""wikidata_id"":""Q1218""} ```",0.9995725962206289
+https://digitalzibaldone.net/node/p3143_1,108,113,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9992280358013467
+https://digitalzibaldone.net/node/p3169_1,22,30,Grammat.,WORK,NIL,Grammat.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3169_1,35,41,Weller,PER,NIL,Weller,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3169_1,49,54,Lips.,LOC,NIL,Lips.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3202_1,801,807,Caluso,PER,NIL,Caluso,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3202_1,814,821,Lettera,WORK,Q995950,Epistole,"```json { ""wikipedia_page"": ""Epistole"", ""wikidata_id"": ""Q995950"" } ```",0.4651582834596306
+https://digitalzibaldone.net/node/p3202_1,834,838,Vita,WORK,NIL,Vita,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3202_1,842,849,Alfieri,PER,Q296244,Vittorio Alfieri,"```json {""wikipedia_page"":""Vittorio Alfieri"", ""wikidata_id"":""Q296244""} ```",0.988310074680305
+https://digitalzibaldone.net/node/p3202_1,867,873,Esiodo,PER,Q44233,Esiodo,"```json { ""wikipedia_page"": ""Esiodo"", ""wikidata_id"": ""Q44233"" } ```",0.9689319454984536
+https://digitalzibaldone.net/node/p3202_1,1523,1531,Ermogene,PER,NIL,Ermogene,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3202_1,1586,1597,Cancellieri,PER,Q3612445,Francesco Cancellieri,"```json { ""wikipedia_page"":""Francesco Cancellieri"", ""wikidata_id"":""Q3612445"" } ```",0.9983231166841737
+https://digitalzibaldone.net/node/p3202_1,1598,1613,sugli Smemorati,WORK,NIL,sugli Smemorati,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3235_2,0,7,Platone,PER,Q859,Platone,"```json { ""wikipedia_page"": ""Platone"", ""wikidata_id"": ""Q859"" } ```",0.9981894613465897
+https://digitalzibaldone.net/node/p3235_2,12,19,Sofista,WORK,Q471715,Sofista (dialogo),"```json {""wikipedia_page"":""Sofista (dialogo)"", ""wikidata_id"":""Q471715""} ```",0.9680396353005701
+https://digitalzibaldone.net/node/p3235_2,49,54,Astio,PER,NIL,Astio,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3235_2,64,69,Plat.,PER,Q859,Platone,"```json {""wikipedia_page"":""Platone"", ""wikidata_id"":""Q859""} ```",0.9127045485364146
+https://digitalzibaldone.net/node/p3235_2,70,75,Lips.,LOC,NIL,Lips.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3235_2,300,304,Ast.,PER,NIL,Ast.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3235_2,794,800,Astius,PER,NIL,Astius,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3235_2,811,818,Platone,PER,Q859,Platone,"```json { ""wikipedia_page"": ""Platone"", ""wikidata_id"": ""Q859"" } ```",0.9999157275011235
+https://digitalzibaldone.net/node/p3235_2,1155,1162,Platone,PER,Q859,Platone,"```json { ""wikipedia_page"": ""Platone"", ""wikidata_id"": ""Q859"" } ```",0.9979443743003702
+https://digitalzibaldone.net/node/p3235_2,1453,1458,Timeo,PER,Q371884,Timeo (dialogo),"```json {""wikipedia_page"":""Timeo (dialogo)"", ""wikidata_id"":""Q371884""} ```",0.94039438096274
+https://digitalzibaldone.net/node/p3235_2,1466,1483,Lessico Platonico,WORK,NIL,Lessico Platonico,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3235_2,1492,1499,Fabric.,PER,NIL,Fabric.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3235_2,1500,1505,B. G.,WORK,NIL,B. G.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3235_2,1617,1624,Platone,PER,Q859,Platone,"```json {""wikipedia_page"":""Platone"", ""wikidata_id"":""Q859""} ```",0.9994403839200917
+https://digitalzibaldone.net/node/p3235_2,1920,1927,Platone,PER,Q859,Platone,"```json { ""wikipedia_page"": ""Platone"", ""wikidata_id"": ""Q859"" } ```",0.9999028932550734
+https://digitalzibaldone.net/node/p3235_2,2203,2210,Platone,PER,Q859,Platone,"```json { ""wikipedia_page"": ""Platone"", ""wikidata_id"": ""Q859"" } ```",0.9991798718929673
+https://digitalzibaldone.net/node/p3282_1,1107,1120,Giulio Cesare,PER,Q1048,Gaio Giulio Cesare,"```json { ""wikipedia_page"": ""Gaio Giulio Cesare"", ""wikidata_id"": ""Q1048"" } ```",0.9992023144602175
+https://digitalzibaldone.net/node/p3282_1,1137,1145,Svetonio,PER,Q10133,Gaio Svetonio Tranquillo,"``` {""wikipedia_page"":""Gaio Svetonio Tranquillo"", ""wikidata_id"":""Q10133""} ```",0.9992242431274068
+https://digitalzibaldone.net/node/p3283_2,754,760,Gloss.,WORK,NIL,Gloss.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3284_1,66,75,Perticari,PER,Q3769747,Giulio Perticari,"```json {""wikipedia_page"":""Giulio Perticari"", ""wikidata_id"":""Q3769747""} ```",0.9772488452290085
+https://digitalzibaldone.net/node/p3312_2,332,342,S. Isidoro,PER,Q166876,Isidoro di Siviglia,"```json {""wikipedia_page"":""Isidoro di Siviglia"", ""wikidata_id"":""Q166876""} ```",0.11741340271639014
+https://digitalzibaldone.net/node/p3312_2,351,361,Forcellini,WORK,NIL,Forcellini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3332_1,484,490,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9995550889731948
+https://digitalzibaldone.net/node/p3332_1,1412,1418,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9994050322634217
+https://digitalzibaldone.net/node/p3332_1,1849,1853,Cic.,PER,Q1541,Marco Tullio Cicerone,"```json {""wikipedia_page"":""Marco Tullio Cicerone"", ""wikidata_id"":""Q1541""} ```",0.9300720278508511
+https://digitalzibaldone.net/node/p3332_1,2478,2484,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.999521966464448
+https://digitalzibaldone.net/node/p3332_1,3387,3393,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9996720182690624
+https://digitalzibaldone.net/node/p3332_1,3679,3685,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9995550889731948
+https://digitalzibaldone.net/node/p3332_1,3867,3873,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9996906977816893
+https://digitalzibaldone.net/node/p3349_2,570,578,Voltaire,PER,Q9068,Voltaire,"```json {""wikipedia_page"":""Voltaire"", ""wikidata_id"":""Q9068""} ```",0.9973793809177771
+https://digitalzibaldone.net/node/p3350_3,38,43,Forc.,WORK,NIL,Forc.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3357_3,435,440,Scap.,WORK,NIL,Scap.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3357_3,773,781,Forcell.,PER,Q3846125,Marco Forcellini,"```json {""wikipedia_page"":""Marco Forcellini"", ""wikidata_id"":""Q3846125""} ```",0.5899595864751048
+https://digitalzibaldone.net/node/p3365_1,30,39,Louisiane,LOC,Q658054,Louisiana francese,"```json {""wikipedia_page"": ""Louisiana francese"", ""wikidata_id"": ""Q658054""} ```",0.5661985288939752
+https://digitalzibaldone.net/node/p3365_1,55,61,France,LOC,Q142,Francia,"```json {""wikipedia_page"":""Francia"", ""wikidata_id"":""Q142""} ```",0.3300513792100479
+https://digitalzibaldone.net/node/p3365_1,451,459,Voltaire,PER,Q9068,Voltaire,"```json {""wikipedia_page"":""Voltaire"",""wikidata_id"":""Q9068""} ```",0.9934272781421978
+https://digitalzibaldone.net/node/p3365_1,461,500,Correspondance du rince Royal de Prusse,WORK,NIL,Correspondance du rince Royal de Prusse,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3365_1,509,520,Frédéric II,PER,Q33550,Federico II di Prussia,"```json { ""wikipedia_page"": ""Federico II di Prussia"", ""wikidata_id"": ""Q33550"" } ```",0.5034857116044461
+https://digitalzibaldone.net/node/p3365_1,535,543,Voltaire,PER,Q9068,Voltaire,"```json { ""wikipedia_page"": ""Voltaire"", ""wikidata_id"": ""Q9068"" } ```",0.9958128930638168
+https://digitalzibaldone.net/node/p3365_1,574,579,Cirey,LOC,Q2240551,Castello di Cirey,"```json {""wikipedia_page"": ""Castello di Cirey"", ""wikidata_id"": ""Q2240551""} ```",0.2554456309496918
+https://digitalzibaldone.net/node/p3365_1,620,631,Frédéric II,PER,Q33550,Federico II di Prussia,"```json { ""wikipedia_page"":""Federico II di Prussia"", ""wikidata_id"":""Q33550"" } ```",0.7197280142972147
+https://digitalzibaldone.net/node/p3365_1,674,692,Oeuvres Complettes,WORK,NIL,Oeuvres Complettes,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3365_1,696,707,Frédéric II,PER,Q33550,Federico II di Prussia,"```json {""wikipedia_page"":""Federico II di Prussia"", ""wikidata_id"":""Q33550""} ```",0.6858462270097435
+https://digitalzibaldone.net/node/p3403_1,1229,1234,Floro,PER,NIL,Floro,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3411_1,357,361,Rep.,WORK,NIL,Rep.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3411_1,365,375,Aristotele,PER,Q868,Aristotele,"```json { ""wikipedia_page"": ""Aristotele"", ""wikidata_id"": ""Q868"" } ```",0.9998736441858215
+https://digitalzibaldone.net/node/p3465_1,488,494,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.9995612998798277
+https://digitalzibaldone.net/node/p3465_1,848,854,europa,LOC,Q46,Europa,"```json { ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" } ```",0.9905030050299911
+https://digitalzibaldone.net/node/p3491_3,494,502,Rousseau,PER,Q6527,Jean-Jacques Rousseau,"```json { ""wikipedia_page"": ""Jean-Jacques Rousseau"", ""wikidata_id"": ""Q6527"" } ```",0.9900160840247462
+https://digitalzibaldone.net/node/p3541_1,346,356,Forcellini,WORK,NIL,Forcellini,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3541_2,107,115,Aristot.,PER,Q868,Aristotele,"```json { ""wikipedia_page"": ""Aristotele"", ""wikidata_id"": ""Q868"" } ```",0.9761540257079794
+https://digitalzibaldone.net/node/p3541_2,116,122,Polit.,WORK,Q868,Aristotele,"```json { ""wikipedia_page"": ""Aristotele"", ""wikidata_id"": ""Q868"" } ```",0.02367708080332465
+https://digitalzibaldone.net/node/p3541_2,135,140,Flor.,PER,NIL,Flor.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3541_2,245,254,la Crusca,WORK,NIL,la Crusca,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3544_1,38,45,Fabric.,PER,NIL,Fabric.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3544_1,46,53,B. Lat.,WORK,NIL,B. Lat.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3544_1,57,61,Ven.,LOC,NIL,Ven.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3544_1,99,109,Corn. Nep.,PER,NIL,Corn. Nep.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3544_1,135,142,Catullo,PER,Q163079,Gaio Valerio Catullo,"```json {""wikipedia_page"":""Gaio Valerio Catullo"", ""wikidata_id"":""Q163079""} ```",0.9976139056301019
+https://digitalzibaldone.net/node/p3546_1,572,578,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.999504607466446
+https://digitalzibaldone.net/node/p3568_2,128,137,Victorius,PER,NIL,Victorius,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3568_2,175,183,Aristot.,PER,Q868,Aristotele,"```json { ""wikipedia_page"": ""Aristotele"", ""wikidata_id"": ""Q868"" } ```",0.9073745882364234
+https://digitalzibaldone.net/node/p3568_2,184,190,Polit.,WORK,NIL,Polit.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3568_2,201,206,Flor.,PER,NIL,Flor.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3569_2,597,607,Forcellini,WORK,NIL,Forcellini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3569_2,1355,1362,Erodoto,PER,Q26825,Erodoto,"```json { ""wikipedia_page"": ""Erodoto"", ""wikidata_id"": ""Q26825"" } ```",0.9990574863451251
+https://digitalzibaldone.net/node/p3579_1,71,77,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9868381343596369
+https://digitalzibaldone.net/node/p3579_1,82,88,Spagna,LOC,Q29,Spagna,"```json { ""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29"" } ```",0.9962806080397618
+https://digitalzibaldone.net/node/p3579_1,204,210,italia,LOC,Q2480041,Italia medievale,"```json {""wikipedia_page"":""Italia medievale"", ""wikidata_id"":""Q2480041""} ```",0.0007993403917077812
+https://digitalzibaldone.net/node/p3579_1,339,345,Spagna,LOC,Q29,Spagna,"```json {""wikipedia_page"":""Spagna"", ""wikidata_id"":""Q29""} ```",0.9997338439599885
+https://digitalzibaldone.net/node/p3579_1,727,734,ispagna,LOC,Q29,Spagna,"```json { ""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29"" } ```",0.9147381530299884
+https://digitalzibaldone.net/node/p3579_1,920,926,Cristo,PER,Q642420,Cristo,"```json { ""wikipedia_page"": ""Cristo"", ""wikidata_id"": ""Q642420"" } ```",0.6292540597332565
+https://digitalzibaldone.net/node/p3579_1,944,952,Maometto,PER,Q9458,Maometto,"```json { ""wikipedia_page"": ""Maometto"", ""wikidata_id"": ""Q9458"" } ```",0.9998181047056999
+https://digitalzibaldone.net/node/p3579_1,1733,1739,spagna,LOC,Q29,Spagna,"```json {""wikipedia_page"":""Spagna"", ""wikidata_id"":""Q29""} ```",0.9973249061493604
+https://digitalzibaldone.net/node/p3579_1,1793,1799,spagna,LOC,Q29,Spagna,"```json {""wikipedia_page"":""Spagna"", ""wikidata_id"":""Q29""} ```",0.9977485709258169
+https://digitalzibaldone.net/node/p3579_1,2106,2113,ispagna,LOC,Q123559,Al-Andalus,"```json {""wikipedia_page"":""Al-Andalus"", ""wikidata_id"":""Q123559""} ```",0.028188241031975564
+https://digitalzibaldone.net/node/p3579_1,2233,2240,Averroe,PER,Q39837,Averroè,"```json { ""wikipedia_page"": ""Averroè"", ""wikidata_id"": ""Q39837"" } ```",0.982441876158611
+https://digitalzibaldone.net/node/p3579_1,2281,2287,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9950240091873227
+https://digitalzibaldone.net/node/p3579_1,2398,2404,europa,LOC,Q46,Europa,"```json {""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46""} ```",0.9895869418282047
+https://digitalzibaldone.net/node/p3579_1,2579,2585,spagna,LOC,Q29,Spagna,"```json {""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29""} ```",0.9997679169092241
+https://digitalzibaldone.net/node/p3593_1,14,19,Tasso,PER,Q168962,Torquato Tasso,"```json {""wikipedia_page"":""Torquato Tasso"", ""wikidata_id"":""Q168962""} ```",0.9909846321212942
+https://digitalzibaldone.net/node/p3593_1,283,288,Ugone,PER,NIL,Ugone,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3593_1,291,299,Goffredo,PER,Q76721,Goffredo di Buglione,"```json {""wikipedia_page"":""Goffredo di Buglione"", ""wikidata_id"":""Q76721""} ```",0.6338735344499801
+https://digitalzibaldone.net/node/p3593_1,311,318,Rinaldo,PER,Q727316,Rinaldo (paladino),"```json { ""wikipedia_page"": ""Rinaldo (paladino)"", ""wikidata_id"": ""Q727316"" } ```",0.9671890840769968
+https://digitalzibaldone.net/node/p3593_1,403,408,Tasso,PER,Q168962,Torquato Tasso,"```json {""wikipedia_page"":""Torquato Tasso"", ""wikidata_id"":""Q168962""} ```",0.951749203545705
+https://digitalzibaldone.net/node/p3593_1,722,727,Tasso,PER,Q168962,Torquato Tasso,"```json { ""wikipedia_page"": ""Torquato Tasso"", ""wikidata_id"": ""Q168962"" } ```",0.9956707084109683
+https://digitalzibaldone.net/node/p3593_1,1490,1495,Tasso,PER,Q168962,Torquato Tasso,"```json {""wikipedia_page"":""Torquato Tasso"", ""wikidata_id"":""Q168962""} ```",0.9899560081655251
+https://digitalzibaldone.net/node/p3604_1,1608,1613,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9975483267931853
+https://digitalzibaldone.net/node/p3604_1,1619,1625,iliade,WORK,Q8275,Iliade,"```json {""wikipedia_page"":""Iliade"", ""wikidata_id"":""Q8275""} ```",0.9988522661687402
+https://digitalzibaldone.net/node/p3604_1,2474,2479,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9968225016295245
+https://digitalzibaldone.net/node/p3604_1,2485,2491,iliade,WORK,Q8275,Iliade,"```json {""wikipedia_page"":""Iliade"", ""wikidata_id"":""Q8275""} ```",0.9989845765216987
+https://digitalzibaldone.net/node/p3604_1,2505,2511,Ettore,PER,Q159666,Ettore (mitologia),"```json { ""wikipedia_page"": ""Ettore (mitologia)"", ""wikidata_id"": ""Q159666"" } ```",0.8588241560408408
+https://digitalzibaldone.net/node/p3604_1,2661,2668,Achille,PER,Q41746,Achille,"```json {""wikipedia_page"":""Achille"", ""wikidata_id"":""Q41746""} ```",0.962219016794891
+https://digitalzibaldone.net/node/p3604_1,2757,2762,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.997937454144449
+https://digitalzibaldone.net/node/p3604_1,3231,3236,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.9854601393750188
+https://digitalzibaldone.net/node/p3604_1,3274,3281,Achille,PER,Q41746,Achille,"```json { ""wikipedia_page"": ""Achille"", ""wikidata_id"": ""Q41746"" } ```",0.9901594120306835
+https://digitalzibaldone.net/node/p3604_1,3454,3462,Patroclo,PER,Q186271,Patroclo,"```json {""wikipedia_page"":""Patroclo"", ""wikidata_id"":""Q186271""} ```",0.9772197861163753
+https://digitalzibaldone.net/node/p3604_1,3577,3584,Achille,PER,Q41746,Achille,"```json { ""wikipedia_page"": ""Achille"", ""wikidata_id"": ""Q41746"" } ```",0.7511743980223633
+https://digitalzibaldone.net/node/p3604_1,3902,3909,Achille,PER,Q41746,Achille,"```json { ""wikipedia_page"": ""Achille"", ""wikidata_id"": ""Q41746"" } ```",0.9286703068698795
+https://digitalzibaldone.net/node/p3613_1,45,51,iliade,WORK,Q8275,Iliade,"```json { ""wikipedia_page"": ""Iliade"", ""wikidata_id"": ""Q8275"" } ```",0.9989630356373134
+https://digitalzibaldone.net/node/p3613_1,474,479,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9983581334532997
+https://digitalzibaldone.net/node/p3613_1,1188,1194,iliade,WORK,Q8275,Iliade,"```json {""wikipedia_page"":""Iliade"", ""wikidata_id"":""Q8275""} ```",0.9995576429283376
+https://digitalzibaldone.net/node/p3613_1,1988,1992,Enea,PER,Q82732,Enea,"```json {""wikipedia_page"":""Enea"", ""wikidata_id"":""Q82732""} ```",0.9537034421952075
+https://digitalzibaldone.net/node/p3613_1,2231,2236,Omero,PER,Q6691,Omero,"```json { ""wikipedia_page"": ""Omero"", ""wikidata_id"": ""Q6691"" } ```",0.9990429599438868
+https://digitalzibaldone.net/node/p3613_1,2578,2584,iliade,WORK,Q8275,Iliade,"```json {""wikipedia_page"":""Iliade"", ""wikidata_id"":""Q8275""} ```",0.9995904920313132
+https://digitalzibaldone.net/node/p3613_1,3432,3438,iliade,WORK,Q8275,Iliade,"```json {""wikipedia_page"":""Iliade"", ""wikidata_id"":""Q8275""} ```",0.9994899119654788
+https://digitalzibaldone.net/node/p3613_1,3596,3601,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9990558332899139
+https://digitalzibaldone.net/node/p3613_1,3817,3823,iliade,WORK,Q8275,Iliade,"```json {""wikipedia_page"":""Iliade"", ""wikidata_id"":""Q8275""} ```",0.9991927304222661
+https://digitalzibaldone.net/node/p3621_2,53,61,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3621_2,150,160,Forcellini,PER,Q550353,Egidio Forcellini,"```json {""wikipedia_page"":""Egidio Forcellini"", ""wikidata_id"":""Q550353""} ```",0.9649242926674825
+https://digitalzibaldone.net/node/p3636_1,674,681,Alberti,PER,Q182046,Leon Battista Alberti,"```json {""wikipedia_page"":""Leon Battista Alberti"", ""wikidata_id"":""Q182046""} ```",0.8024809748664711
+https://digitalzibaldone.net/node/p3636_1,957,962,Monti,PER,Q723643,Vincenzo Monti,"```json {""wikipedia_page"":""Vincenzo Monti"", ""wikidata_id"":""Q723643""} ```",0.980000584573907
+https://digitalzibaldone.net/node/p3636_1,963,970,Propos.,WORK,NIL,Propos.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3636_1,1210,1219,Prudenzio,PER,Q347250,Prudenzio,"```json { ""wikipedia_page"": ""Prudenzio"", ""wikidata_id"": ""Q347250"" } ```",0.836528057203604
+https://digitalzibaldone.net/node/p3636_1,1334,1344,Forcellini,WORK,Q550353,Egidio Forcellini,"```json {""wikipedia_page"":""Egidio Forcellini"", ""wikidata_id"":""Q550353""} ```",0.9095260674268714
+https://digitalzibaldone.net/node/p3684_5,112,123,S. Girolamo,PER,Q44248,San Girolamo,"```json { ""wikipedia_page"": ""San Girolamo"", ""wikidata_id"": ""Q44248"" } ```",0.9824191593506938
+https://digitalzibaldone.net/node/p3684_5,186,194,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3684_5,215,221,Gloss.,WORK,Q1132324,Glossa,"```json { ""wikipedia_page"": ""Glossa"", ""wikidata_id"": ""Q1132324"" } ```",0.31174675257007034
+https://digitalzibaldone.net/node/p3686_2,76,84,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3687_1,405,410,Dante,PER,Q1067,Dante Alighieri,"```json {""wikipedia_page"":""Dante Alighieri"", ""wikidata_id"":""Q1067""} ```",0.9934655020732133
+https://digitalzibaldone.net/node/p3687_1,437,446,la Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.4853083786207812
+https://digitalzibaldone.net/node/p3695_1,336,344,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3715_1,1221,1229,Cicerone,PER,Q1541,Marco Tullio Cicerone,"```json { ""wikipedia_page"": ""Marco Tullio Cicerone"", ""wikidata_id"": ""Q1541"" } ```",0.9991887128464958
+https://digitalzibaldone.net/node/p3715_1,1250,1255,Orat.,WORK,NIL,Orat.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3715_1,1557,1562,Forc.,WORK,NIL,Forc.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3749_2,321,326,Omero,PER,Q6691,Omero,"```json {""wikipedia_page"":""Omero"", ""wikidata_id"":""Q6691""} ```",0.9982679237144928
+https://digitalzibaldone.net/node/p3749_2,867,873,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9995777880353277
+https://digitalzibaldone.net/node/p3749_2,1023,1029,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.999521966464448
+https://digitalzibaldone.net/node/p3749_2,1594,1600,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.9997118522115807
+https://digitalzibaldone.net/node/p3754_1,275,280,Forc.,WORK,Q3767271,Giovanni Francesco Fortunio,"```json {""wikipedia_page"":""Giovanni Francesco Fortunio"", ""wikidata_id"":""Q3767271""} ```",0.0010228379892283537
+https://digitalzibaldone.net/node/p3758_1,232,237,Forc.,PER,NIL,Forc.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3758_1,587,592,Forc.,PER,NIL,Forc.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3758_1,796,801,Forc.,PER,NIL,Forc.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3811_4,1296,1323,Annali di Scienze e lettere,WORK,NIL,Annali di Scienze e lettere,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3811_4,1327,1333,Milano,LOC,Q490,Milano,"```json {""wikipedia_page"":""Milano"", ""wikidata_id"":""Q490""} ```",0.9992644891417043
+https://digitalzibaldone.net/node/p3828_1,16,24,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3830_1,731,737,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9993193237870104
+https://digitalzibaldone.net/node/p3842_1,295,302,Creuzer,PER,Q69685,Friedrich Creuzer,"```json { ""wikipedia_page"": ""Friedrich Creuzer"", ""wikidata_id"": ""Q69685"" } ```",0.9602711101638262
+https://digitalzibaldone.net/node/p3842_1,303,339,Meletemata e disciplina antiquitatis,WORK,NIL,Meletemata e disciplina antiquitatis,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3842_1,349,354,Lips.,LOC,NIL,Lips.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3845_2,93,100,Catullo,PER,Q163079,Gaio Valerio Catullo,"```json { ""wikipedia_page"": ""Gaio Valerio Catullo"", ""wikidata_id"": ""Q163079"" } ```",0.9987090544112512
+https://digitalzibaldone.net/node/p3845_2,113,126,Paolo Diacono,PER,Q160424,Paolo Diacono,"```json { ""wikipedia_page"": ""Paolo Diacono"", ""wikidata_id"": ""Q160424"" } ```",0.99949176805547
+https://digitalzibaldone.net/node/p3845_2,130,135,Festo,PER,Q302723,Sesto Pompeo Festo,"```json { ""wikipedia_page"": ""Sesto Pompeo Festo"", ""wikidata_id"": ""Q302723"" } ```",0.9912173033642927
+https://digitalzibaldone.net/node/p3858_1,205,211,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.9993338396379406
+https://digitalzibaldone.net/node/p3858_1,217,223,spagna,LOC,Q29,Spagna,"```json { ""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29"" } ```",0.9999396883443481
+https://digitalzibaldone.net/node/p3858_1,311,317,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9994050322634217
+https://digitalzibaldone.net/node/p3858_1,323,329,spagna,LOC,Q29,Spagna,"```json { ""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29"" } ```",0.9980665603666292
+https://digitalzibaldone.net/node/p3858_1,791,797,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9996254639308341
+https://digitalzibaldone.net/node/p3858_1,868,874,europa,LOC,Q46,Europa,"```json {""wikipedia_page"":""Europa"", ""wikidata_id"":""Q46""} ```",0.9996191719944747
+https://digitalzibaldone.net/node/p3858_1,1125,1131,spagna,LOC,Q29,Spagna,"```json {""wikipedia_page"":""Spagna"", ""wikidata_id"":""Q29""} ```",0.9966052840160382
+https://digitalzibaldone.net/node/p3858_1,1293,1299,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9997578607379
+https://digitalzibaldone.net/node/p3858_1,1308,1314,spagna,LOC,Q29,Spagna,"```json { ""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29"" } ```",0.9986680329775223
+https://digitalzibaldone.net/node/p3858_1,2089,2095,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.999714003798426
+https://digitalzibaldone.net/node/p3858_1,2101,2107,Spagna,LOC,Q29,Spagna,"```json { ""wikipedia_page"": ""Spagna"", ""wikidata_id"": ""Q29"" } ```",0.9973276200487952
+https://digitalzibaldone.net/node/p3875_1,741,746,Forc.,WORK,NIL,Forc.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3887_1,23,29,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9905773766636904
+https://digitalzibaldone.net/node/p3887_1,86,95,Trivulzio,PER,Q742997,Gian Giacomo Trivulzio,"```json {""wikipedia_page"":""Gian Giacomo Trivulzio"", ""wikidata_id"":""Q742997""} ```",0.9252570905748002
+https://digitalzibaldone.net/node/p3887_1,100,112,Montecuccoli,PER,Q454789,Raimondo Montecuccoli,"```json { ""wikipedia_page"": ""Raimondo Montecuccoli"", ""wikidata_id"": ""Q454789"" } ```",0.9430571923207837
+https://digitalzibaldone.net/node/p3887_1,238,262,la Repubblica di Venezia,LOC,Q4948,Repubblica di Venezia,"```json { ""wikipedia_page"": ""Repubblica di Venezia"", ""wikidata_id"": ""Q4948"" } ```",0.9048275835782873
+https://digitalzibaldone.net/node/p3887_1,601,615,Bernardo Tasso,PER,Q823060,Bernardo Tasso,"```json {""wikipedia_page"":""Bernardo Tasso"", ""wikidata_id"":""Q823060""} ```",0.995519847082485
+https://digitalzibaldone.net/node/p3887_1,617,624,Lettere,WORK,Q995950,Epistole,"```json {""wikipedia_page"":""Epistole"", ""wikidata_id"":""Q995950""} ```",0.48151340808698057
+https://digitalzibaldone.net/node/p3887_1,1033,1041,Mazarino,PER,NIL,Mazarino,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3887_1,1045,1053,Alberoni,PER,Q539927,Giulio Alberoni,"```json {""wikipedia_page"":""Giulio Alberoni"", ""wikidata_id"":""Q539927""} ```",0.7615754088220893
+https://digitalzibaldone.net/node/p3887_1,1058,1069,Bentivoglio,PER,Q2365088,Bentivoglio (famiglia),"```json {""wikipedia_page"": ""Bentivoglio (famiglia)"", ""wikidata_id"": ""Q2365088""} ```",0.8379179142962471
+https://digitalzibaldone.net/node/p3887_1,1083,1093,Lucchesini,PER,NIL,Lucchesini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3887_1,1355,1359,Roma,LOC,Q170174,Stato Pontificio,"```json {""wikipedia_page"":""Stato Pontificio"", ""wikidata_id"":""Q170174""} ```",0.0004047127544496073
+https://digitalzibaldone.net/node/p3887_1,1447,1453,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.9993338396379406
+https://digitalzibaldone.net/node/p3887_1,1674,1680,europa,LOC,Q46,Europa,"```json { ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" } ```",0.9996398959495872
+https://digitalzibaldone.net/node/p3887_1,2108,2114,Trento,LOC,Q172991,Concilio di Trento,"```json {""wikipedia_page"":""Concilio di Trento"", ""wikidata_id"":""Q172991""} ```",0.014492039071844091
+https://digitalzibaldone.net/node/p3887_1,2676,2682,italia,LOC,Q38,Italia,"```json {""wikipedia_page"":""Italia"", ""wikidata_id"":""Q38""} ```",0.9993193237870104
+https://digitalzibaldone.net/node/p3887_1,2884,2890,italia,LOC,Q38,Italia,"```json { ""wikipedia_page"": ""Italia"", ""wikidata_id"": ""Q38"" } ```",0.9994050322634217
+https://digitalzibaldone.net/node/p3887_1,3061,3065,Roma,LOC,Q220,Roma,"```json { ""wikipedia_page"": ""Roma"", ""wikidata_id"": ""Q220"" } ```",0.9775547105780328
+https://digitalzibaldone.net/node/p3887_1,3128,3137,S. Pietro,PER,Q12512,Basilica di San Pietro in Vaticano,"```json {""wikipedia_page"":""Basilica di San Pietro in Vaticano"", ""wikidata_id"":""Q12512""} ```",0.0029958014326830797
+https://digitalzibaldone.net/node/p3887_1,3212,3218,Leon X,PER,Q49237,Papa Leone X,"```json {""wikipedia_page"":""Papa Leone X"", ""wikidata_id"":""Q49237""} ```",0.4448732015299181
+https://digitalzibaldone.net/node/p3887_1,3315,3319,Roma,LOC,Q220,Roma,"```json {""wikipedia_page"":""Roma"", ""wikidata_id"":""Q220""} ```",0.9885990049736554
+https://digitalzibaldone.net/node/p3895_2,366,373,Niebuhr,PER,Q60586,Barthold Georg Niebuhr,"```json { ""wikipedia_page"": ""Barthold Georg Niebuhr"", ""wikidata_id"": ""Q60586"" } ```",0.9666836158302623
+https://digitalzibaldone.net/node/p3902_1,62,67,Petr.,PER,NIL,Petr.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3902_1,172,184,San Flaviano,PER,NIL,San Flaviano,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3907_2,88,96,2. lett.,WORK,NIL,2. lett.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3907_2,100,109,Feder. II,PER,NIL,Feder. II,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3907_2,169,177,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3931_3,66,77,Frédéric II,PER,Q33550,Federico II di Prussia,"```json {""wikipedia_page"":""Federico II di Prussia"", ""wikidata_id"":""Q33550""} ```",0.3710061386967446
+https://digitalzibaldone.net/node/p3931_3,91,99,D'Argens,PER,Q705830,Jean-Baptiste Boyer d'Argens,"```json { ""wikipedia_page"": ""Jean-Baptiste Boyer d'Argens"", ""wikidata_id"": ""Q705830"" } ```",0.9384388180590959
+https://digitalzibaldone.net/node/p3931_3,101,137,Sur la faiblesse de l'esprit humain.,WORK,NIL,Sur la faiblesse de l'esprit humain.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3931_3,138,156,oeuvres complettes,WORK,NIL,oeuvres complettes,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3955_2,1610,1615,Maria,PER,NIL,Maria,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3961_1,89,95,Gloss.,WORK,NIL,Gloss.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3963_1,75,80,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json { ""wikipedia_page"": ""Giovanni Francesco Fortunio"", ""wikidata_id"": ""Q3767271"" } ```",0.03354563035846207
+https://digitalzibaldone.net/node/p3963_1,689,694,Forc.,PER,NIL,Forc.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3963_1,745,750,Forc.,PER,NIL,Forc.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3963_1,868,873,Forc.,PER,NIL,Forc.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3963_1,901,906,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json { ""wikipedia_page"": ""Giovanni Francesco Fortunio"", ""wikidata_id"": ""Q3767271"" } ```",0.0034334658431349496
+https://digitalzibaldone.net/node/p3963_1,1329,1334,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json { ""wikipedia_page"": ""Giovanni Francesco Fortunio"", ""wikidata_id"": ""Q3767271"" } ```",0.00524285710171513
+https://digitalzibaldone.net/node/p3980_1,254,264,D. Quijote,WORK,NIL,D. Quijote,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3980_1,441,447,Sancho,PER,NIL,Sancho,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3980_1,658,668,D. Quijote,WORK,NIL,D. Quijote,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3980_1,706,713,Amberes,LOC,NIL,Amberes,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3980_3,42,50,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3986_3,273,281,Forcell.,PER,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3986_3,328,338,Caio Tizio,PER,NIL,Caio Tizio,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3988_1,161,164,odo,WORK,NIL,odo,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3988_1,213,222,De Rogati,PER,Q15672757,Francesco Saverio De Rogati,"```json {""wikipedia_page"":""Francesco Saverio De Rogati"", ""wikidata_id"":""Q15672757""} ```",0.9927761194987466
+https://digitalzibaldone.net/node/p3988_1,246,252,Anacr.,PER,NIL,Anacr.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3988_1,253,256,od.,WORK,NIL,od.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3988_1,267,274,Batillo,PER,Q791314,Batillo,"```json {""wikipedia_page"":""Batillo"", ""wikidata_id"":""Q791314""} ```",0.9905769541371329
+https://digitalzibaldone.net/node/p3988_1,412,415,oda,WORK,NIL,oda,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3988_1,499,508,Ippocrate,PER,Q5264,Ippocrate,"```json { ""wikipedia_page"": ""Ippocrate"", ""wikidata_id"": ""Q5264"" } ```",0.9982862770982567
+https://digitalzibaldone.net/node/p3992_5,254,264,D. Quijote,WORK,NIL,D. Quijote,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3992_5,483,493,D. Quijote,WORK,NIL,D. Quijote,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3992_5,537,545,la Crus.,WORK,NIL,la Crus.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3995_3,64,74,Anacreonte,PER,Q213484,Anacreonte,"```json { ""wikipedia_page"": ""Anacreonte"", ""wikidata_id"": ""Q213484"" } ```",0.9790460011849901
+https://digitalzibaldone.net/node/p4000_1,456,464,Petrarca,PER,Q1401,Francesco Petrarca,"```json { ""wikipedia_page"": ""Francesco Petrarca"", ""wikidata_id"": ""Q1401"" } ```",0.9996042450999281
+https://digitalzibaldone.net/node/p4000_1,465,470,Canz.,WORK,Q777574,Canzoniere (Petrarca),"```json {""wikipedia_page"":""Canzoniere (Petrarca)"", ""wikidata_id"":""Q777574""} ```",0.10566394782735479
+https://digitalzibaldone.net/node/p4000_4,694,699,Forc.,WORK,NIL,Forc.,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p4000_4,919,925,Gloss.,WORK,NIL,Gloss.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p4000_4,933,939,Gloss.,WORK,Q35245,Etimologia,"```json {""wikipedia_page"":""Etimologia"", ""wikidata_id"":""Q35245""} ```",0.0002022826447508858
+https://digitalzibaldone.net/node/p4000_4,1347,1354,Alberti,PER,Q182046,Leon Battista Alberti,"```json {""wikipedia_page"":""Leon Battista Alberti"", ""wikidata_id"":""Q182046""} ```",0.7364815215675011
+https://digitalzibaldone.net/node/p4000_4,1437,1446,la Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.10286071537282075

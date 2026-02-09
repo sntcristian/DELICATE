@@ -1,0 +1,173 @@
+doc_id,start_pos,end_pos,surface,type,identifier,wiki_title,answer,score
+document_110065.html,248,259,Padre Santo,PER,NIL,Padre Santo,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_110065.html,687,703,Beatissimo Padre,PER,NIL,Beatissimo Padre,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_110065.html,709,721,Universitari,ORG,Q48282,Studente,"```json { ""wikipedia_page"": ""Studente"", ""wikidata_id"": ""Q48282"" } ```",0.0021488640577162835
+document_110082.html,83,89,Italia,LOC,Q2260521,Nascita della Repubblica Italiana,"```json { ""wikipedia_page"": ""Nascita della Repubblica Italiana"", ""wikidata_id"": ""Q2260521"" } ```",1.1536782182890934e-05
+document_110092.html,267,273,Italia,LOC,NIL,Italia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_110092.html,278,285,America,LOC,Q828,America,"```json {""wikipedia_page"":""America"", ""wikidata_id"":""Q828""} ```",0.5253899320491976
+document_110139.html,302,308,Italia,LOC,Q172579,Regno d'Italia (1861-1946),"```json {""wikipedia_page"": ""Regno d'Italia (1861-1946)"", ""wikidata_id"": ""Q172579""} ```",0.03452314475773713
+document_110199.html,232,238,Italia,LOC,Q172579,Regno d'Italia (1861-1946),"```json {""wikipedia_page"":""Regno d'Italia (1861-1946)"", ""wikidata_id"":""Q172579""} ```",0.0027035464295765404
+document_110199.html,620,629,Movimento,ORG,Q49773,Movimento (sociologia),"```json {""wikipedia_page"": ""Movimento (sociologia)"", ""wikidata_id"": ""Q49773""} ```",0.46640002103565265
+document_110205.html,30,40,Margadonna,PER,NIL,Margadonna,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_110220.html,130,148,Laureati Cattolici,ORG,NIL,Laureati Cattolici,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_110220.html,523,531,Laureati,ORG,NIL,Laureati,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_110220.html,631,649,Laureati Cattolici,ORG,Q1054679,Laurea,"```json {""wikipedia_page"":""Laurea"", ""wikidata_id"":""Q1054679""} ```",0.002364326275101883
+document_110220.html,834,843,Movimento,ORG,Q3663780,Movimento cattolico in Italia,"```json { ""wikipedia_page"": ""Movimento cattolico in Italia"", ""wikidata_id"": ""Q3663780"" } ```",0.002548790261153524
+document_110220.html,912,920,Laureati,ORG,NIL,Laureati,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_121020.html,75,85,Presidente,PER,NIL,Presidente,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_121020.html,123,134,Commissione,ORG,Q2986700,Commissione parlamentare,"```json {""wikipedia_page"": ""Commissione parlamentare"", ""wikidata_id"": ""Q2986700""} ```",0.10690966539535002
+document_121020.html,233,243,Presidente,PER,NIL,Presidente,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_121024.html,78,85,La Pira,PER,NIL,La Pira,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_121024.html,169,177,Marchesi,PER,NIL,Marchesi,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+document_121043.html,84,92,Marchesi,PER,NIL,Marchesi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_121093.html,208,214,Nobile,PER,Q134737,Nobiltà,"```json {""wikipedia_page"":""Nobiltà"", ""wikidata_id"":""Q134737""} ```",0.5486042463711861
+document_121097.html,76,82,Chiesa,ORG,Q159583,Santa Sede,"```json {""wikipedia_page"": ""Santa Sede"", ""wikidata_id"": ""Q159583""} ```",0.005002745473628105
+document_121170.html,58,69,Commissione,ORG,Q780180,"Commissione per le libertà civili, la giustizia e gli affari interni del Parlamento europeo","```json { ""wikipedia_page"": ""Commissione per le libertà civili, la giustizia e gli affari interni del Parlamento europeo"", ""wikidata_id"": ""Q780180"" } ```",0.014740781644830055
+document_121170.html,189,197,Targetti,PER,Q3929607,Raimondo Targetti,"```json { ""wikipedia_page"": ""Raimondo Targetti"", ""wikidata_id"": ""Q3929607"" } ```",0.9644241708897726
+document_121186.html,353,363,Condorelli,PER,Q18734796,Mario Condorelli,"```json {""wikipedia_page"": ""Mario Condorelli"", ""wikidata_id"": ""Q18734796""} ```",0.07106897385887187
+document_121217.html,198,213,Luciano Magrini,PER,NIL,Luciano Magrini,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_121217.html,256,264,Il Mondo,ORG,Q3792806,Il Mondo (quotidiano),"```json {""wikipedia_page"": ""Il Mondo (quotidiano)"", ""wikidata_id"": ""Q3792806""} ```",0.7212457630303146
+document_122018.html,207,217,Parlamento,ORG,Q841424,Camera dei deputati (Italia),"```json { ""wikipedia_page"": ""Camera dei deputati (Italia)"", ""wikidata_id"": ""Q841424"" } ```",0.006268122524726094
+document_122034.html,407,416,Assemblea,ORG,Q841424,Camera dei deputati (Italia),"```json {""wikipedia_page"":""Camera dei deputati (Italia)"", ""wikidata_id"":""Q841424""} ```",0.30713093530911456
+document_122034.html,1181,1191,Parlamento,ORG,Q35749,Parlamento,"```json {""wikipedia_page"": ""Parlamento"", ""wikidata_id"": ""Q35749""} ```",0.8019001896138499
+document_122044.html,7,17,Presidente,PER,Q6360077,Presidente della Camera dei deputati (Italia),"```json { ""wikipedia_page"": ""Presidente della Camera dei deputati (Italia)"", ""wikidata_id"": ""Q6360077"" } ```",0.05853598240351418
+document_131106.html,582,587,Paese,LOC,Q2250397,Italia meridionale,"```json { ""wikipedia_page"": ""Italia meridionale"", ""wikidata_id"": ""Q2250397"" } ```",0.000356656689951123
+document_131111.html,1793,1800,Partito,ORG,Q461886,Partito Comunista Italiano,"```json {""wikipedia_page"":""Partito Comunista Italiano"", ""wikidata_id"":""Q461886""} ```",0.013466560547843051
+document_131126.html,980,987,Partito,ORG,NIL,Partito,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_131130.html,25,35,Presidente,PER,Q7477985,Presidente del Senato della Repubblica,"```json { ""wikipedia_page"": ""Presidente del Senato della Repubblica"", ""wikidata_id"": ""Q7477985"" } ```",0.01019079708870091
+document_131130.html,220,227,Governo,ORG,NIL,Governo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_131130.html,428,435,Governo,ORG,NIL,Governo,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_132006.html,25,40,Sommo Pontefice,PER,Q19546,Papa,"```json {""wikipedia_page"": ""Papa"", ""wikidata_id"": ""Q19546""} ```",0.0010633179043132383
+document_132006.html,331,337,Chiesa,ORG,Q159583,Santa Sede,"```json { ""wikipedia_page"": ""Santa Sede"", ""wikidata_id"": ""Q159583"" } ```",0.04997054442419214
+document_132006.html,476,482,Chiesa,ORG,Q159583,Santa Sede,"```json { ""wikipedia_page"": ""Santa Sede"", ""wikidata_id"": ""Q159583"" } ```",0.011918183161239411
+document_132028.html,135,142,Governo,ORG,NIL,Governo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132065.html,311,320,Carandini,PER,NIL,Carandini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132073.html,67,71,Bari,LOC,Q16123,Provincia di Bari,"```json {""wikipedia_page"":""Provincia di Bari"", ""wikidata_id"":""Q16123""} ```",0.0007342449821100204
+document_132108.html,175,180,Togni,PER,Q737455,Gianni Togni,"```json { ""wikipedia_page"": ""Gianni Togni"", ""wikidata_id"": ""Q737455"" } ```",0.15931172415627862
+document_132109.html,50,55,Asahi,ORG,NIL,Asahi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132124.html,114,123,Stambolic,PER,Q456898,Ivan Stambolić,"```json {""wikipedia_page"": ""Ivan Stambolić"", ""wikidata_id"": ""Q456898""} ```",0.877931091469399
+document_132165.html,406,413,Governo,ORG,Q7188,Governo,"```json {""wikipedia_page"":""Governo"", ""wikidata_id"":""Q7188""} ```",0.8583428750022094
+document_132165.html,1161,1167,Italia,LOC,Q2250397,Italia meridionale,"```json { ""wikipedia_page"": ""Italia meridionale"", ""wikidata_id"": ""Q2250397"" } ```",0.00034494852298737924
+document_132165.html,1272,1279,Governo,ORG,Q7188,Governo,"```json { ""wikipedia_page"": ""Governo"", ""wikidata_id"": ""Q7188"" } ```",0.04660985591301311
+document_132179.html,611,618,Governo,ORG,Q7188,Governo,"```json { ""wikipedia_page"": ""Governo"", ""wikidata_id"": ""Q7188"" } ```",0.17531472285280003
+document_132179.html,748,755,Governo,ORG,Q7188,Governo,"```json {""wikipedia_page"":""Governo"", ""wikidata_id"":""Q7188""} ```",0.12318513312249378
+document_132179.html,875,882,Governo,ORG,NIL,Governo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132183.html,128,139,Arcivescovo,PER,Q1365456,Arcidiocesi di Salerno-Campagna-Acerno,"```json {""wikipedia_page"": ""Arcidiocesi di Salerno-Campagna-Acerno"", ""wikidata_id"": ""Q1365456""} ```",0.0012152009087525262
+document_132183.html,342,347,Menna,PER,NIL,Menna,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_132198.html,178,185,Governo,ORG,NIL,Governo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132230.html,773,783,Segretario,PER,Q80687,Segretario (ufficio),"```json {""wikipedia_page"":""Segretario (ufficio)"", ""wikidata_id"":""Q80687""} ```",0.28578908026280403
+document_132230.html,868,875,Partito,ORG,Q665335,Partito Socialista Democratico Italiano,"```json { ""wikipedia_page"": ""Partito Socialista Democratico Italiano"", ""wikidata_id"": ""Q665335"" } ```",0.06340100767934687
+document_132257.html,251,260,Provincia,ORG,Q15091,Provincia di Cuneo,"```json {""wikipedia_page"":""Provincia di Cuneo"", ""wikidata_id"":""Q15091""} ```",0.14177740080648737
+document_132274.html,77,87,Tremelloni,PER,NIL,Tremelloni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132289.html,203,210,Governo,ORG,NIL,Governo,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_132289.html,435,450,Andrea Torrente,PER,NIL,Andrea Torrente,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141002.html,103,115,Stefano Brun,PER,NIL,Stefano Brun,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_141002.html,279,289,Presidente,PER,Q30461,Presidente,"```json { ""wikipedia_page"": ""Presidente"", ""wikidata_id"": ""Q30461"" } ```",0.4079002316347816
+document_141002.html,319,325,Stagni,PER,NIL,Stagni,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_141002.html,405,417,Stefano Brun,PER,NIL,Stefano Brun,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_141027.html,137,143,Italia,LOC,Q2250397,Italia meridionale,"```json {""wikipedia_page"": ""Italia meridionale"", ""wikidata_id"": ""Q2250397""} ```",0.0001717876392693312
+document_141031.html,82,89,Gaspari,PER,NIL,Gaspari,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141061.html,181,190,Bruxelles,LOC,Q9005,Bruxelles,"```json { ""wikipedia_page"": ""Bruxelles"", ""wikidata_id"": ""Q9005"" } ```",0.9931784786882627
+document_141061.html,361,369,Schumann,PER,NIL,Schumann,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141061.html,498,506,Schumann,PER,NIL,Schumann,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141094.html,234,240,Europa,LOC,Q458,Unione europea,"```json {""wikipedia_page"": ""Unione europea"", ""wikidata_id"": ""Q458""} ```",0.012583953219470746
+document_141095.html,267,275,Ministre,PER,NIL,Ministre,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_141104.html,79,90,Commissione,ORG,Q8880,Commissione europea,"```json {""wikipedia_page"":""Commissione europea"", ""wikidata_id"":""Q8880""} ```",0.7516089446166456
+document_141114.html,82,89,Governo,ORG,Q7188,Governo,"```json {""wikipedia_page"":""Governo"", ""wikidata_id"":""Q7188""} ```",0.20007228508807
+document_141193.html,103,113,Bouteflika,PER,NIL,Bouteflika,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_141225.html,52,61,Consiglio,ORG,Q8886,Consiglio europeo,"```json {""wikipedia_page"":""Consiglio europeo"", ""wikidata_id"":""Q8886""} ```",0.7411360202821159
+document_141225.html,178,186,Comunità,ORG,Q993160,Comunità europee,"```json {""wikipedia_page"":""Comunità europee"", ""wikidata_id"":""Q993160""} ```",0.13478895656733167
+document_141226.html,162,167,Mosca,LOC,Q641309,Trattato di Mosca (1970),"```json {""wikipedia_page"":""Trattato di Mosca (1970)"", ""wikidata_id"":""Q641309""} ```",0.0069277449990733375
+document_141226.html,176,184,Varsavia,LOC,Q658048,Trattato di Varsavia,"```json {""wikipedia_page"":""Trattato di Varsavia"", ""wikidata_id"":""Q658048""} ```",0.4812681325482984
+document_141254.html,104,110,Africa,LOC,NIL,Africa,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_141267.html,7,27,Governatore Generale,PER,NIL,Governatore Generale,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_141267.html,40,54,Primo Ministro,PER,Q14212,Primo ministro,"```json {""wikipedia_page"":""Primo ministro"", ""wikidata_id"":""Q14212""} ```",0.7496494825435123
+document_141269.html,78,86,Comunità,ORG,Q458,Unione europea,"```json {""wikipedia_page"": ""Unione europea"", ""wikidata_id"": ""Q458""} ```",9.87805347484603e-05
+document_141269.html,294,302,Comunità,ORG,Q993160,Comunità europee,"```json { ""wikipedia_page"": ""Comunità europee"", ""wikidata_id"": ""Q993160"" } ```",0.00022084581897029672
+document_141270.html,47,74,Repubblica Federale Tedesca,LOC,Q183,Germania,"```json { ""wikipedia_page"": ""Germania"", ""wikidata_id"": ""Q183"" } ```",0.17095496906170438
+document_141271.html,178,200,Consiglio ministeriale,ORG,Q15105,Consiglio dei ministri,"```json {""wikipedia_page"": ""Consiglio dei ministri"", ""wikidata_id"": ""Q15105""} ```",0.27055627132385945
+document_141271.html,358,361,MEC,ORG,NIL,MEC,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_141276.html,542,557,Governo maltese,ORG,NIL,Governo maltese,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141276.html,975,1002,Repubblica federale tedesca,LOC,Q183,Germania,"```json {""wikipedia_page"": ""Germania"", ""wikidata_id"": ""Q183""} ```",0.4550337943581667
+document_142010.html,8,18,Presidente,PER,Q248577,Presidente della Repubblica,"```json {""wikipedia_page"":""Presidente della Repubblica"", ""wikidata_id"":""Q248577""} ```",0.015558509778492846
+document_142010.html,43,50,Governo,ORG,Q7188,Governo,"```json {""wikipedia_page"":""Governo"", ""wikidata_id"":""Q7188""} ```",0.7708723137603025
+document_142022.html,10,20,Presidente,PER,NIL,Presidente,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_142022.html,226,233,Governo,ORG,Q7188,Governo,"```json { ""wikipedia_page"": ""Governo"", ""wikidata_id"": ""Q7188"" } ```",0.7430537083257813
+document_142035.html,302,307,Paese,LOC,NIL,Paese,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_142035.html,492,499,Francia,LOC,NIL,Francia,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_142035.html,502,508,Italia,LOC,NIL,Italia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_142035.html,672,686,unione europea,ORG,NIL,unione europea,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_142036.html,345,358,Gran Bretagna,LOC,Q23666,Gran Bretagna,"```json { ""wikipedia_page"": ""Gran Bretagna"", ""wikidata_id"": ""Q23666"" } ```",0.9863176745918547
+document_142036.html,428,441,Gran Bretagna,LOC,Q23666,Gran Bretagna,"```json { ""wikipedia_page"": ""Gran Bretagna"", ""wikidata_id"": ""Q23666"" } ```",0.94662747649784
+document_142036.html,496,504,Comunità,ORG,Q167457,Trattato che istituisce la Comunità economica europea,"```json { ""wikipedia_page"": ""Comunità Economica Europea"", ""wikidata_id"": ""Q167457"" } ```",0.0013105477725224362
+document_142036.html,744,765,Parlamento britannico,ORG,NIL,Parlamento britannico,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_142047.html,769,772,OUA,ORG,NIL,OUA,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_142061.html,125,136,Costituente,ORG,NIL,Costituente,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_142061.html,1156,1175,Repubblica italiana,LOC,Q2260521,Nascita della Repubblica Italiana,"```json {""wikipedia_page"":""Nascita della Repubblica Italiana"", ""wikidata_id"":""Q2260521""} ```",0.008734571620422458
+document_142079.html,3,24,Signor Primo ministro,PER,Q14212,Primo ministro,"```json { ""wikipedia_page"": ""Primo ministro"", ""wikidata_id"": ""Q14212"" } ```",0.5540186845985868
+document_142087.html,8,22,Primo Ministro,PER,NIL,Primo Ministro,"```json {""wikipedia_page"":""Primo ministro"", ""wikidata_id"":""NIL""} ```",0
+document_142145.html,372,377,Cappi,PER,NIL,Cappi,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_142145.html,797,804,Morlino,PER,NIL,Morlino,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_142145.html,814,821,Cossiga,PER,Q767345,Giuseppe Cossiga,"```json { ""wikipedia_page"": ""Francesco Cossiga"", ""wikidata_id"": ""Q767345"" } ```",0.10662850591784445
+document_142186.html,56,67,Stati Uniti,LOC,Q49,America del Nord,"```json {""wikipedia_page"":""America del Nord"", ""wikidata_id"":""Q49""} ```",0.02719882137313103
+document_142196.html,7,17,Presidente,PER,Q6360077,Presidente della Camera dei deputati (Italia),"```json { ""wikipedia_page"": ""Presidente della Camera dei deputati (Italia)"", ""wikidata_id"": ""Q6360077"" } ```",0.0554016867856676
+document_142196.html,391,426,Presidente della Commissione esteri,PER,NIL,Presidente della Commissione esteri,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_142221.html,10,16,Camere,ORG,Q35749,Parlamento,"```json { ""wikipedia_page"": ""Parlamento"", ""wikidata_id"": ""Q35749"" } ```",0.005007708662057807
+document_142221.html,381,388,Kappler,PER,Q3713085,Domenico Kappler,"```json {""wikipedia_page"":""Domenico Kappler"", ""wikidata_id"":""Q3713085""} ```",0.3194555234686852
+document_110106.html,292,304,Associazioni,ORG,Q3318304,Azione Cattolica,"```json { ""wikipedia_page"": ""Azione Cattolica"", ""wikidata_id"": ""Q3318304"" } ```",0.14519478537997282
+document_110167.html,64,72,Germania,LOC,Q7318,Germania nazista,"```json { ""wikipedia_page"": ""Germania nazista"", ""wikidata_id"": ""Q7318"" } ```",1.3961615904413464e-05
+document_121104.html,188,194,Italia,LOC,Q172579,Regno d'Italia (1861-1946),"```json { ""wikipedia_page"": ""Regno d'Italia (1861-1946)"", ""wikidata_id"": ""Q172579"" } ```",0.0013724588451207997
+document_122004.html,149,160,Commissione,ORG,Q2986700,Commissione parlamentare,"```json { ""wikipedia_page"": ""Commissione parlamentare"", ""wikidata_id"": ""Q2986700"" } ```",0.06188029132232181
+document_122004.html,504,513,Ministero,ORG,NIL,Ministero,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_122004.html,1454,1462,Marchesi,PER,NIL,Marchesi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_122004.html,1510,1519,Ministero,ORG,NIL,Ministero,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_122033.html,246,253,Covelli,PER,NIL,Covelli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_131120.html,118,130,Teatro Nuovo,ORG,NIL,Teatro Nuovo,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_132117.html,169,176,Sindaco,PER,Q3722207,Sindaci di Firenze,"```json {""wikipedia_page"":""Sindaci di Firenze"", ""wikidata_id"":""Q3722207""} ```",0.0414817964840189
+document_132172.html,122,125,Ice,ORG,NIL,Ice,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_132172.html,228,236,Istituto,ORG,Q3803846,Istituto universitario,"```json { ""wikipedia_page"": ""Istituto universitario"", ""wikidata_id"": ""Q3803846"" } ```",0.02295801732493057
+document_132172.html,471,474,Ice,ORG,NIL,Ice,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132172.html,481,487,Donati,PER,NIL,Donati,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132172.html,554,561,Governo,ORG,NIL,Governo,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_132172.html,779,786,Governo,ORG,NIL,Governo,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_132296.html,166,173,Regione,LOC,Q16110,Regione (Italia),"```json {""wikipedia_page"":""Regione (Italia)"", ""wikidata_id"":""Q16110""} ```",0.4979592021707873
+document_132296.html,1114,1121,Regione,LOC,Q1222,Valle d'Aosta,"```json {""wikipedia_page"": ""Valle d'Aosta"", ""wikidata_id"":""Q1222""} ```",0.0015502447485961934
+document_132296.html,1182,1201,Consiglio regionale,ORG,Q1077701,Consiglio regionale (Italia),"```json { ""wikipedia_page"": ""Consiglio regionale (Italia)"", ""wikidata_id"": ""Q1077701"" } ```",0.45768870596504446
+document_141046.html,234,241,Governo,ORG,NIL,Governo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141203.html,67,107,ministro federale austriaco degli Esteri,PER,Q5468294,Ministri degli affari esteri della Repubblica d'Austria,"```json {""wikipedia_page"":""Ministri degli affari esteri della Repubblica d'Austria"", ""wikidata_id"":""Q5468294""} ```",0.05431108359816026
+document_142053.html,84,93,Bruxelles,LOC,Q9005,Bruxelles,"```json {""wikipedia_page"":""Bruxelles"", ""wikidata_id"":""Q9005""} ```",0.9743169024742404
+document_142053.html,202,208,Europa,LOC,Q458,Unione europea,"```json {""wikipedia_page"": ""Unione europea"", ""wikidata_id"": ""Q458""} ```",0.01181218020431881
+document_142053.html,382,385,Usa,LOC,NIL,Usa,"```json { ""wikipedia_page"": ""United States"", ""wikidata_id"": ""Q30"" } ```",0
+document_142073.html,8,18,Presidente,PER,Q6360077,Presidente della Camera dei deputati (Italia),"```json { ""wikipedia_page"": ""Presidente della Camera dei deputati (Italia)"", ""wikidata_id"": ""Q6360077"" } ```",0.048987212875586626
+document_142073.html,809,816,Governo,ORG,NIL,Governo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_142073.html,913,920,Rognoni,PER,NIL,Rognoni,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_142073.html,943,953,De Martino,PER,NIL,De Martino,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+document_142073.html,962,969,Orlandi,PER,NIL,Orlandi,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_142116.html,76,90,Primo Ministro,PER,Q14212,Primo ministro,"```json { ""wikipedia_page"": ""Primo ministro"", ""wikidata_id"": ""Q14212"" } ```",0.978583679499733
+document_110032.html,46,58,Universitari,ORG,NIL,Universitari,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_110032.html,131,143,Associazione,ORG,Q479048,Associazioni e movimenti cattolici,"```json { ""wikipedia_page"": ""Associazioni e movimenti cattolici"", ""wikidata_id"": ""Q479048"" } ```",0.017539118522729
+document_110032.html,535,538,Dio,PER,Q190,Dio,"```json {""wikipedia_page"":""Dio"", ""wikidata_id"":""Q190""} ```",0.9588511397628581
+document_110032.html,602,608,Chiesa,ORG,Q159583,Santa Sede,"```json {""wikipedia_page"":""Santa Sede"", ""wikidata_id"":""Q159583""} ```",0.004355992063494541
+document_110034.html,161,189,Gioventù di Azione Cattolica,ORG,Q3318304,Azione Cattolica,"```json {""wikipedia_page"":""Azione Cattolica"", ""wikidata_id"":""Q3318304""} ```",0.9876249200960479
+document_110114.html,114,120,Italia,LOC,Q172579,Regno d'Italia (1861-1946),"```json {""wikipedia_page"":""Regno d'Italia (1861-1946)"", ""wikidata_id"":""Q172579""} ```",0.0046717295695013605
+document_110144.html,38,43,Padre,PER,NIL,Padre,"```json { ""wikipedia_page"":"""", ""wikidata_id"":""NIL"" } ```",0
+document_121012.html,45,53,Lombardi,PER,Q3934504,Riccardo Lombardi (politico),"```json { ""wikipedia_page"": ""Riccardo Lombardi (politico)"", ""wikidata_id"": ""Q3934504"" } ```",0.9809981476743344
+document_121021.html,363,368,Basso,PER,NIL,Basso,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_131072.html,49,73,Presidente del Consiglio,PER,Q796897,Presidente del Consiglio dei ministri della Repubblica Italiana,"```json { ""wikipedia_page"": ""Presidente del Consiglio dei ministri della Repubblica Italiana"", ""wikidata_id"": ""Q796897"" } ```",0.1665899259974945
+document_131072.html,434,441,Morlino,PER,NIL,Morlino,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_131092.html,79,86,Partito,ORG,NIL,Partito,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_132086.html,151,167,Governo italiano,ORG,NIL,Governo italiano,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_132115.html,39,47,Badaloni,PER,Q3876122,Nicola Badaloni (politico 1924),"```json {""wikipedia_page"":""Nicola Badaloni (politico 1924)"", ""wikidata_id"":""Q3876122""} ```",0.33483009077913084
+document_132194.html,1125,1132,Pogdora,LOC,NIL,Pogdora,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_132194.html,1921,1927,Italia,LOC,Q172579,Regno d'Italia (1861-1946),"```json { ""wikipedia_page"": ""Regno d'Italia (1861-1946)"", ""wikidata_id"": ""Q172579"" } ```",0.0022791047951392284
+document_132264.html,716,723,Partito,ORG,NIL,Partito,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141097.html,54,63,Bruxelles,LOC,Q9005,Bruxelles,"```json {""wikipedia_page"": ""Bruxelles"", ""wikidata_id"": ""Q9005""} ```",0.9978073875404755
+document_141172.html,206,225,Governo indonesiano,ORG,NIL,Governo indonesiano,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_141172.html,250,258,Djakarta,LOC,NIL,Djakarta,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141245.html,87,112,Repubblica araba egiziana,LOC,NIL,Repubblica araba egiziana,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141245.html,114,117,RAE,LOC,NIL,RAE,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141245.html,178,187,Farnesina,ORG,Q789842,Ministero degli affari esteri e della cooperazione internazionale,"```json {""wikipedia_page"":""Ministero degli affari esteri e della cooperazione internazionale"", ""wikidata_id"":""Q789842""} ```",0.36893973489727006
+document_141245.html,224,227,RAE,LOC,NIL,RAE,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_141245.html,513,522,Ripamonti,PER,NIL,Ripamonti,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_141245.html,598,605,Picardi,PER,NIL,Picardi,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_141245.html,674,678,Gaja,PER,NIL,Gaja,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0

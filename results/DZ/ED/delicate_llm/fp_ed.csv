@@ -1,0 +1,229 @@
+doc_id,start_pos,end_pos,surface,type,identifier,wiki_title,answer,score
+https://digitalzibaldone.net/node/p1012_2,243,249,Andrès,PER,NIL,Andrès,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1012_2,276,280,Roma,LOC,Q18287233,Roma (città antica),"```json { ""wikipedia_page"": ""Roma (città antica)"", ""wikidata_id"": ""Q18287233"" } ```",0.2074197488321454
+https://digitalzibaldone.net/node/p1023_2,52,64,impero greco,LOC,Q11772,Antica Grecia,"```json {""wikipedia_page"": ""Antica Grecia"", ""wikidata_id"": ""Q11772""} ```",0.254094062135868
+https://digitalzibaldone.net/node/p1023_2,251,255,Cic.,PER,Q180081,Marco Porcio Catone,"```json {""wikipedia_page"":""Marco Porcio Catone"", ""wikidata_id"":""Q180081""} ```",0.0009825682438992297
+https://digitalzibaldone.net/node/p1034_2,62,68,Italia,LOC,Q913582,Italia romana,"```json { ""wikipedia_page"": ""Italia romana"", ""wikidata_id"": ""Q913582"" } ```",0.010571777923925442
+https://digitalzibaldone.net/node/p1037_1,40,50,᾽Eπιτάϕιος,WORK,NIL,᾽Eπιτάϕιος,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1040_1,421,427,italia,LOC,Q184313,Magna Grecia,"```json {""wikipedia_page"":""Magna Grecia"", ""wikidata_id"":""Q184313""} ```",0.0037542897944370717
+https://digitalzibaldone.net/node/p1040_1,681,687,italia,LOC,Q913582,Italia romana,"```json { ""wikipedia_page"": ""Italia romana"", ""wikidata_id"": ""Q913582"" } ```",0.0011201470153733525
+https://digitalzibaldone.net/node/p1042_2,208,214,italia,LOC,Q913582,Italia romana,"```json { ""wikipedia_page"": ""Italia romana"", ""wikidata_id"": ""Q913582"" } ```",0.004548980897171542
+https://digitalzibaldone.net/node/p1042_2,432,436,Roma,LOC,Q18287233,Roma (città antica),"```json { ""wikipedia_page"": ""Roma (città antica)"", ""wikidata_id"": ""Q18287233"" } ```",0.42260148633684624
+https://digitalzibaldone.net/node/p1042_2,442,448,italia,LOC,Q913582,Italia romana,"```json { ""wikipedia_page"": ""Italia romana"", ""wikidata_id"": ""Q913582"" } ```",0.008408650223825163
+https://digitalzibaldone.net/node/p1042_2,622,626,Roma,LOC,Q18287233,Roma (città antica),"```json {""wikipedia_page"":""Roma (città antica)"", ""wikidata_id"":""Q18287233""} ```",0.5506418154581966
+https://digitalzibaldone.net/node/p1042_2,632,638,italia,LOC,Q913582,Italia romana,"```json { ""wikipedia_page"": ""Italia romana"", ""wikidata_id"": ""Q913582"" } ```",0.012053382504647454
+https://digitalzibaldone.net/node/p1042_2,1112,1118,italia,LOC,Q184313,Magna Grecia,"```json { ""wikipedia_page"": ""Magna Grecia"", ""wikidata_id"": ""Q184313"" } ```",0.0019628224470891876
+https://digitalzibaldone.net/node/p1054_2,330,340,Forcellini,WORK,Q550353,Egidio Forcellini,"```json {""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353""} ```",0.37294329098755025
+https://digitalzibaldone.net/node/p1055_2,128,133,Soave,PER,NIL,Soave,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1055_2,170,179,Compendio,WORK,Q124761,Epitome,"```json { ""wikipedia_page"": ""Epitome"", ""wikidata_id"": ""Q124761"" } ```",0.0760516613810138
+https://digitalzibaldone.net/node/p1104_1,650,659,la Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.20589097974902235
+https://digitalzibaldone.net/node/p1105_1,234,248,il Forcellini.,WORK,Q550353,Egidio Forcellini,"```json {""wikipedia_page"":""Egidio Forcellini"", ""wikidata_id"":""Q550353""} ```",0.5131019999157997
+https://digitalzibaldone.net/node/p1105_3,1017,1020,En.,WORK,Q447,Encyclopédie,"```json {""wikipedia_page"": ""Encyclopédie"", ""wikidata_id"": ""Q447""} ```",0.2768014852104441
+https://digitalzibaldone.net/node/p1139_1,758,765,Servius,PER,NIL,Servius,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1139_1,766,773,ad Aen.,WORK,Q1973998,Rhetorica ad Herennium,"```json { ""wikipedia_page"": ""Rhetorica ad Herennium"", ""wikidata_id"": ""Q1973998"" } ```",0.01961837195287815
+https://digitalzibaldone.net/node/p1139_1,793,800,Fabric.,PER,NIL,Fabric.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1139_1,801,806,B. G.,WORK,NIL,B. G.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1139_1,823,833,il Lessico,WORK,Q8096,Lessico,"```json {""wikipedia_page"":""Lessico"", ""wikidata_id"":""Q8096""} ```",0.13169710436945464
+https://digitalzibaldone.net/node/p1139_1,839,847,Hofmanno,PER,NIL,Hofmanno,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1139_1,1249,1276,Annali di Scienze e lettere,WORK,Q193866,Annali,"```json {""wikipedia_page"":""Annali"", ""wikidata_id"":""Q193866""} ```",0.136968414795673
+https://digitalzibaldone.net/node/p1217_1,57,68,Vocabolario,WORK,Q4015908,Vocabolario Treccani,"```json { ""wikipedia_page"": ""Vocabolario Treccani"", ""wikidata_id"": ""Q4015908"" } ```",0.04927135121251961
+https://digitalzibaldone.net/node/p1230_1,23,33,Forcellini,PER,NIL,Forcellini,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p1230_1,162,168,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.3985452383531534
+https://digitalzibaldone.net/node/p1230_1,203,211,Soderini,PER,NIL,Soderini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1230_1,458,464,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.23091293886898126
+https://digitalzibaldone.net/node/p1230_1,528,547,M. Pace da Certaldo,PER,NIL,M. Pace da Certaldo,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1230_1,793,810,Vincenzo Lancetti,PER,NIL,Vincenzo Lancetti,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p1230_1,870,876,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489""} ```",0.302044236490166
+https://digitalzibaldone.net/node/p1230_1,983,989,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.13573088724107735
+https://digitalzibaldone.net/node/p1230_1,1094,1100,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.31027407351991837
+https://digitalzibaldone.net/node/p1230_1,1147,1158,Il Du Cange,WORK,Q442240,"Charles du Fresne, sieur du Cange","```json {""wikipedia_page"": ""Charles du Fresne, sieur du Cange"", ""wikidata_id"": ""Q442240""} ```",0.10937124526384101
+https://digitalzibaldone.net/node/p1290_1,731,737,Morery,PER,NIL,Morery,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1290_1,739,768,Grand dictionnaire historique,WORK,NIL,Grand dictionnaire historique,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1290_1,795,801,Calmet,PER,NIL,Calmet,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1290_1,821,827,Vossio,PER,NIL,Vossio,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1290_1,1184,1190,Bibbia,WORK,Q83367,Tanakh,"```json { ""wikipedia_page"": ""Tanakh"", ""wikidata_id"": ""Q83367"" } ```",0.4319862600495838
+https://digitalzibaldone.net/node/p1313_1,239,247,Proposta,WORK,NIL,Proposta,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1329_1,356,364,Lancetti,PER,NIL,Lancetti,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1329_1,380,388,Proposta,WORK,NIL,Proposta,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1350_1,305,308,ib.,WORK,Q1547546,Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste,"```json {""wikipedia_page"": ""Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste"", ""wikidata_id"": ""Q1547546""} ```",0.0013204992307665694
+https://digitalzibaldone.net/node/p1366_1,323,329,Grecia,LOC,NIL,Grecia,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1366_1,590,598,Proposta,WORK,Q3924076,Prose nelle quali si ragiona della volgar lingua,"```json { ""wikipedia_page"": ""Prose nelle quali si ragiona della volgar lingua"", ""wikidata_id"": ""Q3924076"" } ```",0.008299961268188258
+https://digitalzibaldone.net/node/p1378_1,721,726,Gelli,PER,Q294800,Aulo Gellio,"```json {""wikipedia_page"": ""Aulo Gellio"", ""wikidata_id"": ""Q294800""} ```",0.00274544837351357
+https://digitalzibaldone.net/node/p1445_1,129,135,Thomas,PER,NIL,Thomas,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1445_1,136,156,Essai sur les Eloges,WORK,NIL,Essai sur les Eloges,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1445_1,210,217,Meursio,PER,NIL,Meursio,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1447_3,408,421,"Vit. Plotini,",WORK,Q134189,Plotino,"```json { ""wikipedia_page"": ""Vita di Plotino"", ""wikidata_id"": ""Q134189"" } ```",0.7907104657099622
+https://digitalzibaldone.net/node/p1450_1,1012,1022,il Rinaldo,WORK,NIL,il Rinaldo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1454_1,561,565,vita,WORK,Q3,Vita,"```json { ""wikipedia_page"": ""Vita"", ""wikidata_id"": ""Q3"" } ```",0.8922326913610397
+https://digitalzibaldone.net/node/p1487_1,328,334,Sulzer,PER,NIL,Sulzer,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1501_1,373,379,spagne,LOC,NIL,spagne,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1601_1,665,673,Grandeur,WORK,NIL,Grandeur,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1659_1,1041,1046,Dante,PER,Q1401,Francesco Petrarca,"```json { ""wikipedia_page"": ""Francesco Petrarca"", ""wikidata_id"": ""Q1401"" } ```",0.012348776094940209
+https://digitalzibaldone.net/node/p1678_1,383,388,monti,PER,NIL,monti,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1678_1,390,398,Proposta,WORK,NIL,Proposta,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1678_1,637,643,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.19742122188200179
+https://digitalzibaldone.net/node/p1678_1,691,697,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489""} ```",0.1617756833566006
+https://digitalzibaldone.net/node/p1678_1,751,757,Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.4285940448842265
+https://digitalzibaldone.net/node/p1699_2,1323,1334,Veterinaria,WORK,NIL,Veterinaria,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p1699_2,1398,1405,Lettera,WORK,Q133492,Lettera (messaggio),"```json { ""wikipedia_page"": ""Lettera (messaggio)"", ""wikidata_id"": ""Q133492"" } ```",0.12017387179771226
+https://digitalzibaldone.net/node/p1794_1,230,251,Coti re de' Paflagoni,PER,NIL,Coti re de' Paflagoni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1794_1,335,354,῾Eλληνικῶν ἱστοριῶν,WORK,Q35497,Lingua greca antica,"```json { ""wikipedia_page"": ""Lingua greca antica"", ""wikidata_id"": ""Q35497"" } ```",0.0038443240963641464
+https://digitalzibaldone.net/node/p1822_1,605,614,Sallustio,WORK,Q7170,Gaio Sallustio Crispo,"```json {""wikipedia_page"": ""Gaio Sallustio Crispo"", ""wikidata_id"": ""Q7170""} ```",0.9433944148701204
+https://digitalzibaldone.net/node/p1822_1,618,634,Dureau Delamalle,PER,NIL,Dureau Delamalle,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p1831_1,296,316,mezzogiorno d'Europa,LOC,Q207989,Mezzogiorno (Italia),"```json {""wikipedia_page"": ""Mezzogiorno (Italia)"", ""wikidata_id"": ""Q207989""} ```",0.10727313737976088
+https://digitalzibaldone.net/node/p1858_1,315,328,Card. di Cusa,PER,NIL,Card. di Cusa,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p1867_1,1937,1955,Remigio Fiorentino,PER,NIL,Remigio Fiorentino,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1950_1,220,225,Staël,PER,NIL,Staël,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p1980_1,402,427,sull'orig. della medicina,WORK,Q380274,Storia della medicina,"```json {""wikipedia_page"":""Storia della medicina"", ""wikidata_id"":""Q380274""} ```",0.3334160405202785
+https://digitalzibaldone.net/node/p2735_1,880,893,impero latino,LOC,Q397,Lingua latina,"```json {""wikipedia_page"":""Lingua latina"", ""wikidata_id"":""Q397""} ```",0.10532385945217315
+https://digitalzibaldone.net/node/p2771_1,241,245,Caro,PER,NIL,Caro,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2778_1,1690,1696,Ammon.,PER,NIL,Ammon.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2778_1,1742,1747,Plat.,PER,Q192624,Metrica,"```json {""wikipedia_page"":""Metrica"", ""wikidata_id"":""Q192624""} ```",0.010855126301329779
+https://digitalzibaldone.net/node/p2778_1,1753,1760,Demost.,PER,NIL,Demost.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p2779_2,487,491,Pad.,LOC,Q264593,Caspar Bartholin il Vecchio,"```json { ""wikipedia_page"": ""Caspar Bartholin il Vecchio"", ""wikidata_id"": ""Q264593"" } ```",0.0009650507622305238
+https://digitalzibaldone.net/node/p2825_2,388,396,Eustazio,PER,NIL,Eustazio,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p2825_2,559,568,Mustoxidi,PER,NIL,Mustoxidi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2840_1,1013,1019,Cincio,PER,NIL,Cincio,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p2882_1,300,308,Forcell.,WORK,Q3846125,Marco Forcellini,"```json {""wikipedia_page"": ""Marco Forcellini"", ""wikidata_id"": ""Q3846125""} ```",0.005798380115099846
+https://digitalzibaldone.net/node/p2882_1,880,888,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p2882_1,1376,1387,il Glossar.,WORK,Q1132324,Glossa,"```json {""wikipedia_page"": ""Glossa"", ""wikidata_id"": ""Q1132324""} ```",0.2952143889182601
+https://digitalzibaldone.net/node/p2882_1,1388,1393,Cang.,PER,NIL,Cang.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p2882_1,1664,1672,Glossar.,WORK,Q632346,Glossa interlineare,"```json { ""wikipedia_page"": ""Glossa interlineare"", ""wikidata_id"": ""Q632346"" } ```",0.007300164291505413
+https://digitalzibaldone.net/node/p2923_3,152,162,Corticelli,PER,Q3609944,Alessandro Corticelli,"```json {""wikipedia_page"": ""Alessandro Corticelli"", ""wikidata_id"": ""Q3609944""} ```",0.8514290622001356
+https://digitalzibaldone.net/node/p2923_3,414,420,Attica,LOC,Q152626,Pomponia Cecilia Attica,"```json { ""wikipedia_page"": ""Pomponia Cecilia Attica"", ""wikidata_id"": ""Q152626"" } ```",0.9435608594241967
+https://digitalzibaldone.net/node/p2932_1,826,833,Diomede,PER,Q208256,Diomede,"```json { ""wikipedia_page"": ""Diomede"", ""wikidata_id"": ""Q208256"" } ```",0.02915746597368202
+https://digitalzibaldone.net/node/p2932_1,1245,1251,Gloss.,WORK,Q1132324,Glossa,"```json {""wikipedia_page"": ""Glossa"", ""wikidata_id"": ""Q1132324""} ```",0.3709552036743359
+https://digitalzibaldone.net/node/p2932_1,1754,1765,il Glossar.,WORK,NIL,il Glossar.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p2932_1,1870,1875,R. R.,WORK,NIL,R. R.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2935_2,71,83,il Glossario,WORK,NIL,il Glossario,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p2965_1,984,988,Vita,WORK,Q4014886,Vita (Benvenuto Cellini),"```json {""wikipedia_page"": ""Vita (Benvenuto Cellini)"", ""wikidata_id"": ""Q4014886""} ```",0.9279022647696723
+https://digitalzibaldone.net/node/p2983_2,508,514,Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.20183668164615562
+https://digitalzibaldone.net/node/p2983_2,885,898,il Forcellini,WORK,Q550353,Egidio Forcellini,"```json { ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" } ```",0.20974712165685563
+https://digitalzibaldone.net/node/p2983_2,901,913,il Glossario,WORK,Q1547546,Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste,"```json { ""wikipedia_page"": ""Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste"", ""wikidata_id"": ""Q1547546"" } ```",0.33845630944476895
+https://digitalzibaldone.net/node/p2987_1,237,252,Bastian Borrego,PER,NIL,Bastian Borrego,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p2996_1,833,838,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json {""wikipedia_page"":""Giovanni Francesco Fortunio"", ""wikidata_id"":""Q3767271""} ```",0.025484505251862744
+https://digitalzibaldone.net/node/p3001_1,126,134,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3001_1,172,178,Gloss.,WORK,NIL,Gloss.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3006_1,69,79,Forcellini,WORK,Q550353,Egidio Forcellini,"```json { ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" } ```",0.8505893935556521
+https://digitalzibaldone.net/node/p3006_1,98,104,Gloss.,WORK,Q1132324,Glossa,"```json { ""wikipedia_page"": ""Glossa"", ""wikidata_id"": ""Q1132324"" } ```",0.04223858953859416
+https://digitalzibaldone.net/node/p3053_1,263,271,Forcell.,WORK,NIL,Forcell.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3053_1,356,367,il Glossar.,WORK,NIL,il Glossar.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3055_1,905,915,Desbillons,PER,NIL,Desbillons,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3055_1,919,926,Phaedr.,WORK,NIL,Phaedr.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3055_1,927,934,Manheim,LOC,Q4020072,William Lewis Manly,"```json {""wikipedia_page"": ""William Lewis Manly"", ""wikidata_id"": ""Q4020072""} ```",0.025763258758418985
+https://digitalzibaldone.net/node/p3057_1,330,339,Chrysost.,PER,NIL,Chrysost.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3057_1,344,354,Montfaucon,PER,NIL,Montfaucon,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3060_2,79,87,Forcell.,WORK,Q550353,Egidio Forcellini,"```json {""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353""} ```",0.6603234532132215
+https://digitalzibaldone.net/node/p3071_1,249,257,Richelet,PER,NIL,Richelet,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3071_1,262,266,Diz.,WORK,Q3704127,De lingua Latina,"```json { ""wikipedia_page"": ""De lingua Latina"", ""wikidata_id"": ""Q3704127"" } ```",0.17686145531830202
+https://digitalzibaldone.net/node/p3071_1,582,593,il Glossar.,WORK,NIL,il Glossar.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3072_3,391,406,Bern. Davanzati,PER,NIL,Bern. Davanzati,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3073_3,214,220,Gloss.,WORK,NIL,Gloss.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p3077_1,782,790,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,949,955,Battie,PER,NIL,Battie,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,956,983,Isocr. Oratt. 7. et epistt.,WORK,NIL,Isocr. Oratt. 7. et epistt.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,984,994,Cantabrig.,LOC,NIL,Cantabrig.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,1600,1605,Dario,PER,NIL,Dario,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,1857,1866,Aristoph.,PER,NIL,Aristoph.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,2106,2112,Tzetz.,PER,NIL,Tzetz.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,2113,2118,Chil.,WORK,NIL,Chil.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3103_1,2175,2179,Var.,WORK,Q40634,Filologia,"```json {""wikipedia_page"": ""Filologia"", ""wikidata_id"": ""Q40634""} ```",0.014345125976749525
+https://digitalzibaldone.net/node/p3103_1,2299,2306,Fabric.,PER,Q3767184,Giovanni Fabrini,"```json { ""wikipedia_page"": ""Giovanni Fabrini"", ""wikidata_id"": ""Q3767184"" } ```",0.03367176754272476
+https://digitalzibaldone.net/node/p3103_1,2307,2312,B. G.,WORK,NIL,B. G.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3103_1,2335,2341,Meurs.,PER,Q584990,Louis de Jaucourt,"```json {""wikipedia_page"": ""Louis de Jaucourt"", ""wikidata_id"": ""Q584990""} ```",0.00672307829067401
+https://digitalzibaldone.net/node/p3103_1,2342,2352,Bibl. Att.,WORK,Q343190,Acta Sanctorum,"```json { ""wikipedia_page"": ""Acta Sanctorum"", ""wikidata_id"": ""Q343190"" } ```",0.06885905213286642
+https://digitalzibaldone.net/node/p3103_1,2353,2360,Bentley,PER,NIL,Bentley,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3141_1,187,198,Gerusalemme,LOC,Q1053313,Gerusalemme liberata,"```json { ""wikipedia_page"": ""Gerusalemme liberata"", ""wikidata_id"": ""Q1053313"" } ```",0.6682450813536184
+https://digitalzibaldone.net/node/p3141_1,261,268,Argante,PER,NIL,Argante,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3141_1,300,307,Argante,PER,Q3606846,Agramante,"```json {""wikipedia_page"":""Agramante"", ""wikidata_id"":""Q3606846""} ```",0.030248125823478734
+https://digitalzibaldone.net/node/p3141_1,900,907,Argante,PER,NIL,Argante,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3141_1,964,975,Gerusalemme,LOC,Q1053313,Gerusalemme liberata,"```json { ""wikipedia_page"": ""Gerusalemme liberata"", ""wikidata_id"": ""Q1053313"" } ```",0.007227313642831593
+https://digitalzibaldone.net/node/p3169_1,22,30,Grammat.,WORK,Q8091,Grammatica,"```json {""wikipedia_page"": ""Grammatica"", ""wikidata_id"": ""Q8091""} ```",0.13730778880603128
+https://digitalzibaldone.net/node/p3169_1,35,41,Weller,PER,NIL,Weller,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3169_1,49,54,Lips.,LOC,NIL,Lips.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3202_1,814,821,Lettera,WORK,Q995950,Epistole,"```json {""wikipedia_page"":""Epistole"", ""wikidata_id"":""Q995950""} ```",0.4651582834596306
+https://digitalzibaldone.net/node/p3202_1,834,838,Vita,WORK,Q18084,Vita nuova,"```json { ""wikipedia_page"": ""Vita nuova"", ""wikidata_id"": ""Q18084"" } ```",0.3093914543083953
+https://digitalzibaldone.net/node/p3202_1,1523,1531,Ermogene,PER,NIL,Ermogene,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3235_2,49,54,Astio,PER,NIL,Astio,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3235_2,70,75,Lips.,LOC,NIL,Lips.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3235_2,300,304,Ast.,PER,Q35497,Lingua greca antica,"```json { ""wikipedia_page"": ""Lingua greca antica"", ""wikidata_id"": ""Q35497"" } ```",0.0010360106675105108
+https://digitalzibaldone.net/node/p3235_2,794,800,Astius,PER,NIL,Astius,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3235_2,1453,1458,Timeo,PER,Q371884,Timeo (dialogo),"```json { ""wikipedia_page"": ""Timeo (dialogo)"", ""wikidata_id"": ""Q371884"" } ```",0.94039438096274
+https://digitalzibaldone.net/node/p3235_2,1492,1499,Fabric.,PER,Q1048501,Cfr.,"```json {""wikipedia_page"": ""Cfr."", ""wikidata_id"": ""Q1048501""} ```",0.031109211149542793
+https://digitalzibaldone.net/node/p3235_2,1500,1505,B. G.,WORK,NIL,B. G.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3283_2,754,760,Gloss.,WORK,NIL,Gloss.,"```json { ""wikipedia_page"": ""Glossario"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3312_2,351,361,Forcellini,WORK,NIL,Forcellini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3350_3,38,43,Forc.,WORK,NIL,Forc.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3365_1,574,579,Cirey,LOC,Q2240551,Castello di Cirey,"```json { ""wikipedia_page"": ""Castello di Cirey"", ""wikidata_id"": ""Q2240551"" } ```",0.2554456309496918
+https://digitalzibaldone.net/node/p3411_1,357,361,Rep.,WORK,NIL,Rep.,"```json {""wikipedia_page"":""Politica (Aristotele)"", ""wikidata_id"":""Q1898040""} ```",0
+https://digitalzibaldone.net/node/p3541_1,346,356,Forcellini,WORK,Q550353,Egidio Forcellini,"```json { ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" } ```",0.8315571979006914
+https://digitalzibaldone.net/node/p3541_2,116,122,Polit.,WORK,Q868,Aristotele,"```json {""wikipedia_page"": ""Aristotele"", ""wikidata_id"": ""Q868""} ```",0.02367708080332465
+https://digitalzibaldone.net/node/p3541_2,135,140,Flor.,PER,NIL,Flor.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3541_2,245,254,la Crusca,WORK,NIL,la Crusca,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3544_1,38,45,Fabric.,PER,NIL,Fabric.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3544_1,46,53,B. Lat.,WORK,NIL,B. Lat.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p3544_1,57,61,Ven.,LOC,NIL,Ven.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3544_1,99,109,Corn. Nep.,PER,NIL,Corn. Nep.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3568_2,128,137,Victorius,PER,NIL,Victorius,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3568_2,184,190,Polit.,WORK,Q194414,Scuola peripatetica,"```json {""wikipedia_page"": ""Scuola peripatetica"", ""wikidata_id"": ""Q194414""} ```",0.032539236024425267
+https://digitalzibaldone.net/node/p3568_2,201,206,Flor.,PER,NIL,Flor.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p3569_2,597,607,Forcellini,WORK,Q550353,Egidio Forcellini,"```json {""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353""} ```",0.8990855000909298
+https://digitalzibaldone.net/node/p3579_1,204,210,italia,LOC,Q913582,Italia romana,"```json {""wikipedia_page"":""Italia romana"", ""wikidata_id"":""Q913582""} ```",0.000872157677620888
+https://digitalzibaldone.net/node/p3593_1,283,288,Ugone,PER,Q1398,Publio Virgilio Marone,"```json { ""wikipedia_page"": ""Publio Virgilio Marone"", ""wikidata_id"": ""Q1398"" } ```",0.012930499804579661
+https://digitalzibaldone.net/node/p3593_1,311,318,Rinaldo,PER,Q727316,Rinaldo (paladino),"```json {""wikipedia_page"":""Rinaldo (paladino)"", ""wikidata_id"":""Q727316""} ```",0.9671890840769968
+https://digitalzibaldone.net/node/p3621_2,53,61,Forcell.,WORK,Q550353,Egidio Forcellini,"```json { ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" } ```",0.05401153673394576
+https://digitalzibaldone.net/node/p3636_1,674,681,Alberti,PER,Q182046,Leon Battista Alberti,"```json { ""wikipedia_page"": ""Leon Battista Alberti"", ""wikidata_id"": ""Q182046"" } ```",0.8024809748664711
+https://digitalzibaldone.net/node/p3636_1,963,970,Propos.,WORK,NIL,Propos.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3636_1,1334,1344,Forcellini,WORK,Q550353,Egidio Forcellini,"```json {""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353""} ```",0.9095260674268714
+https://digitalzibaldone.net/node/p3684_5,186,194,Forcell.,WORK,Q550353,Egidio Forcellini,"```json {""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353""} ```",0.41775376142321735
+https://digitalzibaldone.net/node/p3684_5,215,221,Gloss.,WORK,Q1132324,Glossa,"```json {""wikipedia_page"":""Glossa"",""wikidata_id"":""Q1132324""} ```",0.31174675257007034
+https://digitalzibaldone.net/node/p3686_2,76,84,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p3687_1,437,446,la Crusca,WORK,Q338489,Accademia della Crusca,"```json { ""wikipedia_page"": ""Accademia della Crusca"", ""wikidata_id"": ""Q338489"" } ```",0.4853083786207812
+https://digitalzibaldone.net/node/p3695_1,336,344,Forcell.,WORK,NIL,Forcell.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3715_1,1250,1255,Orat.,WORK,Q1541,Marco Tullio Cicerone,"```json { ""wikipedia_page"": ""Marco Tullio Cicerone"", ""wikidata_id"": ""Q1541"" } ```",0.29353303705851974
+https://digitalzibaldone.net/node/p3715_1,1557,1562,Forc.,WORK,Q40634,Filologia,"```json { ""wikipedia_page"": ""Filologia"", ""wikidata_id"": ""Q40634"" } ```",0.008805613140535382
+https://digitalzibaldone.net/node/p3754_1,275,280,Forc.,WORK,NIL,Forc.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3758_1,232,237,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json { ""wikipedia_page"": ""Giovanni Francesco Fortunio"", ""wikidata_id"": ""Q3767271"" } ```",0.02533660915999928
+https://digitalzibaldone.net/node/p3758_1,587,592,Forc.,PER,Q7606405,Stefano Antonio Morcelli,"```json {""wikipedia_page"":""Stefano Antonio Morcelli"", ""wikidata_id"":""Q7606405""} ```",0.00800834250456371
+https://digitalzibaldone.net/node/p3758_1,796,801,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json {""wikipedia_page"":""Giovanni Francesco Fortunio"", ""wikidata_id"":""Q3767271""} ```",0.01417932405703299
+https://digitalzibaldone.net/node/p3811_4,1296,1323,Annali di Scienze e lettere,WORK,Q193866,Annali,"```json {""wikipedia_page"": ""Annali"", ""wikidata_id"": ""Q193866""} ```",0.0974285525712814
+https://digitalzibaldone.net/node/p3828_1,16,24,Forcell.,WORK,Q27716,Grammatica latina,"```json {""wikipedia_page"":""Grammatica latina"", ""wikidata_id"":""Q27716""} ```",0.017640086376203228
+https://digitalzibaldone.net/node/p3842_1,349,354,Lips.,LOC,NIL,Lips.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3858_1,1293,1299,italia,LOC,Q3910103,Domini spagnoli in Italia,"```json { ""wikipedia_page"": ""Domini spagnoli in Italia"", ""wikidata_id"": ""Q3910103"" } ```",0.00033819966537890596
+https://digitalzibaldone.net/node/p3858_1,2089,2095,italia,LOC,Q3910103,Domini spagnoli in Italia,"```json { ""wikipedia_page"": ""Domini spagnoli in Italia"", ""wikidata_id"": ""Q3910103"" } ```",0.0002982128007299643
+https://digitalzibaldone.net/node/p3875_1,741,746,Forc.,WORK,NIL,Forc.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3887_1,23,29,italia,LOC,Q2480041,Italia medievale,"```json {""wikipedia_page"":""Italia medievale"", ""wikidata_id"":""Q2480041""} ``` Il contesto del testo, che parla di capitani illustri del 1500 e di generali italiani che servivano in vari stati italiani o stranieri, suggerisce che il riferimento a ""Italia"" si riferisce a un periodo storico specifico in cui l'Italia era divisa in molti stati. La descrizione di ""Italia medievale"" corrisponde a questo contesto, parlando di un periodo di storia italiana caratterizzato da politica frammentata simile a quella descrit",0.010569985047917493
+https://digitalzibaldone.net/node/p3887_1,617,624,Lettere,WORK,Q995950,Epistole,"```json { ""wikipedia_page"": ""Epistole"", ""wikidata_id"": ""Q995950"" } ```",0.48151340808698057
+https://digitalzibaldone.net/node/p3887_1,1033,1041,Mazarino,PER,NIL,Mazarino,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3887_1,1058,1069,Bentivoglio,PER,Q2365088,Bentivoglio (famiglia),"```json {""wikipedia_page"": ""Bentivoglio (famiglia)"", ""wikidata_id"": ""Q2365088""} ```",0.8379179142962471
+https://digitalzibaldone.net/node/p3887_1,1083,1093,Lucchesini,PER,NIL,Lucchesini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3887_1,1447,1453,italia,LOC,Q913582,Italia romana,"```json {""wikipedia_page"": ""Italia romana"", ""wikidata_id"": ""Q913582""} ```",0.0005010384586153016
+https://digitalzibaldone.net/node/p3887_1,2108,2114,Trento,LOC,Q172991,Concilio di Trento,"```json { ""wikipedia_page"": ""Concilio di Trento"", ""wikidata_id"": ""Q172991"" } ```",0.014492039071844091
+https://digitalzibaldone.net/node/p3887_1,3061,3065,Roma,LOC,Q18287233,Roma (città antica),"```json { ""wikipedia_page"": ""Roma (città antica)"", ""wikidata_id"": ""Q18287233"" } ```",0.10802390195401952
+https://digitalzibaldone.net/node/p3887_1,3128,3137,S. Pietro,PER,Q83425,Piazza San Pietro,"```json { ""wikipedia_page"": ""Piazza San Pietro"", ""wikidata_id"": ""Q83425"" } ```",0.015041308962277136
+https://digitalzibaldone.net/node/p3902_1,62,67,Petr.,PER,NIL,Petr.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3902_1,172,184,San Flaviano,PER,NIL,San Flaviano,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3907_2,88,96,2. lett.,WORK,Q951150,Ibidem,"```json {""wikipedia_page"": ""Ibidem"", ""wikidata_id"": ""Q951150""} ```",0.12182022317411843
+https://digitalzibaldone.net/node/p3907_2,169,177,Forcell.,WORK,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3961_1,89,95,Gloss.,WORK,Q1132324,Glossa,"```json { ""wikipedia_page"": ""Glossa"", ""wikidata_id"": ""Q1132324"" } ```",0.09571682497801766
+https://digitalzibaldone.net/node/p3963_1,75,80,Forc.,PER,NIL,Forc.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3963_1,689,694,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json {""wikipedia_page"":""Giovanni Francesco Fortunio"", ""wikidata_id"":""Q3767271""} ```",0.004119916512502287
+https://digitalzibaldone.net/node/p3963_1,745,750,Forc.,PER,Q35245,Etimologia,"```json {""wikipedia_page"": ""Etimologia"", ""wikidata_id"": ""Q35245""} ```",0.006412986169829821
+https://digitalzibaldone.net/node/p3963_1,868,873,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json { ""wikipedia_page"": ""Giovanni Francesco Fortunio"", ""wikidata_id"": ""Q3767271"" } ```",0.02231390900425892
+https://digitalzibaldone.net/node/p3963_1,901,906,Forc.,PER,NIL,Forc.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3963_1,1329,1334,Forc.,PER,Q3767271,Giovanni Francesco Fortunio,"```json { ""wikipedia_page"": ""Giovanni Francesco Fortunio"", ""wikidata_id"": ""Q3767271"" } ```",0.00524285710171513
+https://digitalzibaldone.net/node/p3980_1,441,447,Sancho,PER,NIL,Sancho,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3980_1,706,713,Amberes,LOC,NIL,Amberes,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+https://digitalzibaldone.net/node/p3980_3,42,50,Forcell.,WORK,NIL,Forcell.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3986_3,273,281,Forcell.,PER,NIL,Forcell.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+https://digitalzibaldone.net/node/p3988_1,161,164,odo,WORK,Q137958,Moggio (unità di misura),"```json {""wikipedia_page"":""Moggio (unità di misura)"", ""wikidata_id"":""Q137958""} ```",0.1112807382363383
+https://digitalzibaldone.net/node/p3988_1,246,252,Anacr.,PER,NIL,Anacr.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3988_1,253,256,od.,WORK,NIL,od.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3988_1,412,415,oda,WORK,Q5292,Enciclopedia,"```json { ""wikipedia_page"": ""Enciclopedia"", ""wikidata_id"": ""Q5292"" } ```",0.15549227019039782
+https://digitalzibaldone.net/node/p3992_5,483,493,D. Quijote,WORK,NIL,D. Quijote,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+https://digitalzibaldone.net/node/p3992_5,537,545,la Crus.,WORK,NIL,la Crus.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+https://digitalzibaldone.net/node/p4000_4,694,699,Forc.,WORK,Q397,Lingua latina,"```json { ""wikipedia_page"": ""Lingua latina"", ""wikidata_id"": ""Q397"" } ```",0.10363212978205809
+https://digitalzibaldone.net/node/p4000_4,919,925,Gloss.,WORK,Q40634,Filologia,"```json { ""wikipedia_page"": ""Filologia"", ""wikidata_id"": ""Q40634"" } ```",0.0026221339873482236
+https://digitalzibaldone.net/node/p4000_4,933,939,Gloss.,WORK,Q1132324,Glossa,"```json {""wikipedia_page"":""Glossa"", ""wikidata_id"":""Q1132324""} ```",0.14527542622767908
+https://digitalzibaldone.net/node/p4000_4,1347,1354,Alberti,PER,Q182046,Leon Battista Alberti,"```json {""wikipedia_page"":""Leon Battista Alberti"", ""wikidata_id"":""Q182046""} ```",0.7364815215675011
+https://digitalzibaldone.net/node/p4000_4,1437,1446,la Crusca,WORK,Q338489,Accademia della Crusca,"```json {""wikipedia_page"":""Accademia della Crusca"", ""wikidata_id"":""Q338489""} ```",0.10286071537282075

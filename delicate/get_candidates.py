@@ -22,9 +22,9 @@ def retrieve_candidates(documents, block_size, biencoder, biencoder_params, inde
 def main():
     parser = argparse.ArgumentParser(description="Entity disambiguation with candidate generation")
     parser.add_argument("--documents_path", type=str, default="../ENEIDE/AMD/v1.0/paragraphs_test.csv", help="Path to paragraphs dataset")
-    parser.add_argument("--annotations_path", type=str, default="./results/AMD/NER/gliner_all_b4_e4/output.csv", help="Path to annotations dataset")
+    parser.add_argument("--annotations_path", type=str, default="../ENEIDE/AMD/v1.0/annotations_test.csv", help="Path to annotations dataset")
     parser.add_argument("--output_dir", type=str, default="./camera-ready/EL/AMD/", help="Output directory for results")
-    parser.add_argument("--top_k", type=int, default=20, help="Number of top candidates to retrieve")
+    parser.add_argument("--top_k", type=int, default=50, help="Number of top candidates to retrieve")
     parser.add_argument("--config_path", type=str, default="configs/config_all.json", help="Number of documents in a batch")
 
     args = parser.parse_args()
