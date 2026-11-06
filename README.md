@@ -62,3 +62,17 @@ Example:
 ```
 python run_delicate.py --documents ""../ENEIDE/v1.0/DZ/paragraphs_test.csv" --annotations ""../ENEIDE/v1.0/DZ/annotations_test.csv" --config "configs/config_all.json" ...
 ```
+
+## Citation
+
+```
+@misc{santini2026delicatediachronicentitylinking,
+      title={DELICATE: Diachronic Entity LInking using Classes And Temporal Evidence}, 
+      author={Cristian Santini and Sebastian Barzaghi and Paolo Sernani and Emanuele Frontoni and Mehwish Alam},
+      year={2026},
+      eprint={2511.10404},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.10404}, 
+}
+```
